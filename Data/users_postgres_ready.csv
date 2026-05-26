@@ -1,0 +1,1001 @@
+user_id,signup_date,country,device_type,acquisition_channel,subscription_plan,churn_label,churn_date
+U0001,2024-03-30,USA,Mobile,Google Ads,Premium,1,2024-04-23
+U0002,2024-01-20,India,Mobile,Google Ads,Basic,0,
+U0003,2024-02-10,India,Mobile,Organic,Free,0,
+U0004,2024-03-18,USA,Web,Referral,Premium,0,
+U0005,2024-03-01,UK,Mobile,Instagram,Basic,1,2024-03-27
+U0006,2024-01-29,USA,Mobile,Referral,Premium,0,
+U0007,2024-03-09,Germany,Mobile,Instagram,Premium,0,
+U0008,2024-01-05,USA,Mobile,Google Ads,Free,0,
+U0009,2024-03-19,USA,Mobile,Google Ads,Free,1,2024-04-18
+U0010,2024-01-20,India,Mobile,Organic,Premium,0,
+U0011,2024-01-27,India,Web,Organic,Premium,0,
+U0012,2024-02-12,UK,Mobile,Google Ads,Free,1,2024-03-05
+U0013,2024-03-30,USA,Mobile,Instagram,Free,0,
+U0014,2024-03-01,India,Web,Instagram,Basic,1,2024-04-02
+U0015,2024-01-29,India,Mobile,Referral,Free,1,2024-03-11
+U0016,2024-02-09,UK,Both,Google Ads,Free,0,
+U0017,2024-01-21,India,Web,Instagram,Premium,1,2024-02-11
+U0018,2024-02-29,India,Mobile,Organic,Basic,1,2024-03-30
+U0019,2024-02-12,USA,Mobile,YouTube,Basic,1,2024-03-13
+U0020,2024-03-21,USA,Mobile,Referral,Basic,0,
+U0021,2024-02-27,USA,Web,YouTube,Free,1,2024-03-27
+U0022,2024-02-04,Canada,Both,Organic,Basic,1,2024-03-03
+U0023,2024-02-07,UK,Web,Organic,Premium,1,2024-02-24
+U0024,2024-03-24,USA,Mobile,Google Ads,Premium,1,2024-04-20
+U0025,2024-02-29,UK,Mobile,Referral,Basic,0,
+U0026,2024-01-13,India,Both,Instagram,Premium,0,
+U0027,2024-03-19,India,Mobile,Organic,Basic,0,
+U0028,2024-02-11,India,Mobile,Google Ads,Premium,1,2024-03-09
+U0029,2024-03-13,India,Mobile,Organic,Premium,0,
+U0030,2024-03-13,USA,Both,Instagram,Premium,1,2024-04-16
+U0031,2024-03-08,India,Mobile,Instagram,Free,0,
+U0032,2024-01-17,USA,Mobile,Organic,Free,0,
+U0033,2024-01-30,USA,Mobile,Instagram,Basic,0,
+U0034,2024-01-08,USA,Mobile,Organic,Premium,0,
+U0035,2024-01-21,USA,Mobile,Organic,Premium,0,
+U0036,2024-03-30,India,Mobile,Referral,Basic,0,
+U0037,2024-02-23,USA,Web,Organic,Free,0,
+U0038,2024-03-06,Canada,Mobile,Google Ads,Free,1,2024-04-04
+U0039,2024-03-27,Germany,Both,YouTube,Basic,0,
+U0040,2024-03-19,USA,Mobile,Instagram,Free,1,2024-04-11
+U0041,2024-03-18,USA,Mobile,Google Ads,Free,0,
+U0042,2024-01-31,India,Mobile,Referral,Premium,0,
+U0043,2024-02-07,India,Web,Organic,Free,1,2024-02-27
+U0044,2024-03-07,USA,Mobile,Google Ads,Free,0,
+U0045,2024-01-31,Canada,Web,Instagram,Basic,1,2024-03-15
+U0046,2024-03-30,India,Mobile,Instagram,Basic,1,2024-04-27
+U0047,2024-01-11,USA,Both,Organic,Free,0,
+U0048,2024-03-15,Germany,Both,Google Ads,Basic,0,
+U0049,2024-02-19,USA,Mobile,Google Ads,Basic,1,2024-03-22
+U0050,2024-01-09,USA,Mobile,Google Ads,Premium,1,2024-02-04
+U0051,2024-02-29,India,Web,Referral,Free,1,2024-04-06
+U0052,2024-03-21,Canada,Mobile,Instagram,Free,0,
+U0053,2024-01-18,USA,Web,YouTube,Free,1,2024-02-07
+U0054,2024-02-14,USA,Mobile,Organic,Free,1,2024-03-22
+U0055,2024-03-16,India,Web,Organic,Basic,1,2024-04-04
+U0056,2024-01-18,India,Mobile,Organic,Premium,1,2024-03-03
+U0057,2024-02-08,USA,Mobile,Instagram,Premium,0,
+U0058,2024-02-23,USA,Mobile,Organic,Basic,1,2024-03-13
+U0059,2024-01-21,Canada,Mobile,Instagram,Free,1,2024-02-19
+U0060,2024-02-04,USA,Mobile,Instagram,Basic,1,2024-03-09
+U0061,2024-01-30,USA,Mobile,Organic,Basic,0,
+U0062,2024-03-19,USA,Both,Instagram,Free,0,
+U0063,2024-01-26,USA,Web,Google Ads,Premium,0,
+U0064,2024-02-07,USA,Web,Organic,Basic,1,2024-02-28
+U0065,2024-03-16,Canada,Mobile,Organic,Basic,0,
+U0066,2024-03-17,India,Mobile,Referral,Basic,1,2024-04-02
+U0067,2024-02-09,UK,Both,Instagram,Premium,1,2024-03-24
+U0068,2024-01-25,India,Mobile,Instagram,Premium,1,2024-02-28
+U0069,2024-02-27,India,Web,Organic,Free,1,2024-03-13
+U0070,2024-01-24,USA,Mobile,Google Ads,Free,0,
+U0071,2024-01-21,India,Mobile,Referral,Free,0,
+U0072,2024-02-12,Canada,Mobile,Google Ads,Premium,0,
+U0073,2024-03-20,USA,Mobile,Referral,Free,1,2024-04-25
+U0074,2024-01-21,UK,Both,Organic,Premium,0,
+U0075,2024-02-11,India,Mobile,Instagram,Basic,0,
+U0076,2024-01-06,USA,Both,Organic,Free,0,
+U0077,2024-01-13,USA,Web,Referral,Premium,0,
+U0078,2024-02-01,India,Mobile,Instagram,Basic,0,
+U0079,2024-01-06,India,Both,YouTube,Free,0,
+U0080,2024-02-14,USA,Both,Organic,Free,0,
+U0081,2024-01-28,India,Mobile,Organic,Premium,0,
+U0082,2024-01-11,USA,Mobile,Organic,Basic,1,2024-01-31
+U0083,2024-02-29,USA,Web,Organic,Free,0,
+U0084,2024-02-25,India,Mobile,Referral,Premium,0,
+U0085,2024-01-23,Germany,Mobile,Instagram,Free,0,
+U0086,2024-01-13,Canada,Mobile,Instagram,Basic,0,
+U0087,2024-03-12,India,Mobile,Google Ads,Premium,0,
+U0088,2024-03-08,India,Both,Organic,Basic,1,2024-03-24
+U0089,2024-03-18,India,Mobile,Google Ads,Basic,0,
+U0090,2024-03-25,India,Mobile,Organic,Premium,0,
+U0091,2024-01-31,UK,Mobile,YouTube,Free,0,
+U0092,2024-03-24,Germany,Mobile,Referral,Basic,1,2024-04-11
+U0093,2024-02-23,India,Mobile,Google Ads,Premium,0,
+U0094,2024-01-20,UK,Mobile,Organic,Basic,1,2024-02-11
+U0095,2024-03-27,USA,Mobile,Organic,Basic,0,
+U0096,2024-02-09,USA,Mobile,Google Ads,Premium,1,2024-02-29
+U0097,2024-02-27,India,Web,Referral,Basic,1,2024-04-06
+U0098,2024-01-17,India,Mobile,Google Ads,Premium,0,
+U0099,2024-03-15,India,Mobile,Instagram,Premium,1,2024-04-10
+U0100,2024-02-21,India,Mobile,Referral,Basic,0,
+U0101,2024-01-03,USA,Mobile,Instagram,Basic,1,2024-02-06
+U0102,2024-03-03,USA,Mobile,Organic,Free,1,2024-03-27
+U0103,2024-02-25,India,Mobile,Instagram,Basic,0,
+U0104,2024-02-25,India,Mobile,Organic,Basic,0,
+U0105,2024-03-17,India,Mobile,Referral,Free,1,2024-04-06
+U0106,2024-03-13,USA,Mobile,Google Ads,Free,0,
+U0107,2024-01-19,Canada,Mobile,Google Ads,Free,0,
+U0108,2024-01-25,USA,Mobile,Google Ads,Basic,0,
+U0109,2024-01-30,Canada,Mobile,Organic,Free,1,2024-02-23
+U0110,2024-03-27,India,Web,Organic,Basic,0,
+U0111,2024-02-26,India,Web,Google Ads,Premium,1,2024-03-28
+U0112,2024-01-19,India,Both,Google Ads,Premium,0,
+U0113,2024-03-27,India,Mobile,YouTube,Basic,0,
+U0114,2024-03-16,Canada,Mobile,Google Ads,Premium,0,
+U0115,2024-03-30,India,Mobile,Google Ads,Basic,1,2024-05-14
+U0116,2024-01-26,USA,Both,Referral,Free,0,
+U0117,2024-01-21,USA,Web,Instagram,Basic,1,2024-02-21
+U0118,2024-01-22,USA,Mobile,Organic,Free,0,
+U0119,2024-01-30,India,Mobile,Instagram,Basic,0,
+U0120,2024-03-04,Germany,Mobile,YouTube,Free,0,
+U0121,2024-01-16,Germany,Web,Google Ads,Basic,1,2024-02-03
+U0122,2024-02-08,India,Mobile,Google Ads,Free,1,2024-03-14
+U0123,2024-01-23,India,Mobile,Instagram,Premium,0,
+U0124,2024-03-30,USA,Mobile,Organic,Free,1,2024-04-14
+U0125,2024-03-04,Germany,Web,Google Ads,Free,0,
+U0126,2024-03-21,Germany,Web,Google Ads,Free,0,
+U0127,2024-03-26,India,Mobile,YouTube,Free,0,
+U0128,2024-02-21,USA,Mobile,Organic,Free,0,
+U0129,2024-01-30,Canada,Mobile,Organic,Basic,0,
+U0130,2024-03-11,India,Mobile,Google Ads,Free,0,
+U0131,2024-03-22,UK,Mobile,Organic,Basic,0,
+U0132,2024-01-30,India,Mobile,Referral,Basic,0,
+U0133,2024-03-20,USA,Mobile,Google Ads,Premium,0,
+U0134,2024-02-25,Canada,Web,Instagram,Basic,1,2024-04-09
+U0135,2024-01-10,Germany,Mobile,Referral,Basic,0,
+U0136,2024-02-04,India,Mobile,Organic,Free,1,2024-02-27
+U0137,2024-03-12,USA,Both,Instagram,Basic,0,
+U0138,2024-02-08,India,Mobile,Google Ads,Basic,1,2024-03-02
+U0139,2024-01-31,USA,Both,Organic,Free,0,
+U0140,2024-01-20,USA,Both,Referral,Premium,1,2024-02-23
+U0141,2024-01-27,India,Web,Instagram,Basic,0,
+U0142,2024-01-25,India,Both,Google Ads,Free,0,
+U0143,2024-01-02,Germany,Both,Organic,Premium,1,2024-02-07
+U0144,2024-01-12,USA,Mobile,YouTube,Premium,0,
+U0145,2024-02-22,USA,Web,Instagram,Free,0,
+U0146,2024-03-06,UK,Both,YouTube,Premium,1,2024-03-30
+U0147,2024-03-03,UK,Mobile,Organic,Basic,1,2024-03-20
+U0148,2024-01-24,India,Web,Organic,Free,1,2024-02-22
+U0149,2024-02-11,UK,Mobile,Referral,Basic,1,2024-03-13
+U0150,2024-01-10,Canada,Both,Google Ads,Premium,1,2024-02-07
+U0151,2024-03-10,India,Web,Google Ads,Basic,0,
+U0152,2024-02-09,UK,Mobile,Organic,Premium,1,2024-02-27
+U0153,2024-02-27,India,Mobile,Google Ads,Basic,0,
+U0154,2024-03-22,India,Web,Google Ads,Basic,0,
+U0155,2024-01-04,USA,Mobile,Instagram,Basic,0,
+U0156,2024-01-19,India,Both,Instagram,Basic,0,
+U0157,2024-02-03,USA,Mobile,Referral,Basic,0,
+U0158,2024-02-12,Canada,Web,Referral,Premium,0,
+U0159,2024-01-17,USA,Mobile,Google Ads,Premium,0,
+U0160,2024-02-26,USA,Both,Google Ads,Free,0,
+U0161,2024-02-29,USA,Web,Google Ads,Free,0,
+U0162,2024-02-08,UK,Both,YouTube,Free,1,2024-02-26
+U0163,2024-03-30,USA,Mobile,Google Ads,Basic,0,
+U0164,2024-03-04,India,Web,Referral,Free,0,
+U0165,2024-03-02,USA,Mobile,Organic,Free,1,2024-03-28
+U0166,2024-02-17,Canada,Mobile,Google Ads,Premium,0,
+U0167,2024-01-16,India,Mobile,Google Ads,Premium,1,2024-02-07
+U0168,2024-02-15,Germany,Mobile,Organic,Premium,0,
+U0169,2024-03-30,UK,Mobile,Organic,Free,1,2024-04-22
+U0170,2024-02-04,USA,Mobile,Organic,Basic,1,2024-03-08
+U0171,2024-03-08,UK,Mobile,Referral,Premium,0,
+U0172,2024-01-12,India,Mobile,Organic,Basic,0,
+U0173,2024-01-14,Canada,Web,Referral,Basic,0,
+U0174,2024-01-02,Canada,Mobile,Instagram,Free,1,2024-02-06
+U0175,2024-02-14,Germany,Mobile,Referral,Free,0,
+U0176,2024-02-17,India,Mobile,YouTube,Basic,0,
+U0177,2024-02-27,India,Web,Instagram,Free,0,
+U0178,2024-02-27,India,Both,Google Ads,Basic,1,2024-03-25
+U0179,2024-01-20,India,Mobile,Google Ads,Premium,0,
+U0180,2024-01-23,USA,Mobile,YouTube,Basic,1,2024-02-14
+U0181,2024-01-23,USA,Mobile,Instagram,Premium,0,
+U0182,2024-03-24,India,Mobile,Google Ads,Free,0,
+U0183,2024-03-27,India,Mobile,Organic,Basic,1,2024-04-21
+U0184,2024-01-27,Canada,Mobile,Google Ads,Free,0,
+U0185,2024-02-27,USA,Mobile,Referral,Free,0,
+U0186,2024-01-19,Canada,Mobile,YouTube,Free,0,
+U0187,2024-03-27,India,Mobile,Instagram,Basic,0,
+U0188,2024-03-11,USA,Mobile,Organic,Basic,0,
+U0189,2024-02-01,Germany,Web,Google Ads,Free,0,
+U0190,2024-02-24,USA,Mobile,Referral,Basic,0,
+U0191,2024-02-17,India,Web,Google Ads,Premium,0,
+U0192,2024-02-18,UK,Web,Google Ads,Basic,0,
+U0193,2024-01-21,India,Mobile,Referral,Basic,0,
+U0194,2024-02-03,USA,Both,Instagram,Basic,1,2024-03-07
+U0195,2024-02-16,India,Mobile,Google Ads,Basic,1,2024-03-28
+U0196,2024-02-20,USA,Web,Google Ads,Basic,1,2024-03-23
+U0197,2024-03-30,India,Mobile,Instagram,Premium,1,2024-04-27
+U0198,2024-03-28,UK,Both,Google Ads,Premium,0,
+U0199,2024-03-24,USA,Both,Instagram,Basic,0,
+U0200,2024-01-01,India,Mobile,Organic,Premium,1,2024-02-07
+U0201,2024-01-30,USA,Web,Organic,Free,0,
+U0202,2024-03-01,India,Mobile,Referral,Premium,1,2024-03-23
+U0203,2024-03-27,USA,Both,Google Ads,Free,0,
+U0204,2024-03-17,Germany,Web,Organic,Basic,0,
+U0205,2024-01-30,UK,Mobile,Organic,Basic,0,
+U0206,2024-01-20,USA,Mobile,Google Ads,Free,1,2024-03-05
+U0207,2024-03-17,India,Web,Organic,Basic,0,
+U0208,2024-02-14,USA,Mobile,Instagram,Basic,1,2024-03-14
+U0209,2024-03-19,USA,Web,Google Ads,Basic,1,2024-04-13
+U0210,2024-01-01,India,Both,Instagram,Free,1,2024-02-05
+U0211,2024-02-29,UK,Mobile,Organic,Basic,1,2024-03-25
+U0212,2024-02-28,USA,Both,Organic,Basic,0,
+U0213,2024-03-26,USA,Mobile,YouTube,Basic,0,
+U0214,2024-01-07,UK,Mobile,Referral,Basic,0,
+U0215,2024-01-31,USA,Both,Referral,Basic,1,2024-02-15
+U0216,2024-02-03,USA,Web,Google Ads,Basic,0,
+U0217,2024-01-18,India,Mobile,Organic,Basic,0,
+U0218,2024-02-04,India,Mobile,Google Ads,Basic,0,
+U0219,2024-01-24,Canada,Web,Referral,Basic,0,
+U0220,2024-03-03,India,Web,Google Ads,Free,0,
+U0221,2024-01-24,USA,Both,Google Ads,Free,1,2024-02-29
+U0222,2024-03-24,Germany,Mobile,Organic,Basic,0,
+U0223,2024-01-21,India,Mobile,Google Ads,Basic,1,2024-02-12
+U0224,2024-03-08,Germany,Mobile,Google Ads,Free,0,
+U0225,2024-01-17,Germany,Mobile,Google Ads,Free,1,2024-02-06
+U0226,2024-03-23,India,Mobile,Google Ads,Free,0,
+U0227,2024-02-05,USA,Web,Organic,Free,1,2024-03-16
+U0228,2024-02-21,USA,Web,Organic,Free,0,
+U0229,2024-03-11,India,Both,Organic,Premium,1,2024-04-10
+U0230,2024-01-08,India,Web,Organic,Basic,1,2024-02-04
+U0231,2024-03-13,India,Web,YouTube,Basic,0,
+U0232,2024-02-23,India,Mobile,YouTube,Premium,1,2024-03-17
+U0233,2024-03-29,India,Web,Organic,Basic,0,
+U0234,2024-03-25,Canada,Both,Organic,Premium,0,
+U0235,2024-02-11,Canada,Both,Google Ads,Basic,0,
+U0236,2024-01-18,India,Both,Referral,Basic,1,2024-02-04
+U0237,2024-01-30,India,Mobile,Referral,Free,1,2024-03-08
+U0238,2024-02-26,Germany,Web,Organic,Premium,1,2024-04-01
+U0239,2024-02-08,USA,Mobile,Organic,Free,0,
+U0240,2024-01-12,USA,Mobile,Google Ads,Basic,1,2024-02-25
+U0241,2024-02-16,India,Web,Organic,Premium,0,
+U0242,2024-01-22,USA,Web,YouTube,Free,0,
+U0243,2024-02-23,Germany,Mobile,Organic,Free,1,2024-03-17
+U0244,2024-02-28,India,Mobile,Google Ads,Free,1,2024-03-31
+U0245,2024-03-02,India,Mobile,Organic,Free,1,2024-04-05
+U0246,2024-01-06,USA,Mobile,Google Ads,Basic,0,
+U0247,2024-01-08,Germany,Both,Organic,Basic,0,
+U0248,2024-01-31,India,Web,YouTube,Basic,0,
+U0249,2024-01-19,UK,Mobile,YouTube,Premium,0,
+U0250,2024-02-29,UK,Mobile,Google Ads,Free,0,
+U0251,2024-02-24,India,Mobile,Google Ads,Basic,1,2024-03-17
+U0252,2024-01-14,USA,Mobile,Google Ads,Basic,1,2024-02-14
+U0253,2024-03-04,UK,Mobile,YouTube,Basic,1,2024-03-20
+U0254,2024-03-20,USA,Mobile,Instagram,Free,0,
+U0255,2024-03-20,India,Mobile,Google Ads,Premium,0,
+U0256,2024-02-17,Germany,Mobile,Referral,Free,0,
+U0257,2024-01-17,USA,Mobile,Google Ads,Premium,0,
+U0258,2024-01-25,Canada,Mobile,Organic,Premium,1,2024-02-16
+U0259,2024-01-03,India,Both,Organic,Basic,1,2024-02-09
+U0260,2024-01-09,India,Mobile,Organic,Premium,1,2024-01-26
+U0261,2024-03-06,USA,Web,Organic,Basic,0,
+U0262,2024-03-09,India,Mobile,Organic,Basic,1,2024-04-09
+U0263,2024-03-02,Germany,Mobile,Instagram,Basic,1,2024-04-03
+U0264,2024-03-21,India,Mobile,Referral,Premium,1,2024-04-20
+U0265,2024-02-07,India,Mobile,Organic,Premium,0,
+U0266,2024-03-22,India,Mobile,YouTube,Basic,0,
+U0267,2024-01-25,India,Both,Google Ads,Basic,0,
+U0268,2024-02-11,India,Mobile,Organic,Basic,1,2024-03-22
+U0269,2024-02-20,India,Mobile,YouTube,Basic,0,
+U0270,2024-03-21,USA,Both,Organic,Basic,0,
+U0271,2024-03-24,India,Web,Google Ads,Free,0,
+U0272,2024-01-26,India,Web,Google Ads,Free,0,
+U0273,2024-03-07,India,Mobile,Google Ads,Basic,1,2024-04-10
+U0274,2024-01-28,India,Mobile,Organic,Basic,0,
+U0275,2024-01-25,USA,Web,Organic,Basic,1,2024-02-10
+U0276,2024-03-25,India,Both,Google Ads,Basic,0,
+U0277,2024-03-27,USA,Web,Organic,Basic,0,
+U0278,2024-03-07,India,Web,Instagram,Free,0,
+U0279,2024-01-25,USA,Both,Google Ads,Basic,0,
+U0280,2024-03-21,India,Both,YouTube,Basic,0,
+U0281,2024-02-08,Canada,Mobile,Organic,Premium,0,
+U0282,2024-02-05,India,Mobile,Organic,Premium,0,
+U0283,2024-03-01,India,Mobile,Organic,Premium,0,
+U0284,2024-02-06,UK,Mobile,Google Ads,Free,1,2024-02-25
+U0285,2024-03-09,India,Mobile,Referral,Free,0,
+U0286,2024-02-20,UK,Mobile,Referral,Basic,1,2024-03-16
+U0287,2024-01-17,Germany,Web,Instagram,Basic,0,
+U0288,2024-02-01,Canada,Mobile,Referral,Free,0,
+U0289,2024-01-20,UK,Mobile,Instagram,Free,0,
+U0290,2024-01-10,Germany,Mobile,Referral,Premium,0,
+U0291,2024-02-17,USA,Both,Google Ads,Premium,0,
+U0292,2024-03-22,Canada,Both,Organic,Premium,0,
+U0293,2024-01-30,India,Both,Instagram,Free,1,2024-03-15
+U0294,2024-02-16,Germany,Mobile,Google Ads,Basic,1,2024-03-05
+U0295,2024-03-19,India,Mobile,Organic,Basic,1,2024-04-17
+U0296,2024-01-08,Germany,Mobile,Referral,Basic,1,2024-02-14
+U0297,2024-01-03,Canada,Both,Referral,Free,1,2024-01-29
+U0298,2024-03-19,Canada,Mobile,Google Ads,Basic,0,
+U0299,2024-03-13,India,Mobile,Google Ads,Premium,1,2024-03-29
+U0300,2024-03-23,USA,Web,Organic,Free,1,2024-04-26
+U0301,2024-02-20,India,Mobile,Organic,Basic,0,
+U0302,2024-02-13,UK,Web,Referral,Premium,0,
+U0303,2024-03-24,India,Web,Referral,Free,0,
+U0304,2024-01-14,India,Mobile,Organic,Basic,0,
+U0305,2024-01-22,India,Mobile,Referral,Basic,0,
+U0306,2024-03-22,Canada,Web,Google Ads,Basic,0,
+U0307,2024-01-26,India,Web,Google Ads,Premium,0,
+U0308,2024-02-08,USA,Both,Google Ads,Premium,0,
+U0309,2024-03-23,USA,Mobile,Instagram,Free,1,2024-04-20
+U0310,2024-02-01,India,Mobile,Organic,Free,0,
+U0311,2024-02-26,USA,Mobile,Organic,Basic,0,
+U0312,2024-03-16,USA,Mobile,Referral,Premium,0,
+U0313,2024-03-21,India,Mobile,YouTube,Premium,0,
+U0314,2024-02-09,USA,Mobile,Organic,Free,0,
+U0315,2024-01-26,USA,Web,Google Ads,Premium,0,
+U0316,2024-03-16,Germany,Web,Instagram,Basic,0,
+U0317,2024-02-12,USA,Web,Instagram,Premium,0,
+U0318,2024-02-06,Germany,Mobile,Referral,Premium,0,
+U0319,2024-03-02,USA,Mobile,YouTube,Free,0,
+U0320,2024-03-15,USA,Both,Organic,Basic,1,2024-04-21
+U0321,2024-03-27,India,Mobile,Google Ads,Premium,0,
+U0322,2024-02-02,USA,Web,Organic,Premium,0,
+U0323,2024-03-21,Germany,Mobile,YouTube,Premium,1,2024-04-20
+U0324,2024-02-17,India,Mobile,Referral,Premium,0,
+U0325,2024-03-06,India,Web,Organic,Premium,0,
+U0326,2024-03-15,USA,Mobile,Instagram,Basic,0,
+U0327,2024-02-16,India,Mobile,Referral,Basic,0,
+U0328,2024-01-21,Canada,Mobile,Organic,Free,0,
+U0329,2024-02-28,India,Both,Google Ads,Basic,0,
+U0330,2024-03-04,Germany,Mobile,Referral,Free,1,2024-04-04
+U0331,2024-01-09,USA,Mobile,Google Ads,Premium,0,
+U0332,2024-03-23,Germany,Web,Organic,Free,0,
+U0333,2024-01-18,USA,Web,Google Ads,Premium,0,
+U0334,2024-01-19,Canada,Mobile,Referral,Free,0,
+U0335,2024-03-22,India,Both,Organic,Basic,0,
+U0336,2024-02-25,India,Mobile,Google Ads,Basic,1,2024-04-03
+U0337,2024-01-07,India,Mobile,Referral,Free,1,2024-02-12
+U0338,2024-02-16,UK,Mobile,Organic,Free,0,
+U0339,2024-02-20,India,Mobile,Google Ads,Premium,0,
+U0340,2024-03-28,India,Both,Instagram,Basic,0,
+U0341,2024-03-04,Germany,Web,Organic,Premium,0,
+U0342,2024-03-23,Germany,Mobile,Instagram,Basic,0,
+U0343,2024-01-28,India,Web,Referral,Premium,1,2024-02-18
+U0344,2024-02-12,USA,Web,Instagram,Free,0,
+U0345,2024-01-04,India,Mobile,Referral,Free,1,2024-01-25
+U0346,2024-03-24,India,Web,Organic,Free,0,
+U0347,2024-01-30,India,Both,Organic,Premium,1,2024-02-19
+U0348,2024-03-19,India,Mobile,Organic,Basic,0,
+U0349,2024-01-17,Canada,Mobile,Referral,Basic,0,
+U0350,2024-02-03,Canada,Mobile,Organic,Free,0,
+U0351,2024-02-01,UK,Both,Referral,Premium,1,2024-02-29
+U0352,2024-01-18,Germany,Web,YouTube,Basic,0,
+U0353,2024-03-15,USA,Web,Instagram,Free,1,2024-04-15
+U0354,2024-02-18,India,Web,Referral,Basic,0,
+U0355,2024-02-18,India,Both,Organic,Basic,1,2024-03-27
+U0356,2024-01-25,India,Web,Instagram,Free,0,
+U0357,2024-01-01,India,Mobile,Referral,Basic,0,
+U0358,2024-01-09,India,Mobile,Google Ads,Basic,0,
+U0359,2024-03-22,USA,Mobile,Instagram,Premium,0,
+U0360,2024-03-16,India,Mobile,Organic,Premium,1,2024-04-30
+U0361,2024-03-31,USA,Mobile,Organic,Free,0,
+U0362,2024-03-18,India,Both,Organic,Basic,1,2024-04-30
+U0363,2024-01-30,USA,Both,Organic,Basic,0,
+U0364,2024-03-26,India,Mobile,Referral,Free,0,
+U0365,2024-01-21,India,Mobile,Organic,Premium,0,
+U0366,2024-02-01,UK,Both,Google Ads,Premium,0,
+U0367,2024-01-07,USA,Mobile,Google Ads,Free,1,2024-02-18
+U0368,2024-03-04,India,Mobile,Organic,Premium,1,2024-03-29
+U0369,2024-02-13,USA,Mobile,Referral,Basic,0,
+U0370,2024-01-27,USA,Mobile,Instagram,Premium,0,
+U0371,2024-03-27,Germany,Both,Organic,Premium,0,
+U0372,2024-02-20,USA,Mobile,Google Ads,Free,0,
+U0373,2024-02-20,India,Web,Organic,Free,1,2024-03-23
+U0374,2024-01-09,UK,Both,Organic,Basic,1,2024-02-10
+U0375,2024-02-09,UK,Web,Instagram,Free,0,
+U0376,2024-03-24,India,Mobile,Organic,Free,1,2024-05-02
+U0377,2024-02-18,Canada,Mobile,YouTube,Free,0,
+U0378,2024-03-29,USA,Mobile,Google Ads,Premium,0,
+U0379,2024-01-24,UK,Both,Instagram,Basic,0,
+U0380,2024-03-14,India,Web,Google Ads,Premium,0,
+U0381,2024-02-24,India,Both,Google Ads,Basic,1,2024-03-15
+U0382,2024-02-11,Germany,Mobile,Instagram,Free,1,2024-03-04
+U0383,2024-02-15,USA,Mobile,Instagram,Free,1,2024-03-18
+U0384,2024-03-15,UK,Mobile,Referral,Premium,1,2024-04-17
+U0385,2024-03-28,USA,Mobile,Organic,Free,0,
+U0386,2024-01-05,India,Web,Google Ads,Premium,1,2024-01-25
+U0387,2024-02-25,USA,Mobile,Instagram,Free,1,2024-03-31
+U0388,2024-02-13,Canada,Mobile,Instagram,Basic,0,
+U0389,2024-02-28,USA,Mobile,Instagram,Basic,0,
+U0390,2024-01-15,India,Web,Google Ads,Premium,0,
+U0391,2024-01-03,India,Mobile,Organic,Premium,0,
+U0392,2024-03-04,India,Both,Instagram,Premium,0,
+U0393,2024-01-03,Germany,Both,Organic,Basic,0,
+U0394,2024-03-20,USA,Mobile,Google Ads,Free,0,
+U0395,2024-03-29,India,Both,Instagram,Free,0,
+U0396,2024-01-08,India,Web,Organic,Premium,0,
+U0397,2024-02-21,India,Mobile,Organic,Basic,0,
+U0398,2024-01-09,USA,Both,Organic,Premium,1,2024-01-29
+U0399,2024-01-13,India,Web,Organic,Basic,1,2024-02-01
+U0400,2024-02-12,Canada,Web,Instagram,Basic,1,2024-03-18
+U0401,2024-01-25,USA,Both,Instagram,Basic,0,
+U0402,2024-02-02,India,Both,YouTube,Premium,0,
+U0403,2024-01-31,Germany,Mobile,Google Ads,Premium,0,
+U0404,2024-01-25,India,Both,Organic,Basic,0,
+U0405,2024-02-01,Germany,Mobile,Organic,Free,0,
+U0406,2024-02-26,India,Both,Organic,Basic,0,
+U0407,2024-01-03,UK,Mobile,Referral,Premium,1,2024-01-19
+U0408,2024-01-09,USA,Web,Organic,Free,0,
+U0409,2024-03-05,USA,Mobile,Referral,Premium,1,2024-03-26
+U0410,2024-03-02,India,Web,Organic,Free,1,2024-03-27
+U0411,2024-03-11,India,Web,Referral,Basic,0,
+U0412,2024-01-18,India,Mobile,Organic,Premium,0,
+U0413,2024-03-29,Germany,Both,Organic,Basic,1,2024-04-18
+U0414,2024-03-04,USA,Web,Instagram,Basic,1,2024-04-11
+U0415,2024-03-02,India,Mobile,Organic,Basic,1,2024-04-04
+U0416,2024-03-26,USA,Web,Organic,Basic,1,2024-04-29
+U0417,2024-01-31,India,Mobile,Organic,Free,1,2024-02-18
+U0418,2024-02-24,India,Mobile,Organic,Basic,1,2024-03-13
+U0419,2024-02-29,India,Mobile,Organic,Basic,1,2024-03-17
+U0420,2024-03-25,Canada,Mobile,Instagram,Free,0,
+U0421,2024-02-14,USA,Web,YouTube,Premium,0,
+U0422,2024-03-25,India,Mobile,Organic,Basic,0,
+U0423,2024-01-10,Germany,Mobile,Google Ads,Free,1,2024-01-29
+U0424,2024-02-27,Canada,Web,Google Ads,Free,0,
+U0425,2024-03-15,India,Web,Organic,Basic,0,
+U0426,2024-03-09,Germany,Mobile,Instagram,Basic,0,
+U0427,2024-01-30,Germany,Web,Organic,Basic,1,2024-03-11
+U0428,2024-03-12,USA,Both,Google Ads,Premium,0,
+U0429,2024-01-18,USA,Mobile,Organic,Free,0,
+U0430,2024-02-01,USA,Mobile,Referral,Basic,0,
+U0431,2024-01-29,India,Mobile,Instagram,Basic,1,2024-02-20
+U0432,2024-01-22,India,Web,Google Ads,Basic,0,
+U0433,2024-01-11,India,Mobile,Instagram,Free,0,
+U0434,2024-02-04,India,Mobile,Organic,Basic,0,
+U0435,2024-03-20,India,Mobile,Referral,Free,0,
+U0436,2024-02-09,India,Both,Organic,Basic,1,2024-02-27
+U0437,2024-01-31,Germany,Mobile,Referral,Basic,0,
+U0438,2024-01-31,India,Both,Instagram,Free,1,2024-02-15
+U0439,2024-03-28,USA,Mobile,YouTube,Basic,0,
+U0440,2024-02-02,USA,Web,Organic,Basic,1,2024-02-28
+U0441,2024-02-16,USA,Web,YouTube,Basic,1,2024-03-30
+U0442,2024-01-15,India,Mobile,Instagram,Basic,0,
+U0443,2024-01-31,Canada,Mobile,Organic,Premium,0,
+U0444,2024-03-06,India,Mobile,Organic,Basic,0,
+U0445,2024-02-09,India,Mobile,Instagram,Basic,1,2024-02-24
+U0446,2024-01-09,Germany,Mobile,Organic,Basic,0,
+U0447,2024-03-30,Canada,Web,Instagram,Free,0,
+U0448,2024-03-31,India,Web,Instagram,Free,1,2024-04-23
+U0449,2024-01-11,USA,Web,Organic,Free,1,2024-02-19
+U0450,2024-03-26,India,Both,Instagram,Free,0,
+U0451,2024-03-29,India,Mobile,Instagram,Basic,0,
+U0452,2024-03-07,Canada,Mobile,Organic,Free,0,
+U0453,2024-03-24,USA,Web,Instagram,Free,1,2024-05-03
+U0454,2024-03-07,USA,Mobile,Organic,Free,0,
+U0455,2024-02-20,Germany,Web,Referral,Basic,0,
+U0456,2024-02-01,India,Both,Google Ads,Basic,0,
+U0457,2024-02-17,India,Web,Google Ads,Premium,0,
+U0458,2024-02-12,India,Both,Instagram,Basic,0,
+U0459,2024-02-29,UK,Mobile,Referral,Basic,1,2024-04-11
+U0460,2024-03-20,Germany,Web,Google Ads,Premium,1,2024-04-10
+U0461,2024-03-12,USA,Web,Instagram,Premium,0,
+U0462,2024-02-25,India,Mobile,Instagram,Basic,0,
+U0463,2024-03-03,USA,Mobile,Organic,Basic,1,2024-03-19
+U0464,2024-01-10,Canada,Mobile,Instagram,Basic,1,2024-02-19
+U0465,2024-01-08,USA,Mobile,Organic,Basic,0,
+U0466,2024-01-14,India,Web,Google Ads,Premium,0,
+U0467,2024-01-13,UK,Mobile,Organic,Premium,0,
+U0468,2024-03-01,India,Mobile,Instagram,Basic,1,2024-03-28
+U0469,2024-01-26,India,Mobile,Instagram,Free,0,
+U0470,2024-03-07,USA,Both,Referral,Premium,0,
+U0471,2024-03-30,India,Mobile,Instagram,Free,1,2024-04-30
+U0472,2024-01-02,UK,Both,YouTube,Free,1,2024-02-15
+U0473,2024-03-11,India,Mobile,Google Ads,Basic,1,2024-04-18
+U0474,2024-03-25,India,Mobile,Organic,Premium,1,2024-04-15
+U0475,2024-02-14,Germany,Mobile,Referral,Basic,0,
+U0476,2024-01-20,India,Mobile,Google Ads,Basic,1,2024-02-08
+U0477,2024-03-30,USA,Mobile,Google Ads,Free,1,2024-05-11
+U0478,2024-03-13,India,Both,Referral,Basic,1,2024-04-02
+U0479,2024-03-20,UK,Mobile,Organic,Premium,0,
+U0480,2024-03-15,India,Mobile,Google Ads,Free,0,
+U0481,2024-03-23,India,Mobile,Organic,Basic,0,
+U0482,2024-03-30,USA,Mobile,Instagram,Basic,0,
+U0483,2024-02-08,UK,Mobile,Organic,Premium,0,
+U0484,2024-02-03,USA,Web,Referral,Basic,1,2024-02-20
+U0485,2024-02-27,India,Mobile,Instagram,Free,1,2024-03-13
+U0486,2024-01-12,India,Mobile,YouTube,Basic,0,
+U0487,2024-02-05,USA,Mobile,Organic,Basic,0,
+U0488,2024-03-05,India,Web,YouTube,Basic,0,
+U0489,2024-01-10,Canada,Both,Google Ads,Basic,1,2024-02-02
+U0490,2024-02-22,India,Mobile,Google Ads,Free,0,
+U0491,2024-03-26,USA,Web,Instagram,Free,0,
+U0492,2024-03-26,Germany,Mobile,Google Ads,Free,1,2024-04-24
+U0493,2024-02-13,Germany,Mobile,Google Ads,Free,1,2024-03-02
+U0494,2024-01-17,India,Mobile,Google Ads,Basic,1,2024-02-15
+U0495,2024-03-26,India,Web,Organic,Free,0,
+U0496,2024-01-18,Germany,Web,YouTube,Premium,0,
+U0497,2024-03-20,Canada,Mobile,Referral,Basic,0,
+U0498,2024-03-09,Germany,Mobile,Instagram,Basic,0,
+U0499,2024-03-17,USA,Both,Organic,Basic,0,
+U0500,2024-03-19,UK,Mobile,Referral,Premium,0,
+U0501,2024-02-09,India,Mobile,Organic,Premium,1,2024-03-12
+U0502,2024-03-12,India,Mobile,Referral,Basic,0,
+U0503,2024-02-11,Canada,Both,Organic,Free,0,
+U0504,2024-03-04,India,Web,Referral,Free,1,2024-04-08
+U0505,2024-03-23,Canada,Mobile,Referral,Premium,0,
+U0506,2024-03-14,USA,Mobile,Google Ads,Basic,0,
+U0507,2024-02-06,USA,Mobile,Instagram,Free,0,
+U0508,2024-01-22,India,Mobile,Referral,Basic,1,2024-02-12
+U0509,2024-01-29,Germany,Both,YouTube,Free,1,2024-03-09
+U0510,2024-03-23,USA,Web,Organic,Free,0,
+U0511,2024-02-28,Canada,Mobile,Organic,Basic,0,
+U0512,2024-02-10,Canada,Mobile,Referral,Basic,0,
+U0513,2024-01-10,Germany,Mobile,Instagram,Premium,1,2024-01-27
+U0514,2024-03-01,India,Web,Organic,Premium,0,
+U0515,2024-02-01,India,Mobile,Google Ads,Basic,0,
+U0516,2024-02-27,USA,Mobile,Organic,Free,0,
+U0517,2024-02-20,USA,Both,Organic,Basic,0,
+U0518,2024-01-31,Germany,Both,Instagram,Free,0,
+U0519,2024-03-30,India,Web,Instagram,Premium,0,
+U0520,2024-02-19,USA,Web,Instagram,Free,0,
+U0521,2024-02-09,USA,Mobile,Referral,Free,1,2024-03-05
+U0522,2024-03-09,USA,Mobile,Organic,Free,0,
+U0523,2024-03-09,Germany,Both,Google Ads,Basic,1,2024-04-15
+U0524,2024-02-05,India,Mobile,Organic,Free,0,
+U0525,2024-03-26,India,Web,Instagram,Premium,1,2024-05-08
+U0526,2024-03-11,India,Web,Instagram,Basic,1,2024-04-13
+U0527,2024-03-11,India,Mobile,Google Ads,Premium,0,
+U0528,2024-01-03,India,Both,YouTube,Premium,0,
+U0529,2024-03-08,UK,Both,Google Ads,Free,1,2024-03-26
+U0530,2024-02-26,USA,Mobile,YouTube,Basic,0,
+U0531,2024-03-28,India,Mobile,Instagram,Free,0,
+U0532,2024-01-17,Germany,Both,YouTube,Free,0,
+U0533,2024-01-18,USA,Mobile,Referral,Premium,0,
+U0534,2024-03-02,India,Mobile,Organic,Free,0,
+U0535,2024-02-24,USA,Web,Instagram,Free,1,2024-03-14
+U0536,2024-03-26,India,Mobile,Organic,Premium,0,
+U0537,2024-02-29,India,Mobile,Organic,Free,0,
+U0538,2024-01-16,USA,Mobile,Organic,Basic,0,
+U0539,2024-02-05,UK,Mobile,Google Ads,Basic,1,2024-02-24
+U0540,2024-02-01,USA,Mobile,Google Ads,Free,0,
+U0541,2024-01-11,India,Web,YouTube,Basic,0,
+U0542,2024-01-13,USA,Both,Instagram,Free,0,
+U0543,2024-03-19,USA,Mobile,Google Ads,Premium,1,2024-05-03
+U0544,2024-03-15,UK,Both,Instagram,Basic,0,
+U0545,2024-02-06,India,Mobile,Google Ads,Free,0,
+U0546,2024-02-13,UK,Mobile,Referral,Free,1,2024-03-03
+U0547,2024-02-10,USA,Web,Organic,Premium,0,
+U0548,2024-03-28,India,Mobile,Organic,Free,1,2024-04-25
+U0549,2024-02-07,USA,Mobile,Organic,Free,0,
+U0550,2024-01-11,Canada,Mobile,Referral,Basic,0,
+U0551,2024-02-01,USA,Mobile,Organic,Basic,1,2024-03-16
+U0552,2024-03-13,India,Mobile,YouTube,Free,1,2024-04-20
+U0553,2024-01-07,USA,Mobile,Organic,Basic,1,2024-02-19
+U0554,2024-03-08,UK,Mobile,Google Ads,Basic,0,
+U0555,2024-02-20,India,Mobile,Referral,Premium,0,
+U0556,2024-02-17,Canada,Web,Instagram,Free,1,2024-03-16
+U0557,2024-03-21,India,Mobile,Google Ads,Free,1,2024-04-06
+U0558,2024-02-03,USA,Both,Organic,Free,0,
+U0559,2024-01-29,India,Mobile,Referral,Premium,0,
+U0560,2024-02-07,India,Mobile,Google Ads,Basic,1,2024-03-07
+U0561,2024-03-26,USA,Web,Referral,Basic,1,2024-04-27
+U0562,2024-01-28,India,Mobile,Instagram,Basic,1,2024-02-26
+U0563,2024-01-10,UK,Mobile,Instagram,Basic,1,2024-01-31
+U0564,2024-01-28,USA,Mobile,Google Ads,Free,1,2024-03-10
+U0565,2024-03-27,Canada,Mobile,Organic,Basic,0,
+U0566,2024-01-22,USA,Web,Instagram,Free,0,
+U0567,2024-03-06,India,Web,Instagram,Basic,0,
+U0568,2024-03-28,India,Mobile,Instagram,Basic,0,
+U0569,2024-02-08,UK,Mobile,Instagram,Basic,0,
+U0570,2024-01-17,USA,Web,Instagram,Premium,0,
+U0571,2024-02-10,USA,Web,Organic,Free,0,
+U0572,2024-01-24,India,Web,Organic,Free,0,
+U0573,2024-02-06,India,Mobile,Instagram,Basic,0,
+U0574,2024-01-11,Germany,Both,Organic,Basic,1,2024-02-07
+U0575,2024-02-15,USA,Mobile,Organic,Free,0,
+U0576,2024-01-31,Canada,Mobile,Organic,Free,0,
+U0577,2024-02-23,USA,Mobile,Organic,Basic,0,
+U0578,2024-02-27,Canada,Both,Organic,Basic,1,2024-04-06
+U0579,2024-01-21,Canada,Web,Referral,Basic,0,
+U0580,2024-01-01,Germany,Web,Instagram,Basic,1,2024-01-25
+U0581,2024-03-05,USA,Mobile,Google Ads,Basic,1,2024-04-08
+U0582,2024-01-01,Canada,Mobile,Organic,Free,0,
+U0583,2024-01-29,UK,Mobile,Referral,Premium,0,
+U0584,2024-02-26,USA,Web,Organic,Basic,0,
+U0585,2024-02-25,UK,Both,Referral,Basic,1,2024-03-16
+U0586,2024-02-07,UK,Web,Organic,Free,0,
+U0587,2024-02-09,India,Mobile,Referral,Free,0,
+U0588,2024-02-08,USA,Web,Organic,Free,1,2024-03-18
+U0589,2024-01-08,UK,Mobile,Google Ads,Basic,0,
+U0590,2024-01-31,India,Mobile,Organic,Basic,0,
+U0591,2024-02-26,USA,Both,Instagram,Basic,0,
+U0592,2024-01-29,USA,Web,Organic,Free,1,2024-02-13
+U0593,2024-01-06,USA,Web,Referral,Basic,0,
+U0594,2024-02-16,India,Both,Organic,Basic,0,
+U0595,2024-02-07,USA,Mobile,Organic,Premium,1,2024-03-19
+U0596,2024-01-19,USA,Web,Organic,Free,0,
+U0597,2024-02-24,USA,Mobile,Instagram,Free,1,2024-04-07
+U0598,2024-03-26,USA,Mobile,Instagram,Premium,1,2024-05-06
+U0599,2024-03-14,India,Mobile,Referral,Basic,1,2024-03-31
+U0600,2024-01-25,India,Web,Organic,Free,1,2024-03-04
+U0601,2024-02-28,UK,Mobile,Google Ads,Free,0,
+U0602,2024-01-22,UK,Mobile,Organic,Basic,0,
+U0603,2024-01-03,Germany,Mobile,Google Ads,Premium,0,
+U0604,2024-03-11,Canada,Web,Organic,Free,0,
+U0605,2024-01-19,USA,Web,Google Ads,Premium,0,
+U0606,2024-01-16,USA,Both,Google Ads,Basic,0,
+U0607,2024-01-19,USA,Mobile,Instagram,Free,1,2024-02-08
+U0608,2024-03-11,India,Both,Instagram,Basic,1,2024-04-22
+U0609,2024-03-11,India,Web,Google Ads,Basic,1,2024-04-24
+U0610,2024-03-09,India,Mobile,Organic,Premium,0,
+U0611,2024-03-07,USA,Mobile,Referral,Premium,1,2024-03-22
+U0612,2024-01-08,India,Mobile,Referral,Premium,0,
+U0613,2024-01-12,USA,Mobile,Google Ads,Basic,1,2024-02-03
+U0614,2024-02-29,Germany,Mobile,Organic,Basic,1,2024-04-14
+U0615,2024-03-02,India,Mobile,Referral,Basic,0,
+U0616,2024-03-26,India,Mobile,Google Ads,Free,1,2024-05-06
+U0617,2024-03-08,India,Web,YouTube,Free,0,
+U0618,2024-03-06,Germany,Mobile,Organic,Free,0,
+U0619,2024-02-15,Germany,Web,YouTube,Premium,0,
+U0620,2024-01-24,India,Web,Google Ads,Free,0,
+U0621,2024-03-29,Germany,Mobile,Referral,Basic,0,
+U0622,2024-02-23,UK,Mobile,Organic,Basic,1,2024-04-05
+U0623,2024-03-03,USA,Web,Instagram,Free,0,
+U0624,2024-01-13,Germany,Both,Instagram,Premium,1,2024-01-28
+U0625,2024-03-29,Canada,Mobile,Google Ads,Free,1,2024-05-02
+U0626,2024-02-02,India,Web,Instagram,Premium,0,
+U0627,2024-01-28,USA,Web,Referral,Premium,0,
+U0628,2024-03-22,USA,Mobile,Instagram,Basic,1,2024-04-18
+U0629,2024-03-17,India,Mobile,Referral,Free,0,
+U0630,2024-03-21,India,Web,Instagram,Free,0,
+U0631,2024-02-13,USA,Web,Organic,Basic,1,2024-03-22
+U0632,2024-03-05,India,Both,Referral,Free,0,
+U0633,2024-03-14,India,Mobile,Organic,Free,0,
+U0634,2024-01-03,Germany,Mobile,Organic,Basic,1,2024-02-04
+U0635,2024-01-24,USA,Mobile,YouTube,Free,1,2024-02-13
+U0636,2024-01-26,USA,Mobile,Instagram,Free,1,2024-03-09
+U0637,2024-02-07,India,Web,Organic,Basic,1,2024-03-18
+U0638,2024-01-23,Germany,Mobile,Instagram,Basic,0,
+U0639,2024-03-04,USA,Mobile,Google Ads,Premium,1,2024-03-19
+U0640,2024-02-21,India,Web,Organic,Premium,0,
+U0641,2024-01-18,India,Mobile,Referral,Basic,0,
+U0642,2024-02-10,Germany,Mobile,Organic,Premium,0,
+U0643,2024-03-19,Germany,Web,YouTube,Free,1,2024-04-18
+U0644,2024-03-09,USA,Mobile,Referral,Basic,0,
+U0645,2024-02-28,India,Mobile,Instagram,Basic,0,
+U0646,2024-02-06,India,Web,Organic,Free,0,
+U0647,2024-01-19,Canada,Web,Referral,Free,0,
+U0648,2024-01-15,Canada,Both,Organic,Free,0,
+U0649,2024-01-29,USA,Mobile,Instagram,Premium,0,
+U0650,2024-03-15,India,Web,Google Ads,Premium,1,2024-04-14
+U0651,2024-03-30,India,Mobile,Referral,Basic,0,
+U0652,2024-02-11,India,Mobile,Referral,Free,0,
+U0653,2024-01-10,India,Web,Google Ads,Premium,0,
+U0654,2024-01-27,Germany,Mobile,Google Ads,Free,0,
+U0655,2024-02-17,Canada,Web,Organic,Basic,1,2024-03-24
+U0656,2024-01-03,India,Web,Organic,Basic,0,
+U0657,2024-01-27,India,Both,Instagram,Basic,0,
+U0658,2024-02-08,USA,Mobile,Organic,Premium,1,2024-03-09
+U0659,2024-03-25,UK,Mobile,Referral,Free,0,
+U0660,2024-02-22,Canada,Mobile,YouTube,Basic,1,2024-03-09
+U0661,2024-03-31,India,Both,Organic,Basic,0,
+U0662,2024-03-17,Germany,Mobile,Google Ads,Free,0,
+U0663,2024-03-02,India,Both,Instagram,Basic,0,
+U0664,2024-02-28,USA,Mobile,Referral,Free,0,
+U0665,2024-01-29,USA,Both,Organic,Premium,0,
+U0666,2024-01-27,Germany,Mobile,Google Ads,Free,1,2024-03-09
+U0667,2024-02-18,USA,Both,Referral,Basic,1,2024-03-07
+U0668,2024-03-13,USA,Mobile,Google Ads,Basic,0,
+U0669,2024-03-11,USA,Mobile,Organic,Premium,0,
+U0670,2024-03-18,UK,Both,Referral,Premium,0,
+U0671,2024-02-18,India,Both,YouTube,Free,1,2024-03-15
+U0672,2024-01-14,India,Web,Instagram,Free,0,
+U0673,2024-03-24,Germany,Web,YouTube,Free,0,
+U0674,2024-01-25,USA,Web,YouTube,Basic,0,
+U0675,2024-01-26,India,Mobile,Organic,Free,0,
+U0676,2024-01-06,India,Mobile,Google Ads,Basic,0,
+U0677,2024-01-29,Canada,Mobile,Instagram,Free,0,
+U0678,2024-03-08,India,Mobile,Instagram,Free,0,
+U0679,2024-03-23,UK,Mobile,Google Ads,Premium,0,
+U0680,2024-03-08,USA,Mobile,Instagram,Free,0,
+U0681,2024-01-26,Canada,Web,Organic,Basic,0,
+U0682,2024-01-23,India,Mobile,Google Ads,Basic,1,2024-02-15
+U0683,2024-02-22,USA,Mobile,Organic,Free,0,
+U0684,2024-02-06,USA,Mobile,Instagram,Free,0,
+U0685,2024-03-25,India,Mobile,Organic,Basic,0,
+U0686,2024-03-27,Germany,Mobile,Google Ads,Free,0,
+U0687,2024-01-24,Germany,Mobile,Google Ads,Basic,0,
+U0688,2024-03-15,USA,Web,Instagram,Premium,0,
+U0689,2024-01-14,India,Mobile,Referral,Basic,0,
+U0690,2024-01-01,India,Both,Instagram,Premium,0,
+U0691,2024-02-09,India,Mobile,Instagram,Free,1,2024-03-12
+U0692,2024-02-03,USA,Both,Google Ads,Free,0,
+U0693,2024-02-25,India,Mobile,Referral,Free,0,
+U0694,2024-03-26,UK,Mobile,Referral,Premium,0,
+U0695,2024-01-11,USA,Mobile,Organic,Basic,0,
+U0696,2024-01-02,Canada,Both,Organic,Free,0,
+U0697,2024-02-11,Germany,Mobile,YouTube,Free,0,
+U0698,2024-03-26,India,Web,Instagram,Basic,0,
+U0699,2024-02-20,USA,Web,Organic,Free,0,
+U0700,2024-02-22,Canada,Web,Organic,Basic,0,
+U0701,2024-03-24,Germany,Both,Organic,Free,0,
+U0702,2024-03-14,India,Mobile,Referral,Basic,1,2024-04-25
+U0703,2024-02-14,UK,Mobile,Organic,Free,0,
+U0704,2024-03-13,India,Mobile,Organic,Basic,0,
+U0705,2024-02-09,Canada,Web,Organic,Basic,0,
+U0706,2024-02-29,India,Mobile,Instagram,Premium,0,
+U0707,2024-03-04,UK,Web,Google Ads,Premium,1,2024-03-31
+U0708,2024-01-20,Germany,Mobile,Organic,Premium,0,
+U0709,2024-01-24,USA,Mobile,Instagram,Premium,0,
+U0710,2024-01-12,India,Mobile,Referral,Premium,0,
+U0711,2024-02-25,USA,Web,YouTube,Free,0,
+U0712,2024-03-27,USA,Both,Google Ads,Premium,0,
+U0713,2024-01-12,USA,Web,Google Ads,Basic,0,
+U0714,2024-02-16,India,Mobile,Organic,Free,1,2024-03-08
+U0715,2024-01-07,Canada,Mobile,Referral,Premium,0,
+U0716,2024-03-30,USA,Web,YouTube,Premium,0,
+U0717,2024-01-01,India,Mobile,Instagram,Basic,1,2024-02-14
+U0718,2024-02-22,USA,Mobile,Instagram,Basic,1,2024-03-13
+U0719,2024-03-18,India,Mobile,Instagram,Free,1,2024-04-22
+U0720,2024-01-13,India,Mobile,Google Ads,Free,0,
+U0721,2024-01-29,USA,Both,Organic,Basic,1,2024-02-22
+U0722,2024-03-25,Canada,Mobile,Organic,Free,1,2024-04-20
+U0723,2024-03-16,Canada,Mobile,Instagram,Premium,0,
+U0724,2024-02-04,India,Web,Instagram,Premium,0,
+U0725,2024-03-14,USA,Mobile,Google Ads,Free,1,2024-04-03
+U0726,2024-02-09,UK,Mobile,Organic,Free,1,2024-03-12
+U0727,2024-01-22,India,Mobile,Referral,Basic,1,2024-02-22
+U0728,2024-03-02,Germany,Web,Organic,Free,0,
+U0729,2024-03-11,India,Mobile,Instagram,Free,1,2024-03-27
+U0730,2024-02-08,India,Both,Instagram,Basic,1,2024-03-03
+U0731,2024-02-06,USA,Web,Organic,Basic,0,
+U0732,2024-02-19,USA,Mobile,Google Ads,Free,0,
+U0733,2024-01-04,India,Web,Organic,Free,0,
+U0734,2024-03-24,India,Web,Organic,Basic,1,2024-04-10
+U0735,2024-03-10,USA,Mobile,Organic,Premium,1,2024-03-26
+U0736,2024-02-15,Canada,Mobile,Instagram,Free,1,2024-03-24
+U0737,2024-01-11,UK,Mobile,Referral,Premium,1,2024-02-25
+U0738,2024-02-03,India,Both,Google Ads,Free,0,
+U0739,2024-01-10,India,Mobile,Organic,Premium,0,
+U0740,2024-03-10,USA,Web,Organic,Free,1,2024-03-31
+U0741,2024-01-06,UK,Mobile,YouTube,Premium,0,
+U0742,2024-03-09,USA,Web,Organic,Basic,0,
+U0743,2024-03-06,USA,Web,Referral,Basic,1,2024-04-12
+U0744,2024-03-19,USA,Both,Instagram,Basic,0,
+U0745,2024-02-28,UK,Web,Instagram,Basic,0,
+U0746,2024-03-07,USA,Both,YouTube,Premium,0,
+U0747,2024-01-06,Canada,Both,Instagram,Premium,1,2024-01-25
+U0748,2024-02-06,Germany,Mobile,YouTube,Free,0,
+U0749,2024-02-03,Germany,Mobile,Referral,Premium,0,
+U0750,2024-02-12,UK,Mobile,Referral,Free,1,2024-03-15
+U0751,2024-02-23,India,Web,YouTube,Free,0,
+U0752,2024-02-04,India,Both,Instagram,Basic,0,
+U0753,2024-03-20,India,Mobile,Google Ads,Free,0,
+U0754,2024-01-24,USA,Web,Organic,Basic,1,2024-02-25
+U0755,2024-01-25,India,Mobile,Instagram,Premium,0,
+U0756,2024-01-28,UK,Both,Google Ads,Basic,1,2024-03-12
+U0757,2024-03-14,India,Both,Google Ads,Free,1,2024-04-12
+U0758,2024-02-22,UK,Mobile,YouTube,Free,0,
+U0759,2024-02-01,USA,Web,YouTube,Premium,1,2024-02-16
+U0760,2024-01-22,Canada,Web,Google Ads,Premium,0,
+U0761,2024-02-04,USA,Mobile,YouTube,Basic,0,
+U0762,2024-02-23,USA,Mobile,Google Ads,Free,0,
+U0763,2024-03-20,USA,Mobile,Organic,Premium,0,
+U0764,2024-03-04,Germany,Web,Instagram,Basic,0,
+U0765,2024-01-07,UK,Mobile,Organic,Free,0,
+U0766,2024-02-13,USA,Mobile,Organic,Premium,0,
+U0767,2024-02-06,India,Mobile,Referral,Basic,0,
+U0768,2024-03-07,Germany,Mobile,Referral,Free,0,
+U0769,2024-01-05,India,Mobile,Organic,Free,0,
+U0770,2024-01-26,USA,Mobile,Instagram,Premium,0,
+U0771,2024-03-02,Germany,Mobile,YouTube,Free,1,2024-03-21
+U0772,2024-03-21,India,Mobile,YouTube,Premium,0,
+U0773,2024-02-16,India,Both,Google Ads,Basic,1,2024-03-24
+U0774,2024-02-15,Canada,Mobile,Referral,Free,0,
+U0775,2024-02-17,Canada,Mobile,Instagram,Basic,0,
+U0776,2024-02-11,India,Mobile,Instagram,Basic,0,
+U0777,2024-03-11,India,Both,Organic,Free,1,2024-04-06
+U0778,2024-03-17,India,Web,Google Ads,Basic,0,
+U0779,2024-01-06,Germany,Mobile,Organic,Free,1,2024-01-24
+U0780,2024-03-22,Canada,Mobile,Instagram,Basic,0,
+U0781,2024-03-27,Canada,Mobile,Instagram,Free,0,
+U0782,2024-03-21,USA,Both,Referral,Premium,0,
+U0783,2024-03-15,India,Mobile,Instagram,Premium,0,
+U0784,2024-01-23,India,Mobile,Organic,Free,0,
+U0785,2024-02-11,India,Mobile,YouTube,Premium,0,
+U0786,2024-02-02,Germany,Web,Instagram,Premium,0,
+U0787,2024-01-25,Germany,Mobile,Google Ads,Basic,0,
+U0788,2024-03-06,Canada,Mobile,Referral,Free,1,2024-04-12
+U0789,2024-02-12,India,Mobile,Organic,Basic,1,2024-03-27
+U0790,2024-03-26,USA,Web,Referral,Basic,0,
+U0791,2024-03-25,India,Mobile,Google Ads,Basic,0,
+U0792,2024-02-01,India,Mobile,Organic,Free,0,
+U0793,2024-03-01,USA,Web,Referral,Basic,0,
+U0794,2024-02-06,USA,Both,Organic,Free,1,2024-03-14
+U0795,2024-03-10,India,Both,Instagram,Free,0,
+U0796,2024-03-12,India,Mobile,Organic,Basic,1,2024-04-24
+U0797,2024-03-14,USA,Mobile,Instagram,Free,0,
+U0798,2024-01-29,India,Web,Organic,Basic,1,2024-03-11
+U0799,2024-02-11,India,Web,Instagram,Free,0,
+U0800,2024-03-28,India,Both,Organic,Basic,0,
+U0801,2024-03-04,India,Mobile,Google Ads,Basic,1,2024-04-12
+U0802,2024-03-19,USA,Both,Referral,Premium,0,
+U0803,2024-02-14,India,Mobile,Google Ads,Free,0,
+U0804,2024-02-24,Canada,Web,Referral,Premium,1,2024-04-01
+U0805,2024-02-15,Germany,Both,Organic,Premium,0,
+U0806,2024-03-04,USA,Mobile,Instagram,Free,0,
+U0807,2024-03-03,India,Web,Organic,Basic,0,
+U0808,2024-01-08,Germany,Web,Referral,Free,0,
+U0809,2024-03-16,India,Mobile,Instagram,Free,1,2024-04-19
+U0810,2024-03-23,USA,Both,Google Ads,Premium,0,
+U0811,2024-01-13,USA,Mobile,Google Ads,Premium,0,
+U0812,2024-02-18,USA,Mobile,Organic,Premium,0,
+U0813,2024-03-11,India,Mobile,Instagram,Basic,0,
+U0814,2024-01-18,Germany,Mobile,YouTube,Basic,0,
+U0815,2024-03-09,India,Mobile,Instagram,Free,1,2024-04-20
+U0816,2024-02-07,USA,Web,Google Ads,Basic,0,
+U0817,2024-03-04,India,Mobile,Google Ads,Free,0,
+U0818,2024-01-09,India,Mobile,Organic,Basic,1,2024-02-01
+U0819,2024-02-06,Canada,Mobile,Google Ads,Basic,1,2024-02-24
+U0820,2024-01-16,India,Mobile,Google Ads,Premium,0,
+U0821,2024-01-23,India,Web,YouTube,Premium,0,
+U0822,2024-03-04,India,Mobile,Google Ads,Premium,0,
+U0823,2024-02-15,Canada,Mobile,Referral,Free,0,
+U0824,2024-01-19,Germany,Web,Organic,Basic,0,
+U0825,2024-03-27,India,Web,Google Ads,Free,0,
+U0826,2024-03-21,USA,Mobile,Instagram,Basic,0,
+U0827,2024-02-16,India,Both,Instagram,Basic,0,
+U0828,2024-03-31,UK,Both,Google Ads,Premium,1,2024-04-17
+U0829,2024-03-21,USA,Web,Referral,Basic,0,
+U0830,2024-03-26,Germany,Both,Organic,Free,0,
+U0831,2024-01-28,India,Mobile,Organic,Basic,0,
+U0832,2024-02-15,Germany,Mobile,Organic,Basic,0,
+U0833,2024-01-10,USA,Both,Instagram,Free,0,
+U0834,2024-02-25,India,Mobile,Organic,Basic,0,
+U0835,2024-01-15,USA,Mobile,Instagram,Premium,1,2024-02-29
+U0836,2024-03-26,India,Both,Organic,Free,0,
+U0837,2024-03-24,India,Web,YouTube,Basic,1,2024-04-21
+U0838,2024-01-07,India,Both,YouTube,Basic,1,2024-02-13
+U0839,2024-02-26,Germany,Web,Referral,Premium,0,
+U0840,2024-03-30,USA,Both,Referral,Free,0,
+U0841,2024-01-23,UK,Mobile,Google Ads,Basic,0,
+U0842,2024-03-06,USA,Both,Organic,Basic,1,2024-04-19
+U0843,2024-01-31,USA,Mobile,Organic,Free,0,
+U0844,2024-01-08,USA,Web,Google Ads,Premium,0,
+U0845,2024-01-28,Germany,Mobile,Instagram,Free,0,
+U0846,2024-03-07,USA,Web,Instagram,Basic,1,2024-03-27
+U0847,2024-01-23,India,Web,Organic,Basic,0,
+U0848,2024-01-06,India,Web,Instagram,Premium,1,2024-02-10
+U0849,2024-03-29,India,Mobile,Referral,Premium,0,
+U0850,2024-01-01,USA,Both,Organic,Basic,1,2024-02-15
+U0851,2024-03-11,India,Mobile,Google Ads,Premium,1,2024-03-31
+U0852,2024-01-16,Canada,Web,Google Ads,Premium,1,2024-02-07
+U0853,2024-02-13,UK,Mobile,Organic,Basic,0,
+U0854,2024-01-05,India,Web,Organic,Premium,0,
+U0855,2024-03-09,Germany,Mobile,Referral,Basic,0,
+U0856,2024-01-31,USA,Mobile,Instagram,Basic,0,
+U0857,2024-03-02,USA,Web,Organic,Free,0,
+U0858,2024-02-18,USA,Web,Google Ads,Premium,1,2024-03-15
+U0859,2024-01-24,USA,Mobile,Referral,Basic,1,2024-02-18
+U0860,2024-01-07,Canada,Web,Organic,Basic,0,
+U0861,2024-01-18,USA,Mobile,YouTube,Premium,0,
+U0862,2024-02-24,Germany,Mobile,Organic,Premium,1,2024-04-08
+U0863,2024-01-31,UK,Web,Organic,Free,0,
+U0864,2024-03-07,Canada,Both,Organic,Premium,0,
+U0865,2024-01-16,India,Mobile,Google Ads,Free,0,
+U0866,2024-02-04,USA,Both,Google Ads,Free,0,
+U0867,2024-03-19,USA,Mobile,YouTube,Premium,1,2024-04-30
+U0868,2024-01-09,India,Web,Organic,Basic,0,
+U0869,2024-03-22,Canada,Mobile,Google Ads,Basic,1,2024-04-23
+U0870,2024-01-09,USA,Web,Instagram,Free,0,
+U0871,2024-01-03,India,Both,Google Ads,Free,0,
+U0872,2024-03-11,USA,Mobile,Google Ads,Basic,0,
+U0873,2024-03-19,USA,Web,Google Ads,Premium,0,
+U0874,2024-01-12,India,Mobile,Organic,Free,0,
+U0875,2024-02-14,India,Mobile,Instagram,Basic,1,2024-03-04
+U0876,2024-03-27,India,Both,Referral,Basic,0,
+U0877,2024-03-31,USA,Web,Google Ads,Basic,1,2024-04-29
+U0878,2024-03-08,India,Mobile,Organic,Premium,0,
+U0879,2024-02-22,India,Mobile,Google Ads,Premium,0,
+U0880,2024-02-28,UK,Mobile,Organic,Premium,0,
+U0881,2024-01-07,UK,Mobile,YouTube,Free,1,2024-01-23
+U0882,2024-01-30,UK,Mobile,Organic,Premium,0,
+U0883,2024-01-09,India,Web,YouTube,Premium,1,2024-02-13
+U0884,2024-01-22,USA,Mobile,Instagram,Free,1,2024-02-06
+U0885,2024-02-19,USA,Mobile,YouTube,Basic,1,2024-03-29
+U0886,2024-01-25,UK,Mobile,Referral,Free,0,
+U0887,2024-01-27,Germany,Web,Organic,Free,0,
+U0888,2024-03-07,India,Mobile,Organic,Premium,0,
+U0889,2024-01-11,USA,Web,Instagram,Free,0,
+U0890,2024-02-07,UK,Mobile,Google Ads,Free,0,
+U0891,2024-03-17,USA,Mobile,Referral,Basic,1,2024-04-02
+U0892,2024-02-21,USA,Both,Instagram,Free,0,
+U0893,2024-02-29,India,Mobile,Organic,Premium,0,
+U0894,2024-03-10,India,Both,Referral,Free,0,
+U0895,2024-02-28,India,Both,Organic,Basic,1,2024-03-29
+U0896,2024-02-09,India,Mobile,Referral,Premium,1,2024-02-26
+U0897,2024-01-17,India,Mobile,Instagram,Free,1,2024-02-14
+U0898,2024-03-03,Canada,Web,Instagram,Basic,0,
+U0899,2024-01-31,India,Mobile,Organic,Free,0,
+U0900,2024-01-15,India,Mobile,Organic,Free,1,2024-02-18
+U0901,2024-02-24,Canada,Mobile,Google Ads,Basic,0,
+U0902,2024-02-14,India,Web,Google Ads,Free,0,
+U0903,2024-03-05,India,Mobile,Organic,Basic,1,2024-03-26
+U0904,2024-02-18,India,Mobile,Google Ads,Free,0,
+U0905,2024-02-11,Germany,Web,YouTube,Free,0,
+U0906,2024-02-15,India,Mobile,Google Ads,Basic,0,
+U0907,2024-01-18,UK,Mobile,Instagram,Free,1,2024-02-13
+U0908,2024-01-14,Germany,Both,Instagram,Premium,0,
+U0909,2024-03-22,USA,Both,Instagram,Premium,0,
+U0910,2024-01-08,Canada,Mobile,Organic,Free,0,
+U0911,2024-02-18,India,Both,Instagram,Basic,0,
+U0912,2024-01-11,USA,Mobile,Instagram,Basic,0,
+U0913,2024-02-29,UK,Both,Google Ads,Free,0,
+U0914,2024-03-07,USA,Mobile,Organic,Premium,0,
+U0915,2024-02-04,Canada,Mobile,Organic,Basic,0,
+U0916,2024-03-09,USA,Mobile,YouTube,Free,0,
+U0917,2024-02-17,Canada,Mobile,Instagram,Basic,0,
+U0918,2024-02-10,UK,Mobile,Referral,Basic,0,
+U0919,2024-03-03,USA,Mobile,Instagram,Free,0,
+U0920,2024-03-13,USA,Web,Instagram,Free,0,
+U0921,2024-01-10,USA,Web,Organic,Basic,0,
+U0922,2024-03-11,India,Web,Referral,Free,0,
+U0923,2024-02-13,USA,Mobile,Google Ads,Basic,0,
+U0924,2024-01-04,USA,Both,Referral,Free,0,
+U0925,2024-01-24,India,Mobile,Google Ads,Basic,0,
+U0926,2024-02-23,India,Both,Organic,Basic,0,
+U0927,2024-02-22,USA,Both,Organic,Basic,0,
+U0928,2024-02-18,India,Mobile,Google Ads,Free,1,2024-03-27
+U0929,2024-02-27,Germany,Mobile,Google Ads,Basic,1,2024-03-29
+U0930,2024-02-06,India,Web,YouTube,Premium,0,
+U0931,2024-02-09,India,Web,Organic,Basic,0,
+U0932,2024-02-17,India,Both,Instagram,Free,0,
+U0933,2024-03-06,USA,Web,YouTube,Free,0,
+U0934,2024-03-02,India,Web,Google Ads,Free,0,
+U0935,2024-01-29,India,Both,Referral,Basic,0,
+U0936,2024-03-14,India,Both,Organic,Basic,1,2024-04-13
+U0937,2024-02-13,Canada,Web,Organic,Basic,0,
+U0938,2024-03-25,USA,Mobile,Organic,Basic,0,
+U0939,2024-02-18,India,Web,Google Ads,Free,0,
+U0940,2024-01-11,India,Both,Instagram,Free,0,
+U0941,2024-02-05,UK,Mobile,Referral,Free,1,2024-03-01
+U0942,2024-01-31,UK,Mobile,Referral,Free,0,
+U0943,2024-01-26,UK,Web,Organic,Free,1,2024-03-05
+U0944,2024-01-10,India,Mobile,Referral,Premium,0,
+U0945,2024-01-28,India,Web,Organic,Basic,0,
+U0946,2024-03-31,Canada,Mobile,Referral,Free,1,2024-05-02
+U0947,2024-02-13,India,Mobile,YouTube,Free,0,
+U0948,2024-03-14,UK,Mobile,Instagram,Free,0,
+U0949,2024-03-30,USA,Web,Instagram,Basic,0,
+U0950,2024-02-24,India,Mobile,Google Ads,Basic,0,
+U0951,2024-01-05,India,Web,Instagram,Basic,1,2024-02-04
+U0952,2024-01-24,India,Mobile,Referral,Basic,1,2024-02-22
+U0953,2024-02-12,Canada,Mobile,Organic,Free,0,
+U0954,2024-01-08,USA,Mobile,Google Ads,Free,0,
+U0955,2024-01-01,Germany,Web,Google Ads,Free,1,2024-01-30
+U0956,2024-01-06,India,Mobile,Referral,Premium,1,2024-01-30
+U0957,2024-01-12,India,Web,Organic,Premium,0,
+U0958,2024-02-20,India,Mobile,Referral,Basic,1,2024-03-22
+U0959,2024-01-18,India,Mobile,Organic,Basic,1,2024-02-12
+U0960,2024-01-24,USA,Mobile,Instagram,Free,0,
+U0961,2024-02-05,India,Mobile,Google Ads,Free,1,2024-03-11
+U0962,2024-01-18,UK,Mobile,YouTube,Premium,0,
+U0963,2024-03-25,USA,Mobile,Organic,Free,0,
+U0964,2024-01-14,USA,Mobile,Google Ads,Free,1,2024-02-21
+U0965,2024-01-20,USA,Mobile,Organic,Premium,1,2024-03-04
+U0966,2024-03-13,USA,Mobile,Referral,Free,1,2024-03-30
+U0967,2024-02-16,USA,Mobile,Organic,Free,0,
+U0968,2024-02-12,India,Mobile,YouTube,Free,0,
+U0969,2024-03-07,USA,Web,YouTube,Free,0,
+U0970,2024-01-25,USA,Both,Google Ads,Free,0,
+U0971,2024-03-19,USA,Mobile,Organic,Basic,0,
+U0972,2024-03-19,USA,Mobile,YouTube,Basic,0,
+U0973,2024-02-18,India,Web,Instagram,Free,0,
+U0974,2024-03-04,USA,Mobile,Google Ads,Basic,1,2024-03-28
+U0975,2024-01-28,USA,Both,Instagram,Basic,1,2024-02-29
+U0976,2024-01-11,India,Web,Organic,Basic,1,2024-02-04
+U0977,2024-02-03,USA,Mobile,Organic,Free,0,
+U0978,2024-01-18,India,Mobile,Instagram,Free,1,2024-02-26
+U0979,2024-02-18,USA,Mobile,Organic,Premium,0,
+U0980,2024-02-04,Canada,Mobile,Instagram,Basic,1,2024-03-08
+U0981,2024-03-27,India,Mobile,YouTube,Basic,1,2024-04-12
+U0982,2024-01-13,USA,Web,Instagram,Basic,1,2024-01-31
+U0983,2024-01-29,India,Mobile,Instagram,Premium,0,
+U0984,2024-03-20,India,Mobile,Referral,Basic,0,
+U0985,2024-02-29,USA,Both,Instagram,Premium,1,2024-04-09
+U0986,2024-01-07,India,Mobile,Instagram,Basic,1,2024-02-17
+U0987,2024-01-30,India,Mobile,Organic,Premium,0,
+U0988,2024-01-17,India,Mobile,Organic,Free,0,
+U0989,2024-02-18,Germany,Mobile,Google Ads,Free,0,
+U0990,2024-03-24,India,Mobile,Organic,Basic,1,2024-05-07
+U0991,2024-03-24,USA,Web,Organic,Basic,0,
+U0992,2024-03-20,India,Web,Google Ads,Premium,0,
+U0993,2024-01-09,USA,Web,Google Ads,Basic,0,
+U0994,2024-02-10,India,Web,Google Ads,Basic,1,2024-03-09
+U0995,2024-01-16,USA,Web,Organic,Free,1,2024-02-09
+U0996,2024-01-07,India,Mobile,Instagram,Basic,0,
+U0997,2024-01-02,USA,Web,Instagram,Basic,0,
+U0998,2024-03-28,India,Mobile,Organic,Basic,1,2024-04-29
+U0999,2024-01-25,India,Web,Instagram,Basic,1,2024-02-14
+U1000,2024-02-13,India,Mobile,Google Ads,Basic,1,2024-03-20

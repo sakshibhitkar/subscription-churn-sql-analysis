@@ -1,0 +1,1501 @@
+transaction_id,user_id,transaction_date,transaction_status,failure_reason,payment_method,retry_attempted,retry_status,amount
+T00001,U0379,2024-03-02,Success,,Credit Card,0,Not Needed,29.99
+T00002,U0341,2024-03-14,Success,,UPI,0,Not Needed,99.99
+T00003,U0156,2024-02-07,Success,,PayPal,0,Not Needed,14.99
+T00004,U0267,2024-03-17,Success,,Credit Card,0,Not Needed,19.99
+T00005,U0941,2024-03-01,Success,,Credit Card,0,Not Needed,29.99
+T00006,U0076,2024-02-09,Success,,Credit Card,0,Not Needed,99.99
+T00007,U0504,2024-04-19,Success,,UPI,0,Not Needed,9.99
+T00008,U0601,2024-04-05,Success,,PayPal,0,Not Needed,9.99
+T00009,U0195,2024-04-08,Success,,Credit Card,0,Not Needed,49.99
+T00010,U0538,2024-02-19,Success,,PayPal,0,Not Needed,49.99
+T00011,U0789,2024-03-18,Success,,Credit Card,0,Not Needed,99.99
+T00012,U0313,2024-05-04,Success,,UPI,0,Not Needed,49.99
+T00013,U0842,2024-04-28,Success,,PayPal,0,Not Needed,49.99
+T00014,U0139,2024-03-25,Success,,PayPal,0,Not Needed,9.99
+T00015,U0495,2024-05-09,Success,,PayPal,0,Not Needed,49.99
+T00016,U0273,2024-04-12,Success,,Credit Card,0,Not Needed,49.99
+T00017,U0500,2024-03-24,Success,,Credit Card,0,Not Needed,14.99
+T00018,U0579,2024-03-03,Success,,PayPal,0,Not Needed,9.99
+T00019,U0317,2024-02-27,Success,,UPI,0,Not Needed,49.99
+T00020,U0186,2024-01-23,Success,,UPI,0,Not Needed,9.99
+T00021,U0756,2024-03-24,Success,,PayPal,0,Not Needed,19.99
+T00022,U0362,2024-04-30,Success,,PayPal,0,Not Needed,9.99
+T00023,U0089,2024-04-30,Success,,Credit Card,0,Not Needed,9.99
+T00024,U0537,2024-04-28,Success,,Credit Card,0,Not Needed,49.99
+T00025,U0261,2024-04-02,Success,,PayPal,0,Not Needed,99.99
+T00026,U0287,2024-02-16,Success,,PayPal,0,Not Needed,49.99
+T00027,U0834,2024-02-29,Success,,Credit Card,0,Not Needed,19.99
+T00028,U0268,2024-02-25,Success,,PayPal,0,Not Needed,19.99
+T00029,U0427,2024-02-03,Success,,PayPal,0,Not Needed,29.99
+T00030,U0032,2024-03-04,Success,,Credit Card,0,Not Needed,49.99
+T00031,U0158,2024-02-25,Success,,UPI,0,Not Needed,29.99
+T00032,U0651,2024-05-26,Success,,UPI,0,Not Needed,49.99
+T00033,U0040,2024-04-18,Failed,Card Expired,PayPal,0,Not Attempted,29.99
+T00034,U0744,2024-04-15,Success,,Credit Card,0,Not Needed,29.99
+T00035,U0588,2024-02-27,Failed,Insufficient Funds,UPI,0,Not Attempted,9.99
+T00036,U0620,2024-02-10,Success,,UPI,0,Not Needed,99.99
+T00037,U0053,2024-03-13,Success,,PayPal,0,Not Needed,99.99
+T00038,U0779,2024-02-21,Success,,UPI,0,Not Needed,29.99
+T00039,U0471,2024-05-16,Success,,PayPal,0,Not Needed,19.99
+T00040,U0365,2024-02-21,Failed,Insufficient Funds,Credit Card,0,Not Attempted,29.99
+T00041,U0808,2024-02-06,Success,,PayPal,0,Not Needed,19.99
+T00042,U0819,2024-03-09,Success,,UPI,0,Not Needed,49.99
+T00043,U0332,2024-04-07,Success,,Credit Card,0,Not Needed,19.99
+T00044,U0223,2024-02-09,Success,,Credit Card,0,Not Needed,9.99
+T00045,U0663,2024-03-29,Success,,UPI,0,Not Needed,49.99
+T00046,U0588,2024-02-19,Failed,Gateway Error,PayPal,0,Not Attempted,49.99
+T00047,U0048,2024-04-14,Success,,Credit Card,0,Not Needed,19.99
+T00048,U0788,2024-03-07,Success,,Credit Card,0,Not Needed,19.99
+T00049,U0738,2024-02-23,Success,,UPI,0,Not Needed,19.99
+T00050,U0935,2024-02-14,Success,,UPI,0,Not Needed,49.99
+T00051,U0776,2024-04-05,Success,,Credit Card,0,Not Needed,9.99
+T00052,U0503,2024-03-27,Success,,Credit Card,0,Not Needed,49.99
+T00053,U0217,2024-02-25,Success,,Credit Card,0,Not Needed,49.99
+T00054,U0308,2024-03-18,Success,,PayPal,0,Not Needed,14.99
+T00055,U0587,2024-02-21,Success,,Credit Card,0,Not Needed,14.99
+T00056,U0240,2024-02-27,Failed,Insufficient Funds,Credit Card,0,Not Attempted,29.99
+T00057,U0526,2024-04-16,Success,,UPI,0,Not Needed,14.99
+T00058,U0626,2024-02-07,Success,,PayPal,0,Not Needed,14.99
+T00059,U0343,2024-02-17,Failed,Insufficient Funds,Credit Card,1,Failed,49.99
+T00060,U0123,2024-02-19,Success,,Credit Card,0,Not Needed,14.99
+T00061,U0341,2024-04-29,Success,,UPI,0,Not Needed,29.99
+T00062,U0229,2024-04-30,Success,,UPI,0,Not Needed,19.99
+T00063,U0840,2024-03-31,Success,,PayPal,0,Not Needed,14.99
+T00064,U0524,2024-03-25,Success,,Credit Card,0,Not Needed,14.99
+T00065,U0931,2024-03-01,Success,,Credit Card,0,Not Needed,9.99
+T00066,U0720,2024-02-13,Failed,Insufficient Funds,PayPal,1,Successful,49.99
+T00067,U0661,2024-04-09,Success,,Credit Card,0,Not Needed,14.99
+T00068,U0286,2024-03-04,Failed,Card Expired,Credit Card,1,Successful,49.99
+T00069,U0573,2024-02-28,Success,,UPI,0,Not Needed,29.99
+T00070,U0476,2024-02-18,Failed,Insufficient Funds,PayPal,1,Successful,29.99
+T00071,U0973,2024-02-25,Success,,UPI,0,Not Needed,49.99
+T00072,U0270,2024-04-25,Failed,Gateway Error,UPI,1,Failed,29.99
+T00073,U0044,2024-04-11,Failed,Card Expired,Credit Card,0,Not Attempted,19.99
+T00074,U0744,2024-05-02,Success,,Credit Card,0,Not Needed,19.99
+T00075,U0146,2024-05-04,Success,,UPI,0,Not Needed,9.99
+T00076,U0518,2024-02-22,Success,,UPI,0,Not Needed,49.99
+T00077,U0427,2024-03-21,Success,,UPI,0,Not Needed,9.99
+T00078,U0142,2024-03-22,Success,,UPI,0,Not Needed,19.99
+T00079,U0005,2024-04-10,Failed,Insufficient Funds,UPI,0,Not Attempted,99.99
+T00080,U0012,2024-03-23,Success,,Credit Card,0,Not Needed,14.99
+T00081,U0514,2024-04-19,Success,,Credit Card,0,Not Needed,19.99
+T00082,U0872,2024-04-25,Success,,UPI,0,Not Needed,49.99
+T00083,U0744,2024-04-24,Success,,UPI,0,Not Needed,49.99
+T00084,U0483,2024-02-14,Success,,UPI,0,Not Needed,49.99
+T00085,U0806,2024-03-25,Success,,UPI,0,Not Needed,9.99
+T00086,U0261,2024-04-25,Success,,Credit Card,0,Not Needed,99.99
+T00087,U0177,2024-03-05,Success,,PayPal,0,Not Needed,19.99
+T00088,U0732,2024-04-15,Success,,UPI,0,Not Needed,14.99
+T00089,U0667,2024-03-13,Failed,Insufficient Funds,Credit Card,1,Failed,14.99
+T00090,U0707,2024-03-13,Success,,Credit Card,0,Not Needed,14.99
+T00091,U0945,2024-03-24,Success,,UPI,0,Not Needed,14.99
+T00092,U0765,2024-01-09,Success,,UPI,0,Not Needed,29.99
+T00093,U0738,2024-03-25,Success,,UPI,0,Not Needed,19.99
+T00094,U0792,2024-03-02,Success,,UPI,0,Not Needed,19.99
+T00095,U0483,2024-03-04,Success,,PayPal,0,Not Needed,9.99
+T00096,U0216,2024-03-05,Success,,PayPal,0,Not Needed,99.99
+T00097,U0105,2024-04-02,Success,,PayPal,0,Not Needed,19.99
+T00098,U0838,2024-02-14,Failed,Card Expired,Credit Card,1,Failed,29.99
+T00099,U0841,2024-02-16,Failed,Gateway Error,UPI,0,Not Attempted,29.99
+T00100,U0186,2024-01-21,Success,,UPI,0,Not Needed,49.99
+T00101,U0454,2024-04-27,Success,,UPI,0,Not Needed,19.99
+T00102,U0705,2024-03-08,Success,,Credit Card,0,Not Needed,29.99
+T00103,U0661,2024-05-27,Success,,UPI,0,Not Needed,14.99
+T00104,U0068,2024-03-17,Failed,Gateway Error,Credit Card,1,Successful,99.99
+T00105,U0485,2024-03-18,Success,,UPI,0,Not Needed,14.99
+T00106,U0139,2024-03-06,Success,,Credit Card,0,Not Needed,19.99
+T00107,U0712,2024-04-14,Failed,Insufficient Funds,Credit Card,0,Not Attempted,9.99
+T00108,U0131,2024-04-05,Success,,PayPal,0,Not Needed,19.99
+T00109,U0369,2024-03-19,Success,,Credit Card,0,Not Needed,29.99
+T00110,U0972,2024-03-23,Success,,Credit Card,0,Not Needed,14.99
+T00111,U0710,2024-02-01,Success,,Credit Card,0,Not Needed,14.99
+T00112,U0089,2024-05-10,Success,,UPI,0,Not Needed,49.99
+T00113,U0800,2024-05-16,Success,,UPI,0,Not Needed,9.99
+T00114,U0591,2024-03-05,Success,,Credit Card,0,Not Needed,9.99
+T00115,U0020,2024-04-30,Success,,PayPal,0,Not Needed,9.99
+T00116,U0192,2024-02-18,Success,,Credit Card,0,Not Needed,19.99
+T00117,U0435,2024-05-05,Success,,Credit Card,0,Not Needed,49.99
+T00118,U0193,2024-02-15,Success,,PayPal,0,Not Needed,19.99
+T00119,U0590,2024-03-08,Success,,PayPal,0,Not Needed,9.99
+T00120,U0847,2024-01-26,Success,,Credit Card,0,Not Needed,49.99
+T00121,U0414,2024-04-28,Success,,PayPal,0,Not Needed,19.99
+T00122,U0086,2024-01-18,Success,,Credit Card,0,Not Needed,29.99
+T00123,U0695,2024-01-31,Success,,PayPal,0,Not Needed,14.99
+T00124,U0345,2024-02-20,Success,,UPI,0,Not Needed,14.99
+T00125,U0226,2024-05-20,Success,,PayPal,0,Not Needed,29.99
+T00126,U0052,2024-04-30,Success,,Credit Card,0,Not Needed,14.99
+T00127,U0382,2024-03-02,Success,,Credit Card,0,Not Needed,14.99
+T00128,U0927,2024-04-02,Success,,Credit Card,0,Not Needed,19.99
+T00129,U0675,2024-02-15,Success,,UPI,0,Not Needed,99.99
+T00130,U0012,2024-02-14,Success,,PayPal,0,Not Needed,9.99
+T00131,U0457,2024-04-11,Success,,UPI,0,Not Needed,9.99
+T00132,U0713,2024-03-02,Success,,UPI,0,Not Needed,49.99
+T00133,U0259,2024-01-09,Success,,Credit Card,0,Not Needed,99.99
+T00134,U0454,2024-03-10,Success,,PayPal,0,Not Needed,29.99
+T00135,U0200,2024-02-19,Failed,Card Expired,UPI,0,Not Attempted,14.99
+T00136,U0833,2024-02-11,Success,,Credit Card,0,Not Needed,29.99
+T00137,U0683,2024-03-25,Success,,PayPal,0,Not Needed,29.99
+T00138,U0943,2024-03-15,Success,,Credit Card,0,Not Needed,29.99
+T00139,U0573,2024-02-13,Success,,PayPal,0,Not Needed,9.99
+T00140,U0736,2024-03-20,Success,,PayPal,0,Not Needed,49.99
+T00141,U0114,2024-04-09,Success,,Credit Card,0,Not Needed,19.99
+T00142,U0024,2024-04-17,Failed,Gateway Error,PayPal,1,Successful,14.99
+T00143,U0824,2024-02-29,Success,,UPI,0,Not Needed,49.99
+T00144,U0544,2024-04-08,Success,,UPI,0,Not Needed,9.99
+T00145,U0450,2024-05-10,Failed,Insufficient Funds,Credit Card,0,Not Attempted,14.99
+T00146,U0251,2024-04-24,Failed,Gateway Error,UPI,0,Not Attempted,9.99
+T00147,U0699,2024-04-09,Success,,Credit Card,0,Not Needed,99.99
+T00148,U0803,2024-03-04,Failed,Card Expired,PayPal,1,Successful,49.99
+T00149,U0044,2024-04-01,Failed,Card Expired,Credit Card,1,Successful,49.99
+T00150,U0557,2024-04-15,Success,,Credit Card,0,Not Needed,14.99
+T00151,U0577,2024-03-30,Success,,UPI,0,Not Needed,9.99
+T00152,U0180,2024-03-18,Failed,Insufficient Funds,UPI,1,Failed,9.99
+T00153,U0730,2024-03-19,Failed,Gateway Error,UPI,1,Failed,49.99
+T00154,U0994,2024-03-18,Success,,UPI,0,Not Needed,49.99
+T00155,U0655,2024-04-03,Success,,UPI,0,Not Needed,29.99
+T00156,U0080,2024-04-13,Success,,UPI,0,Not Needed,99.99
+T00157,U0192,2024-03-08,Success,,Credit Card,0,Not Needed,99.99
+T00158,U0712,2024-03-28,Success,,PayPal,0,Not Needed,14.99
+T00159,U0766,2024-03-08,Success,,Credit Card,0,Not Needed,99.99
+T00160,U0046,2024-05-18,Success,,PayPal,0,Not Needed,49.99
+T00161,U0900,2024-03-06,Success,,PayPal,0,Not Needed,9.99
+T00162,U0345,2024-01-29,Success,,PayPal,0,Not Needed,99.99
+T00163,U0580,2024-02-08,Success,,UPI,0,Not Needed,99.99
+T00164,U0822,2024-04-17,Success,,Credit Card,0,Not Needed,29.99
+T00165,U0867,2024-04-04,Success,,Credit Card,0,Not Needed,99.99
+T00166,U0509,2024-01-29,Success,,PayPal,0,Not Needed,19.99
+T00167,U0077,2024-01-30,Success,,UPI,0,Not Needed,19.99
+T00168,U0453,2024-05-16,Success,,Credit Card,0,Not Needed,9.99
+T00169,U0993,2024-01-23,Success,,UPI,0,Not Needed,9.99
+T00170,U0157,2024-03-08,Success,,UPI,0,Not Needed,19.99
+T00171,U0315,2024-02-03,Success,,Credit Card,0,Not Needed,29.99
+T00172,U0835,2024-01-18,Success,,UPI,0,Not Needed,29.99
+T00173,U0386,2024-02-01,Failed,Card Expired,UPI,1,Successful,29.99
+T00174,U0042,2024-03-03,Success,,UPI,0,Not Needed,14.99
+T00175,U0061,2024-03-17,Success,,PayPal,0,Not Needed,14.99
+T00176,U0757,2024-03-18,Failed,Insufficient Funds,Credit Card,0,Not Attempted,49.99
+T00177,U0399,2024-01-22,Success,,Credit Card,0,Not Needed,19.99
+T00178,U0764,2024-03-11,Success,,Credit Card,0,Not Needed,49.99
+T00179,U0874,2024-02-18,Success,,UPI,0,Not Needed,99.99
+T00180,U0640,2024-04-08,Success,,PayPal,0,Not Needed,9.99
+T00181,U0315,2024-02-11,Success,,Credit Card,0,Not Needed,49.99
+T00182,U0951,2024-01-17,Failed,Gateway Error,Credit Card,1,Failed,99.99
+T00183,U0190,2024-04-20,Success,,PayPal,0,Not Needed,19.99
+T00184,U0936,2024-03-20,Failed,Insufficient Funds,Credit Card,0,Not Attempted,99.99
+T00185,U0923,2024-03-22,Success,,PayPal,0,Not Needed,99.99
+T00186,U0915,2024-02-29,Success,,Credit Card,0,Not Needed,49.99
+T00187,U0189,2024-02-23,Success,,Credit Card,0,Not Needed,49.99
+T00188,U0272,2024-02-21,Success,,UPI,0,Not Needed,29.99
+T00189,U0476,2024-03-06,Failed,Card Expired,PayPal,1,Failed,29.99
+T00190,U0990,2024-05-03,Failed,Insufficient Funds,Credit Card,0,Not Attempted,99.99
+T00191,U0841,2024-02-05,Success,,Credit Card,0,Not Needed,99.99
+T00192,U0187,2024-04-23,Success,,UPI,0,Not Needed,49.99
+T00193,U0074,2024-02-01,Success,,Credit Card,0,Not Needed,99.99
+T00194,U0315,2024-03-08,Success,,Credit Card,0,Not Needed,19.99
+T00195,U0700,2024-03-22,Success,,UPI,0,Not Needed,99.99
+T00196,U0628,2024-03-28,Success,,Credit Card,0,Not Needed,29.99
+T00197,U0938,2024-05-03,Success,,UPI,0,Not Needed,19.99
+T00198,U0603,2024-01-28,Failed,Gateway Error,PayPal,0,Not Attempted,9.99
+T00199,U0004,2024-04-02,Success,,Credit Card,0,Not Needed,49.99
+T00200,U0998,2024-04-06,Success,,UPI,0,Not Needed,9.99
+T00201,U0711,2024-04-08,Success,,PayPal,0,Not Needed,14.99
+T00202,U0594,2024-03-30,Success,,UPI,0,Not Needed,19.99
+T00203,U0485,2024-04-21,Success,,UPI,0,Not Needed,99.99
+T00204,U0763,2024-05-14,Success,,Credit Card,0,Not Needed,19.99
+T00205,U0385,2024-05-07,Success,,Credit Card,0,Not Needed,14.99
+T00206,U0795,2024-04-24,Success,,Credit Card,0,Not Needed,14.99
+T00207,U0231,2024-05-12,Success,,PayPal,0,Not Needed,29.99
+T00208,U0020,2024-04-19,Success,,PayPal,0,Not Needed,99.99
+T00209,U0626,2024-03-10,Success,,PayPal,0,Not Needed,29.99
+T00210,U0789,2024-04-01,Success,,PayPal,0,Not Needed,19.99
+T00211,U0363,2024-02-24,Success,,Credit Card,0,Not Needed,99.99
+T00212,U0846,2024-03-15,Failed,Gateway Error,Credit Card,1,Failed,19.99
+T00213,U0152,2024-03-17,Success,,UPI,0,Not Needed,29.99
+T00214,U0907,2024-01-26,Success,,UPI,0,Not Needed,99.99
+T00215,U0916,2024-03-30,Success,,PayPal,0,Not Needed,29.99
+T00216,U0944,2024-03-10,Success,,UPI,0,Not Needed,19.99
+T00217,U0835,2024-02-08,Success,,UPI,0,Not Needed,9.99
+T00218,U0293,2024-02-01,Success,,PayPal,0,Not Needed,14.99
+T00219,U0151,2024-04-17,Success,,Credit Card,0,Not Needed,29.99
+T00220,U0947,2024-04-08,Success,,Credit Card,0,Not Needed,29.99
+T00221,U0754,2024-03-02,Success,,PayPal,0,Not Needed,49.99
+T00222,U0871,2024-02-14,Success,,UPI,0,Not Needed,14.99
+T00223,U0831,2024-03-04,Success,,Credit Card,0,Not Needed,9.99
+T00224,U0590,2024-03-23,Success,,UPI,0,Not Needed,9.99
+T00225,U0731,2024-02-13,Success,,Credit Card,0,Not Needed,29.99
+T00226,U0029,2024-04-07,Success,,Credit Card,0,Not Needed,9.99
+T00227,U0152,2024-03-17,Success,,UPI,0,Not Needed,49.99
+T00228,U0401,2024-02-18,Success,,UPI,0,Not Needed,99.99
+T00229,U0032,2024-03-02,Success,,UPI,0,Not Needed,14.99
+T00230,U0004,2024-04-20,Failed,Gateway Error,PayPal,0,Not Attempted,9.99
+T00231,U0872,2024-03-20,Success,,PayPal,0,Not Needed,49.99
+T00232,U0816,2024-03-11,Failed,Card Expired,Credit Card,1,Failed,19.99
+T00233,U0525,2024-05-24,Success,,Credit Card,0,Not Needed,99.99
+T00234,U0056,2024-01-28,Success,,Credit Card,0,Not Needed,9.99
+T00235,U0399,2024-02-25,Success,,UPI,0,Not Needed,14.99
+T00236,U0344,2024-03-24,Success,,Credit Card,0,Not Needed,99.99
+T00237,U0344,2024-03-07,Success,,Credit Card,0,Not Needed,9.99
+T00238,U0263,2024-03-08,Success,,Credit Card,0,Not Needed,99.99
+T00239,U0032,2024-02-28,Success,,PayPal,0,Not Needed,19.99
+T00240,U0567,2024-04-04,Success,,UPI,0,Not Needed,14.99
+T00241,U0106,2024-05-10,Success,,UPI,0,Not Needed,29.99
+T00242,U0783,2024-04-27,Success,,UPI,0,Not Needed,19.99
+T00243,U0701,2024-05-16,Success,,UPI,0,Not Needed,49.99
+T00244,U0404,2024-03-14,Success,,UPI,0,Not Needed,49.99
+T00245,U0278,2024-04-19,Success,,UPI,0,Not Needed,99.99
+T00246,U0659,2024-04-22,Success,,Credit Card,0,Not Needed,19.99
+T00247,U0864,2024-03-28,Success,,UPI,0,Not Needed,9.99
+T00248,U0716,2024-05-28,Success,,PayPal,0,Not Needed,19.99
+T00249,U0329,2024-04-20,Success,,UPI,0,Not Needed,14.99
+T00250,U0031,2024-03-25,Success,,UPI,0,Not Needed,9.99
+T00251,U0731,2024-03-21,Success,,UPI,0,Not Needed,19.99
+T00252,U0361,2024-04-29,Success,,Credit Card,0,Not Needed,9.99
+T00253,U0558,2024-03-07,Success,,PayPal,0,Not Needed,9.99
+T00254,U0663,2024-04-11,Success,,PayPal,0,Not Needed,99.99
+T00255,U0727,2024-01-30,Success,,UPI,0,Not Needed,99.99
+T00256,U0941,2024-03-05,Success,,UPI,0,Not Needed,9.99
+T00257,U0760,2024-03-12,Success,,Credit Card,0,Not Needed,49.99
+T00258,U0276,2024-05-12,Success,,PayPal,0,Not Needed,49.99
+T00259,U0554,2024-03-17,Success,,Credit Card,0,Not Needed,14.99
+T00260,U0895,2024-03-12,Success,,Credit Card,0,Not Needed,19.99
+T00261,U0356,2024-02-15,Success,,UPI,0,Not Needed,9.99
+T00262,U0576,2024-03-10,Failed,Gateway Error,PayPal,1,Successful,9.99
+T00263,U0306,2024-05-03,Success,,Credit Card,0,Not Needed,14.99
+T00264,U0522,2024-04-21,Success,,Credit Card,0,Not Needed,99.99
+T00265,U0226,2024-03-26,Success,,Credit Card,0,Not Needed,19.99
+T00266,U0575,2024-04-13,Success,,Credit Card,0,Not Needed,29.99
+T00267,U0686,2024-03-31,Success,,UPI,0,Not Needed,9.99
+T00268,U0999,2024-01-31,Failed,Gateway Error,UPI,1,Successful,99.99
+T00269,U0056,2024-02-22,Success,,Credit Card,0,Not Needed,29.99
+T00270,U0817,2024-04-20,Success,,PayPal,0,Not Needed,9.99
+T00271,U0651,2024-04-20,Success,,Credit Card,0,Not Needed,9.99
+T00272,U0621,2024-04-14,Success,,UPI,0,Not Needed,29.99
+T00273,U0918,2024-02-22,Success,,Credit Card,0,Not Needed,9.99
+T00274,U0788,2024-04-11,Success,,UPI,0,Not Needed,9.99
+T00275,U0266,2024-03-30,Success,,UPI,0,Not Needed,19.99
+T00276,U0944,2024-01-29,Success,,UPI,0,Not Needed,29.99
+T00277,U0652,2024-03-23,Success,,PayPal,0,Not Needed,49.99
+T00278,U0104,2024-02-25,Success,,UPI,0,Not Needed,99.99
+T00279,U0421,2024-02-20,Success,,PayPal,0,Not Needed,19.99
+T00280,U0274,2024-02-05,Success,,Credit Card,0,Not Needed,49.99
+T00281,U0221,2024-02-29,Success,,UPI,0,Not Needed,29.99
+T00282,U0355,2024-03-01,Failed,Insufficient Funds,UPI,0,Not Attempted,99.99
+T00283,U0486,2024-02-14,Failed,Insufficient Funds,Credit Card,0,Not Attempted,9.99
+T00284,U0161,2024-03-22,Success,,UPI,0,Not Needed,19.99
+T00285,U0676,2024-01-22,Success,,Credit Card,0,Not Needed,29.99
+T00286,U0942,2024-02-12,Success,,PayPal,0,Not Needed,29.99
+T00287,U0327,2024-02-23,Success,,PayPal,0,Not Needed,49.99
+T00288,U0694,2024-05-04,Success,,PayPal,0,Not Needed,19.99
+T00289,U0884,2024-03-08,Failed,Card Expired,UPI,0,Not Attempted,9.99
+T00290,U0103,2024-03-19,Success,,PayPal,0,Not Needed,49.99
+T00291,U0496,2024-03-17,Success,,Credit Card,0,Not Needed,49.99
+T00292,U0407,2024-02-20,Success,,UPI,0,Not Needed,99.99
+T00293,U0514,2024-03-17,Success,,UPI,0,Not Needed,19.99
+T00294,U0327,2024-03-12,Success,,Credit Card,0,Not Needed,29.99
+T00295,U0243,2024-03-10,Success,,UPI,0,Not Needed,9.99
+T00296,U0029,2024-03-28,Success,,PayPal,0,Not Needed,49.99
+T00297,U0764,2024-04-07,Success,,Credit Card,0,Not Needed,29.99
+T00298,U0670,2024-05-07,Success,,UPI,0,Not Needed,99.99
+T00299,U0464,2024-01-30,Success,,UPI,0,Not Needed,49.99
+T00300,U0133,2024-05-13,Success,,Credit Card,0,Not Needed,9.99
+T00301,U0123,2024-03-05,Success,,UPI,0,Not Needed,19.99
+T00302,U0800,2024-04-05,Success,,PayPal,0,Not Needed,49.99
+T00303,U0916,2024-04-13,Success,,PayPal,0,Not Needed,19.99
+T00304,U0630,2024-04-26,Success,,UPI,0,Not Needed,29.99
+T00305,U0107,2024-03-18,Success,,UPI,0,Not Needed,29.99
+T00306,U0494,2024-03-11,Success,,UPI,0,Not Needed,29.99
+T00307,U0540,2024-03-02,Success,,Credit Card,0,Not Needed,19.99
+T00308,U0718,2024-03-16,Failed,Gateway Error,PayPal,1,Failed,19.99
+T00309,U0705,2024-03-19,Success,,UPI,0,Not Needed,19.99
+T00310,U0754,2024-02-29,Success,,PayPal,0,Not Needed,14.99
+T00311,U0729,2024-03-24,Success,,UPI,0,Not Needed,29.99
+T00312,U0515,2024-03-04,Success,,UPI,0,Not Needed,9.99
+T00313,U0006,2024-02-28,Success,,UPI,0,Not Needed,19.99
+T00314,U0708,2024-02-26,Success,,Credit Card,0,Not Needed,49.99
+T00315,U0095,2024-05-17,Success,,UPI,0,Not Needed,19.99
+T00316,U0577,2024-03-01,Success,,Credit Card,0,Not Needed,49.99
+T00317,U0683,2024-03-13,Success,,PayPal,0,Not Needed,99.99
+T00318,U0894,2024-04-27,Success,,Credit Card,0,Not Needed,29.99
+T00319,U0663,2024-04-11,Success,,Credit Card,0,Not Needed,49.99
+T00320,U0021,2024-03-10,Success,,PayPal,0,Not Needed,99.99
+T00321,U0055,2024-03-16,Success,,PayPal,0,Not Needed,19.99
+T00322,U0725,2024-04-01,Failed,Gateway Error,Credit Card,1,Successful,14.99
+T00323,U0466,2024-01-25,Success,,UPI,0,Not Needed,99.99
+T00324,U0883,2024-01-17,Failed,Gateway Error,Credit Card,0,Not Attempted,14.99
+T00325,U0948,2024-03-18,Success,,UPI,0,Not Needed,14.99
+T00326,U0188,2024-04-25,Success,,Credit Card,0,Not Needed,49.99
+T00327,U0200,2024-02-06,Failed,Insufficient Funds,Credit Card,0,Not Attempted,9.99
+T00328,U0375,2024-02-15,Failed,Gateway Error,UPI,1,Successful,14.99
+T00329,U0715,2024-02-27,Success,,UPI,0,Not Needed,49.99
+T00330,U0646,2024-03-12,Success,,PayPal,0,Not Needed,99.99
+T00331,U0794,2024-03-09,Success,,UPI,0,Not Needed,19.99
+T00332,U0702,2024-04-11,Success,,Credit Card,0,Not Needed,49.99
+T00333,U0763,2024-04-19,Success,,PayPal,0,Not Needed,99.99
+T00334,U0588,2024-03-27,Failed,Insufficient Funds,UPI,1,Failed,49.99
+T00335,U0734,2024-05-03,Success,,UPI,0,Not Needed,29.99
+T00336,U0641,2024-03-13,Success,,Credit Card,0,Not Needed,19.99
+T00337,U0769,2024-01-08,Success,,Credit Card,0,Not Needed,19.99
+T00338,U0086,2024-01-21,Success,,PayPal,0,Not Needed,9.99
+T00339,U0243,2024-02-23,Success,,Credit Card,0,Not Needed,19.99
+T00340,U0490,2024-04-07,Success,,PayPal,0,Not Needed,29.99
+T00341,U0053,2024-02-15,Success,,Credit Card,0,Not Needed,9.99
+T00342,U0911,2024-03-17,Success,,PayPal,0,Not Needed,19.99
+T00343,U0661,2024-05-02,Success,,Credit Card,0,Not Needed,14.99
+T00344,U0067,2024-02-29,Failed,Card Expired,Credit Card,1,Successful,29.99
+T00345,U0824,2024-01-22,Success,,PayPal,0,Not Needed,14.99
+T00346,U0820,2024-02-14,Success,,Credit Card,0,Not Needed,99.99
+T00347,U0230,2024-03-03,Failed,Gateway Error,UPI,1,Failed,49.99
+T00348,U0569,2024-03-23,Success,,Credit Card,0,Not Needed,29.99
+T00349,U0992,2024-04-19,Success,,Credit Card,0,Not Needed,29.99
+T00350,U0294,2024-04-12,Success,,Credit Card,0,Not Needed,14.99
+T00351,U0414,2024-04-29,Failed,Gateway Error,Credit Card,1,Failed,9.99
+T00352,U0942,2024-02-17,Success,,PayPal,0,Not Needed,14.99
+T00353,U0160,2024-02-29,Success,,PayPal,0,Not Needed,49.99
+T00354,U0541,2024-02-16,Success,,UPI,0,Not Needed,49.99
+T00355,U0577,2024-03-31,Success,,UPI,0,Not Needed,9.99
+T00356,U0259,2024-02-21,Success,,UPI,0,Not Needed,9.99
+T00357,U0333,2024-02-20,Success,,UPI,0,Not Needed,19.99
+T00358,U0500,2024-04-19,Success,,PayPal,0,Not Needed,49.99
+T00359,U0044,2024-03-20,Failed,Gateway Error,UPI,0,Not Attempted,49.99
+T00360,U0905,2024-03-24,Success,,Credit Card,0,Not Needed,19.99
+T00361,U0866,2024-03-30,Success,,PayPal,0,Not Needed,49.99
+T00362,U0172,2024-01-22,Success,,UPI,0,Not Needed,14.99
+T00363,U0890,2024-03-29,Success,,Credit Card,0,Not Needed,99.99
+T00364,U0876,2024-04-22,Success,,Credit Card,0,Not Needed,29.99
+T00365,U0739,2024-03-04,Failed,Gateway Error,Credit Card,0,Not Attempted,99.99
+T00366,U0616,2024-05-08,Success,,Credit Card,0,Not Needed,19.99
+T00367,U0411,2024-03-26,Success,,Credit Card,0,Not Needed,29.99
+T00368,U0332,2024-05-12,Success,,UPI,0,Not Needed,99.99
+T00369,U0008,2024-02-03,Success,,Credit Card,0,Not Needed,29.99
+T00370,U0309,2024-05-21,Failed,Insufficient Funds,Credit Card,1,Failed,49.99
+T00371,U0956,2024-02-21,Success,,UPI,0,Not Needed,19.99
+T00372,U0512,2024-02-10,Success,,UPI,0,Not Needed,9.99
+T00373,U0793,2024-04-13,Success,,Credit Card,0,Not Needed,99.99
+T00374,U0597,2024-02-28,Failed,Gateway Error,UPI,1,Failed,99.99
+T00375,U0717,2024-01-16,Success,,PayPal,0,Not Needed,99.99
+T00376,U0791,2024-05-20,Success,,Credit Card,0,Not Needed,9.99
+T00377,U0887,2024-02-18,Success,,Credit Card,0,Not Needed,49.99
+T00378,U0579,2024-01-21,Success,,Credit Card,0,Not Needed,49.99
+T00379,U0737,2024-01-24,Success,,UPI,0,Not Needed,9.99
+T00380,U0014,2024-04-06,Success,,Credit Card,0,Not Needed,99.99
+T00381,U0540,2024-02-28,Success,,UPI,0,Not Needed,9.99
+T00382,U0141,2024-02-21,Success,,UPI,0,Not Needed,49.99
+T00383,U0910,2024-01-23,Success,,Credit Card,0,Not Needed,99.99
+T00384,U0980,2024-03-15,Success,,PayPal,0,Not Needed,99.99
+T00385,U0038,2024-03-12,Failed,Card Expired,Credit Card,1,Failed,99.99
+T00386,U0655,2024-03-17,Success,,Credit Card,0,Not Needed,14.99
+T00387,U0585,2024-02-28,Success,,Credit Card,0,Not Needed,9.99
+T00388,U0295,2024-04-07,Success,,Credit Card,0,Not Needed,49.99
+T00389,U0659,2024-04-20,Success,,UPI,0,Not Needed,29.99
+T00390,U0270,2024-03-30,Success,,PayPal,0,Not Needed,29.99
+T00391,U0877,2024-04-22,Failed,Insufficient Funds,Credit Card,1,Successful,19.99
+T00392,U0250,2024-04-05,Success,,Credit Card,0,Not Needed,14.99
+T00393,U0983,2024-03-16,Success,,Credit Card,0,Not Needed,49.99
+T00394,U0596,2024-01-29,Failed,Gateway Error,PayPal,1,Successful,14.99
+T00395,U0828,2024-05-18,Success,,UPI,0,Not Needed,19.99
+T00396,U0364,2024-05-20,Success,,UPI,0,Not Needed,14.99
+T00397,U0549,2024-03-16,Success,,UPI,0,Not Needed,99.99
+T00398,U0693,2024-04-19,Success,,UPI,0,Not Needed,9.99
+T00399,U0429,2024-01-23,Success,,UPI,0,Not Needed,14.99
+T00400,U0857,2024-04-03,Success,,PayPal,0,Not Needed,14.99
+T00401,U0542,2024-02-25,Success,,Credit Card,0,Not Needed,29.99
+T00402,U0631,2024-04-05,Success,,Credit Card,0,Not Needed,14.99
+T00403,U0906,2024-03-22,Success,,Credit Card,0,Not Needed,99.99
+T00404,U0989,2024-03-16,Success,,UPI,0,Not Needed,9.99
+T00405,U0162,2024-04-05,Success,,UPI,0,Not Needed,99.99
+T00406,U0374,2024-02-11,Success,,PayPal,0,Not Needed,29.99
+T00407,U0351,2024-03-22,Success,,UPI,0,Not Needed,49.99
+T00408,U0506,2024-05-07,Success,,UPI,0,Not Needed,19.99
+T00409,U0749,2024-03-02,Success,,UPI,0,Not Needed,29.99
+T00410,U0771,2024-04-29,Success,,Credit Card,0,Not Needed,9.99
+T00411,U0879,2024-03-30,Success,,PayPal,0,Not Needed,99.99
+T00412,U0206,2024-02-14,Success,,UPI,0,Not Needed,49.99
+T00413,U0902,2024-02-19,Success,,Credit Card,0,Not Needed,14.99
+T00414,U0136,2024-02-22,Failed,Card Expired,UPI,0,Not Attempted,49.99
+T00415,U0918,2024-04-09,Success,,Credit Card,0,Not Needed,14.99
+T00416,U0696,2024-01-19,Success,,PayPal,0,Not Needed,99.99
+T00417,U0064,2024-03-24,Failed,Insufficient Funds,Credit Card,0,Not Attempted,9.99
+T00418,U0790,2024-04-28,Success,,Credit Card,0,Not Needed,14.99
+T00419,U0897,2024-02-19,Failed,Insufficient Funds,Credit Card,1,Successful,14.99
+T00420,U0403,2024-03-02,Failed,Card Expired,UPI,0,Not Attempted,14.99
+T00421,U0096,2024-02-21,Failed,Gateway Error,UPI,0,Not Attempted,9.99
+T00422,U0758,2024-03-02,Success,,UPI,0,Not Needed,9.99
+T00423,U0877,2024-04-15,Failed,Card Expired,UPI,0,Not Attempted,49.99
+T00424,U0726,2024-03-07,Failed,Insufficient Funds,Credit Card,0,Not Attempted,99.99
+T00425,U0373,2024-03-26,Success,,UPI,0,Not Needed,99.99
+T00426,U0743,2024-03-22,Success,,Credit Card,0,Not Needed,49.99
+T00427,U0389,2024-03-20,Success,,UPI,0,Not Needed,9.99
+T00428,U0532,2024-02-08,Success,,PayPal,0,Not Needed,19.99
+T00429,U0023,2024-03-31,Failed,Insufficient Funds,UPI,1,Failed,29.99
+T00430,U0676,2024-01-22,Success,,Credit Card,0,Not Needed,49.99
+T00431,U0375,2024-04-09,Failed,Gateway Error,UPI,0,Not Attempted,19.99
+T00432,U0641,2024-01-21,Success,,Credit Card,0,Not Needed,49.99
+T00433,U0656,2024-01-03,Success,,UPI,0,Not Needed,99.99
+T00434,U0192,2024-02-18,Success,,Credit Card,0,Not Needed,14.99
+T00435,U0491,2024-04-05,Success,,Credit Card,0,Not Needed,19.99
+T00436,U0187,2024-03-31,Success,,PayPal,0,Not Needed,14.99
+T00437,U0281,2024-04-03,Success,,UPI,0,Not Needed,14.99
+T00438,U0154,2024-04-22,Success,,UPI,0,Not Needed,9.99
+T00439,U0085,2024-03-11,Success,,Credit Card,0,Not Needed,19.99
+T00440,U0230,2024-02-03,Failed,Insufficient Funds,UPI,0,Not Attempted,29.99
+T00441,U0647,2024-02-13,Success,,PayPal,0,Not Needed,14.99
+T00442,U0358,2024-01-17,Success,,PayPal,0,Not Needed,14.99
+T00443,U0804,2024-04-22,Success,,UPI,0,Not Needed,29.99
+T00444,U0490,2024-04-04,Success,,UPI,0,Not Needed,19.99
+T00445,U0984,2024-04-22,Success,,UPI,0,Not Needed,99.99
+T00446,U0611,2024-04-24,Success,,Credit Card,0,Not Needed,29.99
+T00447,U0380,2024-03-26,Success,,Credit Card,0,Not Needed,19.99
+T00448,U0041,2024-05-11,Success,,UPI,0,Not Needed,49.99
+T00449,U0711,2024-04-16,Success,,Credit Card,0,Not Needed,49.99
+T00450,U0547,2024-03-13,Success,,PayPal,0,Not Needed,29.99
+T00451,U0099,2024-03-22,Success,,PayPal,0,Not Needed,99.99
+T00452,U0606,2024-01-17,Success,,Credit Card,0,Not Needed,14.99
+T00453,U0809,2024-04-27,Success,,UPI,0,Not Needed,99.99
+T00454,U0190,2024-04-24,Failed,Insufficient Funds,Credit Card,1,Failed,9.99
+T00455,U0799,2024-04-06,Success,,Credit Card,0,Not Needed,99.99
+T00456,U0416,2024-04-06,Success,,Credit Card,0,Not Needed,19.99
+T00457,U0643,2024-04-11,Failed,Gateway Error,Credit Card,0,Not Attempted,49.99
+T00458,U0826,2024-04-19,Success,,PayPal,0,Not Needed,49.99
+T00459,U0933,2024-03-08,Success,,UPI,0,Not Needed,29.99
+T00460,U0408,2024-02-26,Success,,UPI,0,Not Needed,9.99
+T00461,U0819,2024-03-22,Success,,UPI,0,Not Needed,19.99
+T00462,U0880,2024-04-02,Success,,Credit Card,0,Not Needed,99.99
+T00463,U0858,2024-03-25,Success,,Credit Card,0,Not Needed,19.99
+T00464,U0360,2024-04-21,Success,,Credit Card,0,Not Needed,9.99
+T00465,U0615,2024-04-08,Success,,UPI,0,Not Needed,9.99
+T00466,U0269,2024-03-28,Failed,Insufficient Funds,Credit Card,0,Not Attempted,49.99
+T00467,U0121,2024-01-30,Failed,Card Expired,Credit Card,1,Failed,9.99
+T00468,U0998,2024-04-16,Failed,Card Expired,Credit Card,1,Successful,99.99
+T00469,U0448,2024-04-16,Success,,PayPal,0,Not Needed,99.99
+T00470,U0593,2024-02-21,Success,,PayPal,0,Not Needed,29.99
+T00471,U0983,2024-03-13,Success,,Credit Card,0,Not Needed,14.99
+T00472,U0236,2024-02-21,Success,,UPI,0,Not Needed,49.99
+T00473,U0664,2024-03-15,Success,,UPI,0,Not Needed,29.99
+T00474,U0814,2024-02-11,Success,,PayPal,0,Not Needed,99.99
+T00475,U0614,2024-04-14,Success,,PayPal,0,Not Needed,29.99
+T00476,U0767,2024-03-26,Success,,PayPal,0,Not Needed,29.99
+T00477,U0315,2024-03-18,Success,,UPI,0,Not Needed,14.99
+T00478,U0843,2024-02-15,Success,,Credit Card,0,Not Needed,99.99
+T00479,U0432,2024-03-21,Success,,Credit Card,0,Not Needed,99.99
+T00480,U0560,2024-03-13,Failed,Card Expired,UPI,0,Not Attempted,99.99
+T00481,U0864,2024-04-27,Success,,PayPal,0,Not Needed,19.99
+T00482,U0073,2024-04-25,Failed,Gateway Error,Credit Card,1,Successful,99.99
+T00483,U0320,2024-04-11,Success,,Credit Card,0,Not Needed,19.99
+T00484,U0406,2024-04-24,Success,,PayPal,0,Not Needed,49.99
+T00485,U0804,2024-04-06,Success,,UPI,0,Not Needed,29.99
+T00486,U0783,2024-05-10,Success,,Credit Card,0,Not Needed,9.99
+T00487,U0044,2024-05-02,Success,,UPI,0,Not Needed,29.99
+T00488,U0998,2024-05-13,Failed,Gateway Error,UPI,1,Successful,19.99
+T00489,U0104,2024-04-11,Success,,PayPal,0,Not Needed,29.99
+T00490,U0171,2024-03-31,Failed,Gateway Error,PayPal,1,Successful,99.99
+T00491,U0635,2024-03-06,Success,,PayPal,0,Not Needed,29.99
+T00492,U0487,2024-04-04,Success,,Credit Card,0,Not Needed,9.99
+T00493,U0820,2024-02-22,Success,,UPI,0,Not Needed,14.99
+T00494,U0489,2024-02-27,Failed,Insufficient Funds,UPI,1,Failed,9.99
+T00495,U0506,2024-04-04,Success,,Credit Card,0,Not Needed,19.99
+T00496,U0714,2024-03-01,Success,,Credit Card,0,Not Needed,49.99
+T00497,U0364,2024-04-09,Success,,Credit Card,0,Not Needed,49.99
+T00498,U0463,2024-03-21,Success,,PayPal,0,Not Needed,19.99
+T00499,U0875,2024-03-31,Success,,UPI,0,Not Needed,14.99
+T00500,U0567,2024-04-05,Success,,UPI,0,Not Needed,49.99
+T00501,U0249,2024-02-03,Success,,UPI,0,Not Needed,19.99
+T00502,U0654,2024-03-09,Success,,UPI,0,Not Needed,14.99
+T00503,U0618,2024-03-27,Success,,UPI,0,Not Needed,14.99
+T00504,U0234,2024-05-18,Success,,Credit Card,0,Not Needed,14.99
+T00505,U0383,2024-02-15,Success,,UPI,0,Not Needed,49.99
+T00506,U0897,2024-01-22,Success,,Credit Card,0,Not Needed,29.99
+T00507,U0989,2024-03-18,Success,,UPI,0,Not Needed,14.99
+T00508,U0470,2024-03-21,Success,,Credit Card,0,Not Needed,19.99
+T00509,U0265,2024-03-04,Success,,PayPal,0,Not Needed,14.99
+T00510,U0058,2024-03-18,Success,,Credit Card,0,Not Needed,29.99
+T00511,U0456,2024-03-04,Success,,UPI,0,Not Needed,19.99
+T00512,U0663,2024-04-24,Success,,Credit Card,0,Not Needed,9.99
+T00513,U0634,2024-02-28,Success,,UPI,0,Not Needed,14.99
+T00514,U0198,2024-04-04,Success,,PayPal,0,Not Needed,9.99
+T00515,U0110,2024-04-24,Failed,Card Expired,UPI,0,Not Attempted,99.99
+T00516,U0278,2024-04-07,Success,,Credit Card,0,Not Needed,19.99
+T00517,U0759,2024-02-23,Failed,Card Expired,PayPal,1,Failed,99.99
+T00518,U0538,2024-02-03,Success,,PayPal,0,Not Needed,29.99
+T00519,U0972,2024-03-20,Success,,Credit Card,0,Not Needed,49.99
+T00520,U0715,2024-03-03,Success,,PayPal,0,Not Needed,29.99
+T00521,U0793,2024-04-15,Success,,Credit Card,0,Not Needed,14.99
+T00522,U0597,2024-04-05,Success,,Credit Card,0,Not Needed,9.99
+T00523,U0573,2024-02-15,Success,,UPI,0,Not Needed,9.99
+T00524,U0651,2024-05-22,Success,,Credit Card,0,Not Needed,29.99
+T00525,U0017,2024-03-20,Success,,Credit Card,0,Not Needed,49.99
+T00526,U0863,2024-02-15,Success,,Credit Card,0,Not Needed,29.99
+T00527,U0071,2024-01-31,Success,,Credit Card,0,Not Needed,9.99
+T00528,U0321,2024-05-12,Success,,UPI,0,Not Needed,14.99
+T00529,U0211,2024-04-09,Failed,Card Expired,UPI,0,Not Attempted,49.99
+T00530,U0951,2024-01-28,Success,,Credit Card,0,Not Needed,29.99
+T00531,U0200,2024-01-28,Failed,Gateway Error,PayPal,1,Failed,9.99
+T00532,U0340,2024-05-03,Success,,UPI,0,Not Needed,9.99
+T00533,U0517,2024-04-17,Success,,Credit Card,0,Not Needed,29.99
+T00534,U0102,2024-04-05,Success,,Credit Card,0,Not Needed,9.99
+T00535,U0582,2024-02-06,Failed,Insufficient Funds,UPI,1,Successful,49.99
+T00536,U0775,2024-02-24,Success,,PayPal,0,Not Needed,29.99
+T00537,U0289,2024-02-17,Success,,UPI,0,Not Needed,19.99
+T00538,U0065,2024-04-27,Success,,PayPal,0,Not Needed,29.99
+T00539,U0301,2024-04-19,Success,,UPI,0,Not Needed,14.99
+T00540,U0441,2024-04-14,Success,,UPI,0,Not Needed,19.99
+T00541,U0962,2024-02-25,Success,,UPI,0,Not Needed,49.99
+T00542,U0689,2024-03-13,Success,,Credit Card,0,Not Needed,99.99
+T00543,U0816,2024-03-15,Success,,PayPal,0,Not Needed,9.99
+T00544,U0632,2024-04-24,Success,,Credit Card,0,Not Needed,14.99
+T00545,U0829,2024-04-24,Success,,Credit Card,0,Not Needed,19.99
+T00546,U0887,2024-02-15,Success,,UPI,0,Not Needed,99.99
+T00547,U0602,2024-03-14,Success,,UPI,0,Not Needed,49.99
+T00548,U0127,2024-05-06,Success,,UPI,0,Not Needed,29.99
+T00549,U0866,2024-02-06,Success,,Credit Card,0,Not Needed,9.99
+T00550,U0994,2024-02-22,Success,,Credit Card,0,Not Needed,99.99
+T00551,U0905,2024-04-04,Success,,UPI,0,Not Needed,99.99
+T00552,U0833,2024-02-14,Success,,UPI,0,Not Needed,19.99
+T00553,U0513,2024-01-17,Success,,PayPal,0,Not Needed,99.99
+T00554,U0719,2024-03-18,Failed,Gateway Error,UPI,0,Not Attempted,49.99
+T00555,U0821,2024-03-21,Success,,Credit Card,0,Not Needed,49.99
+T00556,U0119,2024-03-08,Success,,UPI,0,Not Needed,49.99
+T00557,U0762,2024-03-17,Success,,Credit Card,0,Not Needed,49.99
+T00558,U0097,2024-04-07,Success,,UPI,0,Not Needed,19.99
+T00559,U0255,2024-04-06,Failed,Gateway Error,UPI,0,Not Attempted,49.99
+T00560,U0210,2024-01-05,Success,,Credit Card,0,Not Needed,49.99
+T00561,U0503,2024-02-11,Success,,Credit Card,0,Not Needed,99.99
+T00562,U0348,2024-04-29,Success,,UPI,0,Not Needed,99.99
+T00563,U0624,2024-03-08,Failed,Gateway Error,PayPal,0,Not Attempted,19.99
+T00564,U0737,2024-02-02,Failed,Gateway Error,UPI,0,Not Attempted,99.99
+T00565,U0780,2024-03-29,Failed,Insufficient Funds,UPI,1,Successful,49.99
+T00566,U0301,2024-04-18,Success,,Credit Card,0,Not Needed,29.99
+T00567,U0995,2024-03-06,Failed,Gateway Error,PayPal,0,Not Attempted,99.99
+T00568,U0703,2024-03-24,Success,,UPI,0,Not Needed,9.99
+T00569,U0938,2024-03-25,Success,,PayPal,0,Not Needed,99.99
+T00570,U0342,2024-04-06,Success,,Credit Card,0,Not Needed,14.99
+T00571,U0733,2024-03-03,Success,,UPI,0,Not Needed,29.99
+T00572,U0995,2024-01-20,Success,,Credit Card,0,Not Needed,49.99
+T00573,U0804,2024-03-01,Success,,UPI,0,Not Needed,9.99
+T00574,U0041,2024-04-27,Success,,UPI,0,Not Needed,29.99
+T00575,U0670,2024-04-21,Success,,Credit Card,0,Not Needed,99.99
+T00576,U0183,2024-05-17,Failed,Gateway Error,UPI,1,Failed,9.99
+T00577,U0343,2024-03-19,Failed,Insufficient Funds,Credit Card,1,Failed,99.99
+T00578,U0091,2024-02-06,Success,,Credit Card,0,Not Needed,19.99
+T00579,U0911,2024-02-29,Success,,Credit Card,0,Not Needed,99.99
+T00580,U0589,2024-01-30,Failed,Gateway Error,PayPal,1,Successful,29.99
+T00581,U0396,2024-02-15,Success,,PayPal,0,Not Needed,29.99
+T00582,U0333,2024-02-28,Success,,Credit Card,0,Not Needed,9.99
+T00583,U0859,2024-01-28,Success,,UPI,0,Not Needed,14.99
+T00584,U0555,2024-03-28,Success,,UPI,0,Not Needed,99.99
+T00585,U0254,2024-05-16,Success,,UPI,0,Not Needed,99.99
+T00586,U0482,2024-05-05,Success,,Credit Card,0,Not Needed,99.99
+T00587,U0936,2024-04-19,Failed,Card Expired,Credit Card,0,Not Attempted,14.99
+T00588,U0746,2024-03-30,Success,,UPI,0,Not Needed,99.99
+T00589,U0851,2024-05-07,Success,,Credit Card,0,Not Needed,9.99
+T00590,U0040,2024-05-14,Failed,Gateway Error,PayPal,0,Not Attempted,9.99
+T00591,U0844,2024-03-06,Failed,Gateway Error,Credit Card,1,Successful,9.99
+T00592,U0810,2024-03-30,Success,,UPI,0,Not Needed,29.99
+T00593,U0868,2024-03-04,Success,,UPI,0,Not Needed,9.99
+T00594,U0439,2024-04-07,Success,,PayPal,0,Not Needed,14.99
+T00595,U0396,2024-01-19,Success,,Credit Card,0,Not Needed,49.99
+T00596,U0135,2024-02-03,Success,,Credit Card,0,Not Needed,99.99
+T00597,U1000,2024-03-11,Success,,Credit Card,0,Not Needed,19.99
+T00598,U0768,2024-03-31,Success,,Credit Card,0,Not Needed,99.99
+T00599,U0181,2024-02-13,Success,,UPI,0,Not Needed,29.99
+T00600,U0377,2024-03-23,Success,,Credit Card,0,Not Needed,19.99
+T00601,U0177,2024-04-21,Success,,Credit Card,0,Not Needed,49.99
+T00602,U0854,2024-01-25,Success,,UPI,0,Not Needed,49.99
+T00603,U0199,2024-04-25,Success,,UPI,0,Not Needed,99.99
+T00604,U0565,2024-05-08,Success,,UPI,0,Not Needed,29.99
+T00605,U0353,2024-04-18,Success,,Credit Card,0,Not Needed,99.99
+T00606,U0564,2024-02-11,Failed,Gateway Error,PayPal,0,Not Attempted,29.99
+T00607,U0616,2024-05-24,Success,,PayPal,0,Not Needed,49.99
+T00608,U0237,2024-03-13,Failed,Insufficient Funds,UPI,0,Not Attempted,14.99
+T00609,U0357,2024-01-27,Failed,Card Expired,UPI,1,Successful,49.99
+T00610,U0605,2024-01-31,Success,,UPI,0,Not Needed,99.99
+T00611,U0810,2024-05-09,Success,,PayPal,0,Not Needed,99.99
+T00612,U0221,2024-01-28,Success,,Credit Card,0,Not Needed,14.99
+T00613,U0591,2024-03-06,Success,,Credit Card,0,Not Needed,29.99
+T00614,U0034,2024-02-18,Success,,PayPal,0,Not Needed,19.99
+T00615,U0546,2024-03-26,Success,,UPI,0,Not Needed,19.99
+T00616,U0469,2024-02-26,Success,,PayPal,0,Not Needed,19.99
+T00617,U0227,2024-02-26,Failed,Card Expired,UPI,1,Successful,9.99
+T00618,U0981,2024-04-23,Success,,Credit Card,0,Not Needed,14.99
+T00619,U0918,2024-03-18,Success,,UPI,0,Not Needed,9.99
+T00620,U0374,2024-02-06,Failed,Gateway Error,Credit Card,0,Not Attempted,9.99
+T00621,U0775,2024-03-19,Success,,PayPal,0,Not Needed,14.99
+T00622,U0637,2024-04-06,Success,,UPI,0,Not Needed,49.99
+T00623,U0859,2024-03-11,Success,,PayPal,0,Not Needed,9.99
+T00624,U0805,2024-04-05,Success,,Credit Card,0,Not Needed,99.99
+T00625,U0297,2024-02-10,Success,,PayPal,0,Not Needed,19.99
+T00626,U0642,2024-02-26,Success,,UPI,0,Not Needed,29.99
+T00627,U0039,2024-04-10,Success,,UPI,0,Not Needed,99.99
+T00628,U0448,2024-05-19,Success,,PayPal,0,Not Needed,49.99
+T00629,U0816,2024-03-03,Failed,Insufficient Funds,UPI,1,Successful,14.99
+T00630,U0014,2024-04-11,Success,,UPI,0,Not Needed,29.99
+T00631,U0495,2024-04-07,Success,,PayPal,0,Not Needed,99.99
+T00632,U0135,2024-01-30,Success,,PayPal,0,Not Needed,29.99
+T00633,U0237,2024-03-12,Success,,Credit Card,0,Not Needed,9.99
+T00634,U0908,2024-03-04,Success,,PayPal,0,Not Needed,9.99
+T00635,U0971,2024-03-31,Failed,Gateway Error,Credit Card,0,Not Attempted,14.99
+T00636,U0783,2024-05-06,Success,,Credit Card,0,Not Needed,19.99
+T00637,U0303,2024-04-24,Success,,UPI,0,Not Needed,19.99
+T00638,U0479,2024-05-16,Success,,Credit Card,0,Not Needed,99.99
+T00639,U0836,2024-03-27,Success,,Credit Card,0,Not Needed,29.99
+T00640,U0003,2024-04-06,Failed,Gateway Error,UPI,0,Not Attempted,19.99
+T00641,U0102,2024-05-02,Failed,Gateway Error,UPI,1,Failed,29.99
+T00642,U0538,2024-03-04,Success,,Credit Card,0,Not Needed,99.99
+T00643,U0815,2024-04-30,Success,,Credit Card,0,Not Needed,14.99
+T00644,U0765,2024-02-09,Success,,UPI,0,Not Needed,99.99
+T00645,U0437,2024-02-28,Success,,UPI,0,Not Needed,9.99
+T00646,U0550,2024-01-17,Success,,UPI,0,Not Needed,9.99
+T00647,U0316,2024-04-16,Success,,UPI,0,Not Needed,49.99
+T00648,U0444,2024-04-18,Success,,UPI,0,Not Needed,9.99
+T00649,U0166,2024-04-07,Success,,UPI,0,Not Needed,99.99
+T00650,U0288,2024-03-22,Success,,UPI,0,Not Needed,19.99
+T00651,U0319,2024-03-28,Success,,PayPal,0,Not Needed,14.99
+T00652,U0334,2024-03-16,Success,,PayPal,0,Not Needed,49.99
+T00653,U0320,2024-03-19,Success,,Credit Card,0,Not Needed,14.99
+T00654,U0827,2024-02-22,Success,,UPI,0,Not Needed,29.99
+T00655,U0039,2024-05-02,Success,,Credit Card,0,Not Needed,19.99
+T00656,U0452,2024-04-02,Failed,Insufficient Funds,PayPal,1,Failed,29.99
+T00657,U0329,2024-04-23,Success,,UPI,0,Not Needed,29.99
+T00658,U0309,2024-05-17,Failed,Card Expired,Credit Card,0,Not Attempted,14.99
+T00659,U0860,2024-02-15,Success,,Credit Card,0,Not Needed,14.99
+T00660,U0703,2024-03-25,Success,,UPI,0,Not Needed,14.99
+T00661,U0574,2024-02-12,Failed,Gateway Error,PayPal,0,Not Attempted,14.99
+T00662,U0665,2024-03-29,Success,,Credit Card,0,Not Needed,9.99
+T00663,U0443,2024-02-18,Failed,Insufficient Funds,UPI,1,Failed,29.99
+T00664,U0385,2024-05-11,Success,,Credit Card,0,Not Needed,99.99
+T00665,U0474,2024-05-20,Failed,Insufficient Funds,PayPal,1,Successful,19.99
+T00666,U0007,2024-04-13,Success,,UPI,0,Not Needed,19.99
+T00667,U0712,2024-05-25,Failed,Insufficient Funds,UPI,0,Not Attempted,9.99
+T00668,U0626,2024-03-12,Success,,UPI,0,Not Needed,14.99
+T00669,U0681,2024-03-05,Success,,UPI,0,Not Needed,99.99
+T00670,U0647,2024-02-28,Success,,Credit Card,0,Not Needed,29.99
+T00671,U0214,2024-01-29,Success,,Credit Card,0,Not Needed,14.99
+T00672,U0733,2024-01-08,Success,,PayPal,0,Not Needed,29.99
+T00673,U0295,2024-04-01,Failed,Card Expired,Credit Card,1,Failed,29.99
+T00674,U0500,2024-03-29,Success,,UPI,0,Not Needed,49.99
+T00675,U0116,2024-03-07,Success,,UPI,0,Not Needed,9.99
+T00676,U0578,2024-04-15,Failed,Gateway Error,UPI,0,Not Attempted,9.99
+T00677,U0525,2024-05-11,Success,,UPI,0,Not Needed,14.99
+T00678,U0207,2024-04-29,Failed,Gateway Error,UPI,0,Not Attempted,49.99
+T00679,U0398,2024-03-04,Failed,Gateway Error,UPI,0,Not Attempted,19.99
+T00680,U0567,2024-04-13,Success,,Credit Card,0,Not Needed,29.99
+T00681,U0412,2024-02-10,Success,,UPI,0,Not Needed,19.99
+T00682,U0485,2024-04-23,Failed,Insufficient Funds,Credit Card,0,Not Attempted,99.99
+T00683,U0877,2024-05-03,Failed,Card Expired,UPI,0,Not Attempted,29.99
+T00684,U0428,2024-05-01,Success,,Credit Card,0,Not Needed,9.99
+T00685,U0699,2024-03-27,Success,,PayPal,0,Not Needed,19.99
+T00686,U0824,2024-02-10,Success,,Credit Card,0,Not Needed,19.99
+T00687,U0196,2024-03-15,Success,,UPI,0,Not Needed,49.99
+T00688,U0249,2024-03-04,Success,,Credit Card,0,Not Needed,9.99
+T00689,U0026,2024-03-04,Success,,UPI,0,Not Needed,14.99
+T00690,U0022,2024-03-14,Success,,Credit Card,0,Not Needed,29.99
+T00691,U0864,2024-04-11,Success,,Credit Card,0,Not Needed,99.99
+T00692,U0213,2024-05-23,Success,,Credit Card,0,Not Needed,99.99
+T00693,U0179,2024-02-17,Success,,Credit Card,0,Not Needed,29.99
+T00694,U0748,2024-02-09,Success,,UPI,0,Not Needed,9.99
+T00695,U0015,2024-02-05,Success,,Credit Card,0,Not Needed,19.99
+T00696,U0650,2024-03-18,Failed,Gateway Error,PayPal,1,Failed,29.99
+T00697,U0898,2024-04-12,Success,,UPI,0,Not Needed,9.99
+T00698,U0598,2024-04-04,Success,,Credit Card,0,Not Needed,19.99
+T00699,U0748,2024-03-25,Success,,Credit Card,0,Not Needed,29.99
+T00700,U0174,2024-01-31,Success,,Credit Card,0,Not Needed,9.99
+T00701,U0959,2024-02-07,Success,,UPI,0,Not Needed,99.99
+T00702,U0756,2024-03-03,Success,,Credit Card,0,Not Needed,29.99
+T00703,U0771,2024-04-04,Success,,PayPal,0,Not Needed,49.99
+T00704,U0300,2024-05-19,Success,,Credit Card,0,Not Needed,14.99
+T00705,U0867,2024-04-01,Success,,PayPal,0,Not Needed,14.99
+T00706,U0712,2024-04-25,Success,,PayPal,0,Not Needed,9.99
+T00707,U0075,2024-04-04,Failed,Gateway Error,PayPal,0,Not Attempted,9.99
+T00708,U0470,2024-04-04,Success,,UPI,0,Not Needed,19.99
+T00709,U0119,2024-03-17,Success,,Credit Card,0,Not Needed,99.99
+T00710,U0765,2024-02-17,Success,,UPI,0,Not Needed,29.99
+T00711,U0037,2024-03-11,Success,,PayPal,0,Not Needed,14.99
+T00712,U0343,2024-03-04,Success,,Credit Card,0,Not Needed,49.99
+T00713,U0810,2024-05-02,Success,,PayPal,0,Not Needed,49.99
+T00714,U0542,2024-02-29,Success,,UPI,0,Not Needed,14.99
+T00715,U0367,2024-01-17,Failed,Gateway Error,UPI,1,Failed,9.99
+T00716,U0188,2024-04-07,Success,,Credit Card,0,Not Needed,29.99
+T00717,U0656,2024-01-19,Success,,UPI,0,Not Needed,9.99
+T00718,U0838,2024-03-04,Success,,PayPal,0,Not Needed,19.99
+T00719,U0150,2024-03-10,Failed,Card Expired,Credit Card,1,Successful,99.99
+T00720,U0727,2024-03-21,Success,,Credit Card,0,Not Needed,14.99
+T00721,U0400,2024-03-11,Success,,PayPal,0,Not Needed,99.99
+T00722,U0480,2024-05-09,Success,,PayPal,0,Not Needed,19.99
+T00723,U0241,2024-03-16,Success,,PayPal,0,Not Needed,9.99
+T00724,U0040,2024-05-08,Success,,PayPal,0,Not Needed,19.99
+T00725,U0304,2024-02-09,Success,,Credit Card,0,Not Needed,9.99
+T00726,U0752,2024-03-29,Success,,UPI,0,Not Needed,19.99
+T00727,U0203,2024-05-11,Success,,UPI,0,Not Needed,14.99
+T00728,U0092,2024-05-20,Success,,Credit Card,0,Not Needed,19.99
+T00729,U0506,2024-04-06,Success,,UPI,0,Not Needed,14.99
+T00730,U0247,2024-01-30,Success,,Credit Card,0,Not Needed,14.99
+T00731,U0824,2024-02-29,Success,,UPI,0,Not Needed,19.99
+T00732,U0878,2024-03-12,Success,,UPI,0,Not Needed,19.99
+T00733,U0559,2024-03-02,Success,,UPI,0,Not Needed,99.99
+T00734,U0228,2024-04-13,Success,,UPI,0,Not Needed,9.99
+T00735,U0558,2024-03-07,Failed,Card Expired,Credit Card,1,Failed,29.99
+T00736,U0349,2024-03-09,Success,,PayPal,0,Not Needed,49.99
+T00737,U0433,2024-03-07,Success,,Credit Card,0,Not Needed,99.99
+T00738,U0102,2024-03-28,Failed,Card Expired,UPI,0,Not Attempted,9.99
+T00739,U0631,2024-03-24,Success,,PayPal,0,Not Needed,29.99
+T00740,U0694,2024-05-02,Success,,Credit Card,0,Not Needed,19.99
+T00741,U0647,2024-03-05,Success,,PayPal,0,Not Needed,49.99
+T00742,U0496,2024-02-20,Success,,UPI,0,Not Needed,49.99
+T00743,U0415,2024-03-12,Success,,PayPal,0,Not Needed,29.99
+T00744,U0079,2024-02-14,Success,,UPI,0,Not Needed,99.99
+T00745,U0607,2024-02-01,Success,,Credit Card,0,Not Needed,14.99
+T00746,U0580,2024-01-20,Failed,Insufficient Funds,UPI,1,Successful,19.99
+T00747,U0434,2024-04-02,Success,,Credit Card,0,Not Needed,19.99
+T00748,U0655,2024-03-30,Failed,Gateway Error,UPI,1,Successful,19.99
+T00749,U0750,2024-03-11,Success,,Credit Card,0,Not Needed,14.99
+T00750,U0148,2024-02-11,Success,,PayPal,0,Not Needed,19.99
+T00751,U0804,2024-02-27,Success,,Credit Card,0,Not Needed,14.99
+T00752,U0754,2024-03-24,Success,,Credit Card,0,Not Needed,19.99
+T00753,U0083,2024-04-11,Success,,Credit Card,0,Not Needed,9.99
+T00754,U0630,2024-05-16,Success,,Credit Card,0,Not Needed,29.99
+T00755,U0901,2024-03-25,Success,,PayPal,0,Not Needed,99.99
+T00756,U0264,2024-05-11,Success,,UPI,0,Not Needed,99.99
+T00757,U0855,2024-04-24,Success,,PayPal,0,Not Needed,14.99
+T00758,U0352,2024-01-20,Success,,Credit Card,0,Not Needed,14.99
+T00759,U0992,2024-04-17,Success,,UPI,0,Not Needed,49.99
+T00760,U0843,2024-02-19,Success,,PayPal,0,Not Needed,29.99
+T00761,U0978,2024-03-10,Success,,UPI,0,Not Needed,19.99
+T00762,U0275,2024-03-03,Success,,UPI,0,Not Needed,9.99
+T00763,U0274,2024-02-12,Success,,Credit Card,0,Not Needed,49.99
+T00764,U0321,2024-04-07,Success,,UPI,0,Not Needed,29.99
+T00765,U0372,2024-02-27,Success,,PayPal,0,Not Needed,29.99
+T00766,U0030,2024-04-02,Failed,Insufficient Funds,Credit Card,0,Not Attempted,19.99
+T00767,U0939,2024-04-10,Success,,UPI,0,Not Needed,19.99
+T00768,U0360,2024-04-07,Success,,PayPal,0,Not Needed,19.99
+T00769,U0715,2024-02-26,Success,,Credit Card,0,Not Needed,19.99
+T00770,U0103,2024-04-02,Success,,Credit Card,0,Not Needed,9.99
+T00771,U0197,2024-05-08,Success,,UPI,0,Not Needed,29.99
+T00772,U0006,2024-03-12,Success,,UPI,0,Not Needed,29.99
+T00773,U0039,2024-05-17,Success,,Credit Card,0,Not Needed,9.99
+T00774,U0399,2024-01-23,Success,,Credit Card,0,Not Needed,14.99
+T00775,U0768,2024-04-01,Success,,Credit Card,0,Not Needed,19.99
+T00776,U0765,2024-02-21,Success,,PayPal,0,Not Needed,14.99
+T00777,U0517,2024-04-18,Success,,UPI,0,Not Needed,99.99
+T00778,U0345,2024-01-29,Success,,PayPal,0,Not Needed,14.99
+T00779,U0076,2024-01-20,Success,,UPI,0,Not Needed,19.99
+T00780,U0750,2024-03-08,Success,,UPI,0,Not Needed,29.99
+T00781,U0710,2024-01-25,Failed,Card Expired,Credit Card,0,Not Attempted,29.99
+T00782,U0051,2024-03-30,Failed,Card Expired,UPI,1,Successful,19.99
+T00783,U0186,2024-03-03,Success,,Credit Card,0,Not Needed,9.99
+T00784,U0257,2024-03-01,Success,,UPI,0,Not Needed,99.99
+T00785,U0068,2024-02-06,Failed,Insufficient Funds,UPI,0,Not Attempted,9.99
+T00786,U0487,2024-03-21,Failed,Gateway Error,PayPal,1,Failed,29.99
+T00787,U0168,2024-03-25,Success,,UPI,0,Not Needed,29.99
+T00788,U0516,2024-03-15,Success,,UPI,0,Not Needed,99.99
+T00789,U0496,2024-02-17,Success,,UPI,0,Not Needed,29.99
+T00790,U0461,2024-03-29,Success,,UPI,0,Not Needed,49.99
+T00791,U0668,2024-04-24,Success,,PayPal,0,Not Needed,29.99
+T00792,U0691,2024-03-27,Success,,Credit Card,0,Not Needed,29.99
+T00793,U0586,2024-02-12,Success,,UPI,0,Not Needed,99.99
+T00794,U0136,2024-03-13,Failed,Card Expired,Credit Card,0,Not Attempted,29.99
+T00795,U0583,2024-03-19,Success,,Credit Card,0,Not Needed,49.99
+T00796,U0553,2024-03-02,Success,,Credit Card,0,Not Needed,49.99
+T00797,U0809,2024-04-14,Success,,Credit Card,0,Not Needed,49.99
+T00798,U0059,2024-01-24,Success,,UPI,0,Not Needed,9.99
+T00799,U0096,2024-02-10,Success,,UPI,0,Not Needed,9.99
+T00800,U0758,2024-03-28,Success,,UPI,0,Not Needed,29.99
+T00801,U0541,2024-01-24,Success,,PayPal,0,Not Needed,29.99
+T00802,U0704,2024-04-09,Success,,UPI,0,Not Needed,49.99
+T00803,U0251,2024-04-11,Success,,UPI,0,Not Needed,14.99
+T00804,U0083,2024-04-24,Success,,PayPal,0,Not Needed,29.99
+T00805,U0212,2024-04-20,Failed,Gateway Error,UPI,0,Not Attempted,9.99
+T00806,U0104,2024-03-07,Success,,PayPal,0,Not Needed,14.99
+T00807,U0547,2024-03-24,Success,,Credit Card,0,Not Needed,14.99
+T00808,U0938,2024-05-13,Success,,UPI,0,Not Needed,29.99
+T00809,U0749,2024-03-01,Success,,UPI,0,Not Needed,14.99
+T00810,U0684,2024-03-07,Success,,PayPal,0,Not Needed,9.99
+T00811,U0457,2024-02-18,Success,,UPI,0,Not Needed,29.99
+T00812,U0892,2024-02-24,Success,,UPI,0,Not Needed,99.99
+T00813,U0468,2024-03-21,Success,,UPI,0,Not Needed,19.99
+T00814,U0822,2024-03-04,Success,,Credit Card,0,Not Needed,99.99
+T00815,U0051,2024-03-21,Success,,UPI,0,Not Needed,49.99
+T00816,U0621,2024-04-18,Success,,PayPal,0,Not Needed,99.99
+T00817,U0618,2024-03-13,Success,,UPI,0,Not Needed,19.99
+T00818,U0743,2024-03-24,Failed,Gateway Error,UPI,0,Not Attempted,49.99
+T00819,U0440,2024-02-15,Success,,UPI,0,Not Needed,49.99
+T00820,U0535,2024-03-16,Failed,Card Expired,PayPal,0,Not Attempted,99.99
+T00821,U0122,2024-03-04,Success,,PayPal,0,Not Needed,29.99
+T00822,U0021,2024-04-05,Success,,UPI,0,Not Needed,29.99
+T00823,U0335,2024-05-07,Success,,UPI,0,Not Needed,99.99
+T00824,U0814,2024-03-15,Success,,Credit Card,0,Not Needed,99.99
+T00825,U0764,2024-04-25,Success,,UPI,0,Not Needed,14.99
+T00826,U0658,2024-02-25,Success,,PayPal,0,Not Needed,14.99
+T00827,U0937,2024-04-04,Failed,Insufficient Funds,UPI,0,Not Attempted,14.99
+T00828,U0575,2024-02-22,Success,,UPI,0,Not Needed,14.99
+T00829,U0552,2024-05-02,Success,,Credit Card,0,Not Needed,29.99
+T00830,U0169,2024-04-08,Success,,UPI,0,Not Needed,99.99
+T00831,U0403,2024-03-05,Failed,Card Expired,PayPal,1,Failed,49.99
+T00832,U0459,2024-04-24,Failed,Insufficient Funds,UPI,0,Not Attempted,49.99
+T00833,U0836,2024-04-03,Success,,UPI,0,Not Needed,19.99
+T00834,U0091,2024-02-16,Success,,UPI,0,Not Needed,29.99
+T00835,U0650,2024-05-14,Failed,Gateway Error,UPI,1,Successful,49.99
+T00836,U0034,2024-01-12,Success,,Credit Card,0,Not Needed,99.99
+T00837,U0504,2024-04-20,Failed,Insufficient Funds,PayPal,1,Successful,49.99
+T00838,U0832,2024-02-22,Success,,UPI,0,Not Needed,49.99
+T00839,U0755,2024-02-24,Success,,PayPal,0,Not Needed,99.99
+T00840,U0782,2024-04-24,Success,,PayPal,0,Not Needed,49.99
+T00841,U0455,2024-03-07,Success,,UPI,0,Not Needed,19.99
+T00842,U0065,2024-04-28,Success,,UPI,0,Not Needed,99.99
+T00843,U0204,2024-04-07,Success,,Credit Card,0,Not Needed,29.99
+T00844,U0880,2024-04-17,Success,,UPI,0,Not Needed,29.99
+T00845,U0404,2024-02-01,Success,,Credit Card,0,Not Needed,9.99
+T00846,U0298,2024-05-03,Success,,Credit Card,0,Not Needed,19.99
+T00847,U0017,2024-03-19,Success,,UPI,0,Not Needed,49.99
+T00848,U0853,2024-03-04,Success,,UPI,0,Not Needed,19.99
+T00849,U0202,2024-03-31,Failed,Card Expired,UPI,1,Failed,29.99
+T00850,U0148,2024-01-27,Failed,Insufficient Funds,Credit Card,1,Successful,99.99
+T00851,U0835,2024-03-01,Success,,UPI,0,Not Needed,14.99
+T00852,U0484,2024-02-25,Failed,Gateway Error,PayPal,0,Not Attempted,99.99
+T00853,U0662,2024-04-09,Success,,PayPal,0,Not Needed,29.99
+T00854,U0406,2024-04-13,Success,,PayPal,0,Not Needed,19.99
+T00855,U0756,2024-02-01,Success,,PayPal,0,Not Needed,9.99
+T00856,U0621,2024-05-12,Success,,PayPal,0,Not Needed,29.99
+T00857,U0477,2024-04-27,Success,,PayPal,0,Not Needed,9.99
+T00858,U0699,2024-03-31,Success,,PayPal,0,Not Needed,14.99
+T00859,U0738,2024-03-18,Success,,Credit Card,0,Not Needed,49.99
+T00860,U0527,2024-03-19,Success,,Credit Card,0,Not Needed,9.99
+T00861,U0907,2024-02-29,Success,,UPI,0,Not Needed,9.99
+T00862,U0683,2024-02-24,Success,,UPI,0,Not Needed,9.99
+T00863,U0139,2024-02-28,Success,,UPI,0,Not Needed,9.99
+T00864,U0670,2024-05-10,Success,,Credit Card,0,Not Needed,29.99
+T00865,U0223,2024-03-07,Success,,UPI,0,Not Needed,99.99
+T00866,U0441,2024-03-16,Failed,Gateway Error,PayPal,1,Failed,49.99
+T00867,U0634,2024-02-10,Success,,UPI,0,Not Needed,9.99
+T00868,U0580,2024-02-17,Success,,Credit Card,0,Not Needed,9.99
+T00869,U0075,2024-04-05,Success,,UPI,0,Not Needed,19.99
+T00870,U0780,2024-03-24,Success,,UPI,0,Not Needed,49.99
+T00871,U0983,2024-02-26,Success,,UPI,0,Not Needed,29.99
+T00872,U0566,2024-02-24,Success,,UPI,0,Not Needed,29.99
+T00873,U0003,2024-04-02,Failed,Insufficient Funds,UPI,1,Successful,29.99
+T00874,U0093,2024-03-01,Success,,UPI,0,Not Needed,9.99
+T00875,U0015,2024-03-03,Success,,PayPal,0,Not Needed,19.99
+T00876,U0790,2024-05-20,Success,,UPI,0,Not Needed,14.99
+T00877,U0236,2024-01-29,Success,,Credit Card,0,Not Needed,49.99
+T00878,U0067,2024-03-11,Failed,Card Expired,Credit Card,0,Not Attempted,99.99
+T00879,U0750,2024-04-03,Success,,PayPal,0,Not Needed,19.99
+T00880,U0557,2024-04-09,Failed,Insufficient Funds,UPI,0,Not Attempted,99.99
+T00881,U0926,2024-04-20,Success,,Credit Card,0,Not Needed,14.99
+T00882,U0554,2024-04-29,Success,,UPI,0,Not Needed,99.99
+T00883,U0137,2024-03-13,Failed,Gateway Error,UPI,0,Not Attempted,19.99
+T00884,U0406,2024-04-07,Success,,Credit Card,0,Not Needed,19.99
+T00885,U0545,2024-03-17,Success,,UPI,0,Not Needed,49.99
+T00886,U0105,2024-03-27,Success,,UPI,0,Not Needed,19.99
+T00887,U0636,2024-03-08,Failed,Insufficient Funds,Credit Card,1,Successful,99.99
+T00888,U0489,2024-03-04,Failed,Card Expired,Credit Card,1,Successful,19.99
+T00889,U0967,2024-03-10,Success,,UPI,0,Not Needed,49.99
+T00890,U0992,2024-03-29,Success,,Credit Card,0,Not Needed,14.99
+T00891,U0658,2024-03-04,Success,,Credit Card,0,Not Needed,29.99
+T00892,U0613,2024-02-02,Success,,Credit Card,0,Not Needed,19.99
+T00893,U0115,2024-04-27,Failed,Insufficient Funds,UPI,0,Not Attempted,19.99
+T00894,U0731,2024-02-11,Success,,Credit Card,0,Not Needed,9.99
+T00895,U0663,2024-04-04,Success,,Credit Card,0,Not Needed,14.99
+T00896,U0834,2024-03-04,Success,,UPI,0,Not Needed,19.99
+T00897,U0632,2024-04-10,Success,,Credit Card,0,Not Needed,19.99
+T00898,U0515,2024-03-28,Success,,Credit Card,0,Not Needed,19.99
+T00899,U0272,2024-02-11,Success,,PayPal,0,Not Needed,14.99
+T00900,U0402,2024-03-26,Success,,Credit Card,0,Not Needed,29.99
+T00901,U0218,2024-02-11,Success,,PayPal,0,Not Needed,9.99
+T00902,U0705,2024-02-22,Success,,PayPal,0,Not Needed,49.99
+T00903,U0056,2024-02-05,Success,,UPI,0,Not Needed,19.99
+T00904,U0069,2024-04-23,Failed,Gateway Error,UPI,0,Not Attempted,9.99
+T00905,U0240,2024-03-09,Failed,Card Expired,Credit Card,1,Successful,14.99
+T00906,U0230,2024-02-21,Success,,PayPal,0,Not Needed,29.99
+T00907,U0595,2024-02-17,Failed,Insufficient Funds,Credit Card,0,Not Attempted,14.99
+T00908,U0140,2024-03-08,Success,,UPI,0,Not Needed,49.99
+T00909,U0910,2024-02-28,Failed,Insufficient Funds,UPI,1,Successful,99.99
+T00910,U0371,2024-05-17,Success,,UPI,0,Not Needed,99.99
+T00911,U0590,2024-03-21,Success,,UPI,0,Not Needed,14.99
+T00912,U0052,2024-04-21,Success,,PayPal,0,Not Needed,99.99
+T00913,U0956,2024-02-08,Success,,Credit Card,0,Not Needed,9.99
+T00914,U0402,2024-03-06,Failed,Gateway Error,UPI,0,Not Attempted,29.99
+T00915,U0896,2024-03-31,Success,,Credit Card,0,Not Needed,49.99
+T00916,U0727,2024-02-06,Success,,Credit Card,0,Not Needed,99.99
+T00917,U0168,2024-03-23,Success,,PayPal,0,Not Needed,99.99
+T00918,U0153,2024-04-01,Success,,UPI,0,Not Needed,29.99
+T00919,U0672,2024-02-01,Success,,PayPal,0,Not Needed,49.99
+T00920,U0556,2024-04-15,Failed,Card Expired,UPI,1,Failed,49.99
+T00921,U0229,2024-03-12,Success,,Credit Card,0,Not Needed,29.99
+T00922,U0519,2024-04-28,Success,,PayPal,0,Not Needed,9.99
+T00923,U0037,2024-03-05,Failed,Card Expired,Credit Card,0,Not Attempted,29.99
+T00924,U0882,2024-03-25,Success,,PayPal,0,Not Needed,19.99
+T00925,U0084,2024-03-30,Success,,UPI,0,Not Needed,19.99
+T00926,U0742,2024-03-19,Success,,UPI,0,Not Needed,9.99
+T00927,U0163,2024-05-14,Success,,PayPal,0,Not Needed,9.99
+T00928,U0308,2024-02-09,Success,,Credit Card,0,Not Needed,99.99
+T00929,U0474,2024-04-30,Failed,Gateway Error,Credit Card,1,Successful,14.99
+T00930,U0116,2024-03-08,Success,,UPI,0,Not Needed,9.99
+T00931,U0821,2024-02-04,Failed,Card Expired,Credit Card,0,Not Attempted,19.99
+T00932,U0639,2024-04-04,Failed,Card Expired,Credit Card,1,Successful,19.99
+T00933,U0376,2024-05-23,Failed,Insufficient Funds,UPI,0,Not Attempted,29.99
+T00934,U0258,2024-03-04,Success,,PayPal,0,Not Needed,99.99
+T00935,U0232,2024-03-05,Success,,Credit Card,0,Not Needed,99.99
+T00936,U0918,2024-03-05,Success,,Credit Card,0,Not Needed,14.99
+T00937,U0369,2024-04-13,Success,,Credit Card,0,Not Needed,9.99
+T00938,U0822,2024-03-29,Success,,Credit Card,0,Not Needed,19.99
+T00939,U0901,2024-04-16,Success,,Credit Card,0,Not Needed,9.99
+T00940,U0426,2024-03-25,Success,,PayPal,0,Not Needed,49.99
+T00941,U0365,2024-01-30,Success,,PayPal,0,Not Needed,9.99
+T00942,U0691,2024-04-07,Success,,UPI,0,Not Needed,99.99
+T00943,U0948,2024-04-20,Success,,Credit Card,0,Not Needed,9.99
+T00944,U0186,2024-03-18,Success,,PayPal,0,Not Needed,9.99
+T00945,U0395,2024-04-02,Failed,Gateway Error,UPI,1,Successful,99.99
+T00946,U0775,2024-04-11,Success,,Credit Card,0,Not Needed,19.99
+T00947,U0723,2024-03-18,Success,,PayPal,0,Not Needed,19.99
+T00948,U0007,2024-04-05,Success,,PayPal,0,Not Needed,99.99
+T00949,U0095,2024-05-04,Success,,Credit Card,0,Not Needed,14.99
+T00950,U0663,2024-04-29,Success,,UPI,0,Not Needed,29.99
+T00951,U0578,2024-04-03,Failed,Card Expired,PayPal,0,Not Attempted,19.99
+T00952,U0397,2024-03-26,Success,,Credit Card,0,Not Needed,9.99
+T00953,U0669,2024-04-15,Success,,Credit Card,0,Not Needed,29.99
+T00954,U0063,2024-01-26,Success,,Credit Card,0,Not Needed,29.99
+T00955,U0829,2024-03-21,Success,,UPI,0,Not Needed,29.99
+T00956,U0860,2024-01-20,Failed,Card Expired,UPI,1,Successful,14.99
+T00957,U0049,2024-02-28,Success,,UPI,0,Not Needed,99.99
+T00958,U0439,2024-04-15,Success,,PayPal,0,Not Needed,49.99
+T00959,U0909,2024-05-13,Success,,Credit Card,0,Not Needed,49.99
+T00960,U0949,2024-04-10,Success,,Credit Card,0,Not Needed,14.99
+T00961,U0994,2024-03-09,Success,,UPI,0,Not Needed,49.99
+T00962,U0308,2024-02-14,Success,,PayPal,0,Not Needed,9.99
+T00963,U0958,2024-03-28,Success,,PayPal,0,Not Needed,29.99
+T00964,U0308,2024-02-11,Success,,Credit Card,0,Not Needed,9.99
+T00965,U0752,2024-03-15,Success,,PayPal,0,Not Needed,14.99
+T00966,U0810,2024-05-05,Success,,Credit Card,0,Not Needed,9.99
+T00967,U0487,2024-02-07,Success,,UPI,0,Not Needed,99.99
+T00968,U0794,2024-03-07,Failed,Insufficient Funds,Credit Card,1,Failed,14.99
+T00969,U0053,2024-02-08,Success,,Credit Card,0,Not Needed,9.99
+T00970,U0963,2024-05-04,Success,,PayPal,0,Not Needed,19.99
+T00971,U0030,2024-03-22,Failed,Gateway Error,UPI,0,Not Attempted,99.99
+T00972,U0580,2024-02-18,Success,,UPI,0,Not Needed,49.99
+T00973,U0759,2024-03-11,Failed,Insufficient Funds,Credit Card,1,Failed,14.99
+T00974,U0070,2024-01-27,Success,,PayPal,0,Not Needed,29.99
+T00975,U0857,2024-04-02,Success,,Credit Card,0,Not Needed,49.99
+T00976,U0225,2024-02-07,Success,,Credit Card,0,Not Needed,19.99
+T00977,U0366,2024-02-27,Success,,UPI,0,Not Needed,19.99
+T00978,U0707,2024-04-21,Success,,PayPal,0,Not Needed,99.99
+T00979,U0725,2024-05-12,Success,,UPI,0,Not Needed,29.99
+T00980,U0361,2024-05-07,Success,,Credit Card,0,Not Needed,19.99
+T00981,U0041,2024-05-06,Success,,Credit Card,0,Not Needed,14.99
+T00982,U0901,2024-03-27,Success,,Credit Card,0,Not Needed,9.99
+T00983,U0714,2024-02-24,Success,,PayPal,0,Not Needed,9.99
+T00984,U0702,2024-04-26,Success,,PayPal,0,Not Needed,99.99
+T00985,U0089,2024-04-16,Success,,UPI,0,Not Needed,99.99
+T00986,U0994,2024-03-15,Success,,Credit Card,0,Not Needed,99.99
+T00987,U0081,2024-02-23,Success,,UPI,0,Not Needed,29.99
+T00988,U0665,2024-02-05,Success,,PayPal,0,Not Needed,99.99
+T00989,U0812,2024-03-25,Failed,Card Expired,PayPal,0,Not Attempted,99.99
+T00990,U0170,2024-03-27,Success,,Credit Card,0,Not Needed,29.99
+T00991,U0468,2024-04-13,Success,,Credit Card,0,Not Needed,19.99
+T00992,U0074,2024-02-11,Success,,UPI,0,Not Needed,99.99
+T00993,U0980,2024-02-09,Success,,UPI,0,Not Needed,19.99
+T00994,U0849,2024-04-21,Success,,UPI,0,Not Needed,99.99
+T00995,U0705,2024-03-14,Success,,PayPal,0,Not Needed,9.99
+T00996,U0661,2024-04-13,Success,,PayPal,0,Not Needed,9.99
+T00997,U0497,2024-04-24,Success,,PayPal,0,Not Needed,29.99
+T00998,U0433,2024-03-05,Success,,PayPal,0,Not Needed,9.99
+T00999,U0186,2024-03-08,Success,,UPI,0,Not Needed,99.99
+T01000,U0466,2024-02-22,Success,,Credit Card,0,Not Needed,19.99
+T01001,U0387,2024-03-31,Success,,Credit Card,0,Not Needed,9.99
+T01002,U0792,2024-03-16,Success,,PayPal,0,Not Needed,29.99
+T01003,U0347,2024-03-04,Success,,Credit Card,0,Not Needed,99.99
+T01004,U0984,2024-04-12,Success,,UPI,0,Not Needed,29.99
+T01005,U0752,2024-02-28,Success,,Credit Card,0,Not Needed,14.99
+T01006,U0852,2024-03-01,Failed,Insufficient Funds,Credit Card,1,Successful,49.99
+T01007,U0089,2024-04-05,Success,,UPI,0,Not Needed,19.99
+T01008,U0018,2024-04-25,Failed,Gateway Error,Credit Card,0,Not Attempted,19.99
+T01009,U0022,2024-03-27,Success,,Credit Card,0,Not Needed,99.99
+T01010,U0693,2024-03-21,Success,,PayPal,0,Not Needed,19.99
+T01011,U0010,2024-02-21,Success,,Credit Card,0,Not Needed,29.99
+T01012,U0262,2024-04-02,Success,,PayPal,0,Not Needed,99.99
+T01013,U0872,2024-04-19,Success,,PayPal,0,Not Needed,9.99
+T01014,U0695,2024-03-03,Success,,UPI,0,Not Needed,19.99
+T01015,U0707,2024-03-17,Success,,PayPal,0,Not Needed,49.99
+T01016,U0018,2024-03-30,Failed,Card Expired,PayPal,0,Not Attempted,29.99
+T01017,U0920,2024-04-14,Success,,Credit Card,0,Not Needed,9.99
+T01018,U0838,2024-03-03,Failed,Gateway Error,Credit Card,0,Not Attempted,99.99
+T01019,U0255,2024-04-21,Failed,Gateway Error,Credit Card,0,Not Attempted,19.99
+T01020,U0404,2024-03-25,Success,,Credit Card,0,Not Needed,99.99
+T01021,U0562,2024-02-26,Success,,UPI,0,Not Needed,19.99
+T01022,U0204,2024-03-24,Success,,PayPal,0,Not Needed,49.99
+T01023,U0110,2024-04-12,Success,,PayPal,0,Not Needed,9.99
+T01024,U0465,2024-02-16,Success,,Credit Card,0,Not Needed,29.99
+T01025,U0583,2024-03-02,Success,,Credit Card,0,Not Needed,9.99
+T01026,U0185,2024-03-18,Success,,Credit Card,0,Not Needed,29.99
+T01027,U0912,2024-02-03,Success,,PayPal,0,Not Needed,49.99
+T01028,U0549,2024-03-20,Success,,PayPal,0,Not Needed,9.99
+T01029,U0564,2024-03-13,Failed,Insufficient Funds,UPI,0,Not Attempted,49.99
+T01030,U0950,2024-04-23,Success,,UPI,0,Not Needed,29.99
+T01031,U0380,2024-05-05,Success,,PayPal,0,Not Needed,29.99
+T01032,U0519,2024-05-25,Success,,PayPal,0,Not Needed,14.99
+T01033,U0426,2024-03-31,Success,,PayPal,0,Not Needed,99.99
+T01034,U0130,2024-05-09,Failed,Card Expired,Credit Card,0,Not Attempted,29.99
+T01035,U0563,2024-03-08,Success,,PayPal,0,Not Needed,29.99
+T01036,U0827,2024-03-01,Success,,UPI,0,Not Needed,9.99
+T01037,U0387,2024-04-12,Failed,Insufficient Funds,Credit Card,0,Not Attempted,19.99
+T01038,U0261,2024-03-09,Success,,Credit Card,0,Not Needed,99.99
+T01039,U0250,2024-04-17,Success,,Credit Card,0,Not Needed,29.99
+T01040,U0132,2024-03-08,Success,,UPI,0,Not Needed,19.99
+T01041,U0633,2024-04-03,Success,,UPI,0,Not Needed,14.99
+T01042,U0687,2024-02-28,Success,,Credit Card,0,Not Needed,99.99
+T01043,U0257,2024-02-05,Success,,UPI,0,Not Needed,29.99
+T01044,U0516,2024-03-05,Success,,PayPal,0,Not Needed,49.99
+T01045,U0440,2024-03-03,Success,,PayPal,0,Not Needed,19.99
+T01046,U0919,2024-03-31,Success,,PayPal,0,Not Needed,49.99
+T01047,U0021,2024-04-12,Success,,UPI,0,Not Needed,14.99
+T01048,U0534,2024-03-07,Success,,Credit Card,0,Not Needed,19.99
+T01049,U0237,2024-02-09,Failed,Card Expired,Credit Card,1,Failed,9.99
+T01050,U0740,2024-05-07,Failed,Gateway Error,Credit Card,0,Not Attempted,19.99
+T01051,U0467,2024-02-20,Success,,UPI,0,Not Needed,14.99
+T01052,U0512,2024-02-12,Success,,UPI,0,Not Needed,29.99
+T01053,U0959,2024-02-20,Success,,Credit Card,0,Not Needed,9.99
+T01054,U0524,2024-02-29,Success,,PayPal,0,Not Needed,9.99
+T01055,U0252,2024-03-06,Failed,Card Expired,Credit Card,0,Not Attempted,9.99
+T01056,U0859,2024-03-03,Success,,PayPal,0,Not Needed,29.99
+T01057,U0060,2024-02-17,Failed,Card Expired,UPI,0,Not Attempted,9.99
+T01058,U0645,2024-03-08,Success,,UPI,0,Not Needed,19.99
+T01059,U0748,2024-03-07,Success,,Credit Card,0,Not Needed,14.99
+T01060,U0355,2024-03-19,Failed,Gateway Error,UPI,0,Not Attempted,49.99
+T01061,U0047,2024-02-08,Success,,UPI,0,Not Needed,19.99
+T01062,U0398,2024-02-23,Failed,Card Expired,PayPal,1,Failed,9.99
+T01063,U0018,2024-03-28,Success,,Credit Card,0,Not Needed,49.99
+T01064,U0491,2024-05-23,Success,,Credit Card,0,Not Needed,19.99
+T01065,U0676,2024-01-16,Success,,UPI,0,Not Needed,99.99
+T01066,U0595,2024-03-07,Success,,UPI,0,Not Needed,99.99
+T01067,U0278,2024-03-18,Success,,UPI,0,Not Needed,29.99
+T01068,U0526,2024-04-15,Success,,Credit Card,0,Not Needed,29.99
+T01069,U0195,2024-04-05,Success,,UPI,0,Not Needed,9.99
+T01070,U0650,2024-05-07,Failed,Gateway Error,Credit Card,0,Not Attempted,14.99
+T01071,U0406,2024-02-29,Success,,PayPal,0,Not Needed,14.99
+T01072,U0612,2024-02-15,Success,,UPI,0,Not Needed,49.99
+T01073,U0798,2024-01-30,Success,,Credit Card,0,Not Needed,99.99
+T01074,U0644,2024-04-21,Success,,UPI,0,Not Needed,19.99
+T01075,U0844,2024-02-19,Failed,Gateway Error,Credit Card,1,Failed,49.99
+T01076,U0043,2024-04-01,Failed,Card Expired,UPI,1,Successful,49.99
+T01077,U0970,2024-03-09,Success,,UPI,0,Not Needed,19.99
+T01078,U0008,2024-01-14,Success,,Credit Card,0,Not Needed,19.99
+T01079,U0907,2024-03-03,Success,,UPI,0,Not Needed,14.99
+T01080,U0993,2024-02-03,Success,,PayPal,0,Not Needed,99.99
+T01081,U0087,2024-04-04,Failed,Gateway Error,UPI,1,Successful,9.99
+T01082,U0827,2024-03-23,Success,,UPI,0,Not Needed,49.99
+T01083,U0407,2024-02-13,Failed,Insufficient Funds,UPI,0,Not Attempted,14.99
+T01084,U0580,2024-01-03,Success,,UPI,0,Not Needed,19.99
+T01085,U0286,2024-04-09,Failed,Card Expired,Credit Card,1,Failed,9.99
+T01086,U0723,2024-04-02,Success,,UPI,0,Not Needed,49.99
+T01087,U0071,2024-02-29,Success,,Credit Card,0,Not Needed,29.99
+T01088,U0627,2024-03-01,Success,,PayPal,0,Not Needed,19.99
+T01089,U0548,2024-05-20,Failed,Insufficient Funds,Credit Card,1,Failed,9.99
+T01090,U0932,2024-04-15,Failed,Insufficient Funds,UPI,0,Not Attempted,29.99
+T01091,U0448,2024-04-27,Success,,UPI,0,Not Needed,49.99
+T01092,U0099,2024-03-20,Failed,Card Expired,Credit Card,1,Successful,99.99
+T01093,U0864,2024-04-23,Success,,UPI,0,Not Needed,49.99
+T01094,U0580,2024-02-22,Success,,Credit Card,0,Not Needed,29.99
+T01095,U0369,2024-02-21,Success,,UPI,0,Not Needed,29.99
+T01096,U0492,2024-04-19,Failed,Insufficient Funds,UPI,1,Successful,29.99
+T01097,U0427,2024-02-25,Success,,UPI,0,Not Needed,14.99
+T01098,U0019,2024-02-19,Success,,Credit Card,0,Not Needed,9.99
+T01099,U0874,2024-02-23,Success,,Credit Card,0,Not Needed,19.99
+T01100,U0454,2024-03-16,Success,,UPI,0,Not Needed,14.99
+T01101,U0079,2024-01-24,Success,,PayPal,0,Not Needed,29.99
+T01102,U0732,2024-03-12,Success,,Credit Card,0,Not Needed,19.99
+T01103,U0113,2024-05-20,Success,,Credit Card,0,Not Needed,49.99
+T01104,U0888,2024-03-24,Success,,UPI,0,Not Needed,99.99
+T01105,U0602,2024-01-24,Success,,Credit Card,0,Not Needed,99.99
+T01106,U0107,2024-03-08,Success,,UPI,0,Not Needed,49.99
+T01107,U0913,2024-04-15,Success,,UPI,0,Not Needed,99.99
+T01108,U0062,2024-04-30,Success,,Credit Card,0,Not Needed,14.99
+T01109,U0647,2024-02-17,Success,,UPI,0,Not Needed,14.99
+T01110,U0597,2024-03-25,Success,,UPI,0,Not Needed,19.99
+T01111,U0750,2024-02-20,Success,,Credit Card,0,Not Needed,29.99
+T01112,U0330,2024-04-05,Success,,Credit Card,0,Not Needed,9.99
+T01113,U0321,2024-04-29,Success,,PayPal,0,Not Needed,99.99
+T01114,U0328,2024-02-11,Success,,PayPal,0,Not Needed,99.99
+T01115,U0631,2024-03-20,Success,,UPI,0,Not Needed,49.99
+T01116,U0365,2024-02-10,Failed,Insufficient Funds,Credit Card,1,Failed,14.99
+T01117,U0133,2024-05-16,Success,,PayPal,0,Not Needed,49.99
+T01118,U0946,2024-05-01,Failed,Gateway Error,PayPal,1,Failed,9.99
+T01119,U0141,2024-02-07,Success,,UPI,0,Not Needed,9.99
+T01120,U0392,2024-03-31,Success,,UPI,0,Not Needed,99.99
+T01121,U0127,2024-04-13,Success,,Credit Card,0,Not Needed,19.99
+T01122,U0729,2024-03-15,Success,,UPI,0,Not Needed,99.99
+T01123,U0733,2024-02-15,Success,,Credit Card,0,Not Needed,29.99
+T01124,U0859,2024-03-24,Failed,Gateway Error,UPI,1,Successful,9.99
+T01125,U0989,2024-03-06,Success,,PayPal,0,Not Needed,9.99
+T01126,U0878,2024-04-25,Success,,Credit Card,0,Not Needed,19.99
+T01127,U0441,2024-03-04,Failed,Card Expired,Credit Card,0,Not Attempted,14.99
+T01128,U0585,2024-02-27,Success,,PayPal,0,Not Needed,99.99
+T01129,U0322,2024-02-21,Success,,Credit Card,0,Not Needed,9.99
+T01130,U0744,2024-04-18,Success,,Credit Card,0,Not Needed,49.99
+T01131,U0632,2024-04-13,Success,,PayPal,0,Not Needed,19.99
+T01132,U0514,2024-03-12,Success,,PayPal,0,Not Needed,49.99
+T01133,U0637,2024-03-16,Failed,Gateway Error,UPI,0,Not Attempted,49.99
+T01134,U0008,2024-02-16,Success,,UPI,0,Not Needed,14.99
+T01135,U0557,2024-04-06,Success,,PayPal,0,Not Needed,9.99
+T01136,U0723,2024-05-05,Success,,Credit Card,0,Not Needed,49.99
+T01137,U0202,2024-04-15,Failed,Card Expired,PayPal,1,Successful,19.99
+T01138,U0390,2024-02-17,Success,,Credit Card,0,Not Needed,29.99
+T01139,U0610,2024-04-11,Success,,UPI,0,Not Needed,49.99
+T01140,U0259,2024-01-18,Success,,Credit Card,0,Not Needed,29.99
+T01141,U0241,2024-02-20,Success,,UPI,0,Not Needed,29.99
+T01142,U0503,2024-02-14,Success,,UPI,0,Not Needed,14.99
+T01143,U0261,2024-03-12,Success,,UPI,0,Not Needed,14.99
+T01144,U0477,2024-04-09,Failed,Insufficient Funds,Credit Card,0,Not Attempted,49.99
+T01145,U0104,2024-03-20,Success,,UPI,0,Not Needed,14.99
+T01146,U0574,2024-02-10,Success,,Credit Card,0,Not Needed,99.99
+T01147,U0656,2024-03-01,Success,,PayPal,0,Not Needed,29.99
+T01148,U0771,2024-04-22,Success,,Credit Card,0,Not Needed,99.99
+T01149,U0546,2024-03-11,Success,,Credit Card,0,Not Needed,99.99
+T01150,U0629,2024-03-28,Success,,UPI,0,Not Needed,99.99
+T01151,U0296,2024-01-17,Success,,Credit Card,0,Not Needed,49.99
+T01152,U0446,2024-01-30,Success,,PayPal,0,Not Needed,9.99
+T01153,U0436,2024-03-29,Failed,Insufficient Funds,UPI,1,Successful,14.99
+T01154,U0237,2024-03-28,Success,,UPI,0,Not Needed,14.99
+T01155,U0111,2024-02-28,Success,,UPI,0,Not Needed,29.99
+T01156,U0922,2024-04-03,Success,,Credit Card,0,Not Needed,14.99
+T01157,U0099,2024-04-02,Success,,PayPal,0,Not Needed,29.99
+T01158,U0865,2024-02-20,Success,,UPI,0,Not Needed,19.99
+T01159,U0123,2024-03-06,Success,,PayPal,0,Not Needed,99.99
+T01160,U0767,2024-03-23,Success,,UPI,0,Not Needed,29.99
+T01161,U0579,2024-01-30,Success,,UPI,0,Not Needed,29.99
+T01162,U0462,2024-04-11,Success,,UPI,0,Not Needed,99.99
+T01163,U0938,2024-04-05,Success,,Credit Card,0,Not Needed,99.99
+T01164,U0782,2024-03-24,Success,,UPI,0,Not Needed,29.99
+T01165,U0607,2024-03-05,Failed,Gateway Error,UPI,1,Failed,29.99
+T01166,U0757,2024-05-09,Failed,Gateway Error,PayPal,1,Successful,14.99
+T01167,U0981,2024-04-11,Success,,Credit Card,0,Not Needed,99.99
+T01168,U0936,2024-04-19,Failed,Gateway Error,UPI,1,Successful,9.99
+T01169,U0856,2024-02-03,Success,,UPI,0,Not Needed,19.99
+T01170,U0795,2024-03-14,Success,,UPI,0,Not Needed,19.99
+T01171,U0093,2024-03-30,Success,,UPI,0,Not Needed,19.99
+T01172,U0052,2024-04-16,Failed,Insufficient Funds,Credit Card,0,Not Attempted,19.99
+T01173,U0111,2024-03-05,Success,,PayPal,0,Not Needed,29.99
+T01174,U0717,2024-02-21,Failed,Insufficient Funds,UPI,1,Successful,49.99
+T01175,U0645,2024-04-11,Success,,UPI,0,Not Needed,29.99
+T01176,U0101,2024-01-03,Success,,Credit Card,0,Not Needed,99.99
+T01177,U0079,2024-02-22,Success,,PayPal,0,Not Needed,19.99
+T01178,U0307,2024-01-28,Success,,UPI,0,Not Needed,14.99
+T01179,U0970,2024-03-25,Success,,UPI,0,Not Needed,49.99
+T01180,U0335,2024-04-09,Success,,UPI,0,Not Needed,9.99
+T01181,U0775,2024-03-01,Success,,Credit Card,0,Not Needed,29.99
+T01182,U0566,2024-03-07,Success,,UPI,0,Not Needed,49.99
+T01183,U0879,2024-04-16,Success,,Credit Card,0,Not Needed,9.99
+T01184,U0685,2024-04-15,Success,,PayPal,0,Not Needed,9.99
+T01185,U0516,2024-04-16,Success,,UPI,0,Not Needed,99.99
+T01186,U0785,2024-03-09,Success,,PayPal,0,Not Needed,49.99
+T01187,U0344,2024-03-05,Success,,Credit Card,0,Not Needed,19.99
+T01188,U0240,2024-01-27,Failed,Gateway Error,PayPal,1,Failed,14.99
+T01189,U0014,2024-04-10,Success,,UPI,0,Not Needed,14.99
+T01190,U0520,2024-03-04,Success,,Credit Card,0,Not Needed,49.99
+T01191,U0918,2024-02-12,Success,,PayPal,0,Not Needed,14.99
+T01192,U0450,2024-05-16,Failed,Insufficient Funds,PayPal,1,Successful,9.99
+T01193,U0681,2024-02-17,Success,,Credit Card,0,Not Needed,99.99
+T01194,U0759,2024-02-02,Success,,Credit Card,0,Not Needed,14.99
+T01195,U0742,2024-05-08,Success,,UPI,0,Not Needed,49.99
+T01196,U0840,2024-04-28,Success,,UPI,0,Not Needed,19.99
+T01197,U0830,2024-05-09,Success,,UPI,0,Not Needed,19.99
+T01198,U0182,2024-04-16,Success,,Credit Card,0,Not Needed,29.99
+T01199,U0961,2024-02-21,Success,,PayPal,0,Not Needed,29.99
+T01200,U0585,2024-04-16,Success,,Credit Card,0,Not Needed,14.99
+T01201,U0355,2024-03-17,Success,,Credit Card,0,Not Needed,9.99
+T01202,U0081,2024-02-24,Success,,UPI,0,Not Needed,14.99
+T01203,U0089,2024-04-24,Success,,Credit Card,0,Not Needed,19.99
+T01204,U0119,2024-02-29,Success,,Credit Card,0,Not Needed,19.99
+T01205,U0212,2024-03-23,Failed,Card Expired,Credit Card,1,Successful,9.99
+T01206,U0500,2024-05-14,Success,,UPI,0,Not Needed,14.99
+T01207,U0388,2024-03-14,Success,,PayPal,0,Not Needed,9.99
+T01208,U0319,2024-03-09,Success,,Credit Card,0,Not Needed,19.99
+T01209,U0998,2024-05-08,Failed,Insufficient Funds,Credit Card,0,Not Attempted,49.99
+T01210,U0310,2024-03-04,Success,,Credit Card,0,Not Needed,19.99
+T01211,U0232,2024-03-12,Success,,PayPal,0,Not Needed,19.99
+T01212,U0739,2024-03-09,Failed,Card Expired,Credit Card,0,Not Attempted,29.99
+T01213,U0441,2024-02-29,Failed,Insufficient Funds,UPI,0,Not Attempted,14.99
+T01214,U0820,2024-03-15,Success,,UPI,0,Not Needed,9.99
+T01215,U0810,2024-04-15,Success,,Credit Card,0,Not Needed,29.99
+T01216,U0281,2024-02-14,Success,,Credit Card,0,Not Needed,19.99
+T01217,U0519,2024-04-27,Success,,UPI,0,Not Needed,14.99
+T01218,U0726,2024-03-19,Failed,Insufficient Funds,UPI,1,Successful,49.99
+T01219,U0981,2024-05-03,Success,,Credit Card,0,Not Needed,14.99
+T01220,U0504,2024-03-16,Success,,UPI,0,Not Needed,14.99
+T01221,U0983,2024-02-09,Success,,PayPal,0,Not Needed,99.99
+T01222,U0470,2024-03-09,Success,,Credit Card,0,Not Needed,19.99
+T01223,U0466,2024-01-21,Success,,PayPal,0,Not Needed,9.99
+T01224,U0590,2024-01-31,Success,,Credit Card,0,Not Needed,29.99
+T01225,U0114,2024-04-10,Success,,UPI,0,Not Needed,9.99
+T01226,U0324,2024-03-12,Success,,UPI,0,Not Needed,49.99
+T01227,U0041,2024-03-20,Success,,Credit Card,0,Not Needed,49.99
+T01228,U0490,2024-04-21,Success,,UPI,0,Not Needed,19.99
+T01229,U0088,2024-03-23,Success,,UPI,0,Not Needed,14.99
+T01230,U0087,2024-04-10,Success,,Credit Card,0,Not Needed,29.99
+T01231,U0893,2024-04-09,Failed,Insufficient Funds,UPI,1,Successful,19.99
+T01232,U0355,2024-02-18,Failed,Card Expired,PayPal,1,Successful,99.99
+T01233,U0487,2024-02-23,Success,,Credit Card,0,Not Needed,29.99
+T01234,U0087,2024-04-13,Failed,Insufficient Funds,UPI,0,Not Attempted,49.99
+T01235,U0312,2024-03-20,Success,,UPI,0,Not Needed,49.99
+T01236,U0954,2024-01-30,Success,,UPI,0,Not Needed,14.99
+T01237,U0636,2024-03-24,Failed,Insufficient Funds,UPI,0,Not Attempted,9.99
+T01238,U0083,2024-03-23,Success,,UPI,0,Not Needed,49.99
+T01239,U0353,2024-04-15,Success,,UPI,0,Not Needed,19.99
+T01240,U0296,2024-01-12,Success,,PayPal,0,Not Needed,29.99
+T01241,U0843,2024-03-04,Success,,UPI,0,Not Needed,19.99
+T01242,U0052,2024-05-14,Failed,Gateway Error,PayPal,1,Successful,49.99
+T01243,U0605,2024-01-20,Success,,UPI,0,Not Needed,99.99
+T01244,U0903,2024-03-29,Failed,Card Expired,PayPal,1,Failed,29.99
+T01245,U0827,2024-03-09,Success,,PayPal,0,Not Needed,29.99
+T01246,U0136,2024-02-27,Success,,Credit Card,0,Not Needed,99.99
+T01247,U0462,2024-04-17,Success,,Credit Card,0,Not Needed,99.99
+T01248,U0159,2024-02-18,Success,,PayPal,0,Not Needed,14.99
+T01249,U0761,2024-02-24,Success,,Credit Card,0,Not Needed,29.99
+T01250,U0963,2024-04-24,Success,,PayPal,0,Not Needed,29.99
+T01251,U0197,2024-04-27,Success,,PayPal,0,Not Needed,29.99
+T01252,U0212,2024-04-06,Failed,Card Expired,Credit Card,0,Not Attempted,9.99
+T01253,U0994,2024-03-03,Success,,Credit Card,0,Not Needed,14.99
+T01254,U0776,2024-04-04,Success,,Credit Card,0,Not Needed,29.99
+T01255,U0003,2024-02-10,Success,,PayPal,0,Not Needed,9.99
+T01256,U0778,2024-04-30,Success,,UPI,0,Not Needed,49.99
+T01257,U0481,2024-04-20,Success,,PayPal,0,Not Needed,19.99
+T01258,U0955,2024-01-13,Failed,Card Expired,Credit Card,1,Successful,99.99
+T01259,U0102,2024-04-08,Failed,Gateway Error,PayPal,1,Successful,29.99
+T01260,U0774,2024-03-17,Success,,UPI,0,Not Needed,9.99
+T01261,U0941,2024-03-09,Success,,PayPal,0,Not Needed,14.99
+T01262,U0954,2024-02-15,Success,,UPI,0,Not Needed,49.99
+T01263,U0133,2024-04-12,Failed,Gateway Error,Credit Card,1,Successful,49.99
+T01264,U0998,2024-04-14,Success,,Credit Card,0,Not Needed,29.99
+T01265,U0870,2024-03-09,Failed,Gateway Error,PayPal,0,Not Attempted,9.99
+T01266,U0018,2024-03-29,Failed,Card Expired,Credit Card,0,Not Attempted,19.99
+T01267,U0139,2024-02-07,Success,,UPI,0,Not Needed,9.99
+T01268,U0834,2024-03-24,Success,,UPI,0,Not Needed,29.99
+T01269,U0374,2024-01-21,Success,,Credit Card,0,Not Needed,99.99
+T01270,U0833,2024-02-25,Success,,UPI,0,Not Needed,49.99
+T01271,U0346,2024-04-13,Failed,Card Expired,UPI,1,Successful,19.99
+T01272,U0136,2024-03-29,Failed,Insufficient Funds,PayPal,1,Failed,14.99
+T01273,U0429,2024-03-05,Success,,UPI,0,Not Needed,99.99
+T01274,U0862,2024-04-16,Failed,Gateway Error,Credit Card,0,Not Attempted,49.99
+T01275,U0797,2024-04-17,Failed,Card Expired,UPI,1,Successful,29.99
+T01276,U0883,2024-02-03,Success,,UPI,0,Not Needed,19.99
+T01277,U0471,2024-05-17,Success,,PayPal,0,Not Needed,9.99
+T01278,U0949,2024-04-13,Success,,Credit Card,0,Not Needed,19.99
+T01279,U0401,2024-02-02,Success,,UPI,0,Not Needed,19.99
+T01280,U0286,2024-03-27,Failed,Insufficient Funds,PayPal,1,Successful,19.99
+T01281,U0087,2024-05-08,Success,,UPI,0,Not Needed,99.99
+T01282,U0422,2024-05-04,Success,,UPI,0,Not Needed,9.99
+T01283,U0925,2024-02-07,Success,,Credit Card,0,Not Needed,14.99
+T01284,U0777,2024-03-17,Success,,Credit Card,0,Not Needed,49.99
+T01285,U0433,2024-02-22,Success,,UPI,0,Not Needed,19.99
+T01286,U0074,2024-03-10,Success,,UPI,0,Not Needed,9.99
+T01287,U0552,2024-04-25,Success,,PayPal,0,Not Needed,29.99
+T01288,U0392,2024-03-29,Success,,UPI,0,Not Needed,14.99
+T01289,U0479,2024-05-04,Success,,UPI,0,Not Needed,14.99
+T01290,U0311,2024-02-26,Failed,Card Expired,PayPal,1,Failed,29.99
+T01291,U0166,2024-04-05,Success,,UPI,0,Not Needed,14.99
+T01292,U0042,2024-03-04,Success,,UPI,0,Not Needed,9.99
+T01293,U0744,2024-05-16,Success,,UPI,0,Not Needed,29.99
+T01294,U0287,2024-01-30,Failed,Card Expired,UPI,1,Failed,29.99
+T01295,U0904,2024-03-10,Success,,PayPal,0,Not Needed,29.99
+T01296,U0940,2024-01-25,Success,,UPI,0,Not Needed,9.99
+T01297,U0948,2024-04-20,Success,,Credit Card,0,Not Needed,19.99
+T01298,U0043,2024-04-01,Success,,UPI,0,Not Needed,14.99
+T01299,U0591,2024-04-09,Success,,PayPal,0,Not Needed,99.99
+T01300,U0709,2024-03-20,Success,,PayPal,0,Not Needed,49.99
+T01301,U0971,2024-04-25,Success,,Credit Card,0,Not Needed,9.99
+T01302,U0863,2024-03-27,Success,,Credit Card,0,Not Needed,29.99
+T01303,U0027,2024-03-20,Success,,UPI,0,Not Needed,49.99
+T01304,U0858,2024-04-14,Failed,Gateway Error,Credit Card,1,Successful,19.99
+T01305,U0140,2024-03-04,Success,,UPI,0,Not Needed,9.99
+T01306,U0829,2024-03-28,Success,,Credit Card,0,Not Needed,99.99
+T01307,U0968,2024-02-25,Success,,Credit Card,0,Not Needed,29.99
+T01308,U0073,2024-04-13,Success,,PayPal,0,Not Needed,49.99
+T01309,U0900,2024-01-22,Failed,Card Expired,PayPal,0,Not Attempted,99.99
+T01310,U0614,2024-04-26,Failed,Gateway Error,UPI,0,Not Attempted,9.99
+T01311,U0958,2024-04-18,Success,,Credit Card,0,Not Needed,14.99
+T01312,U0451,2024-05-07,Success,,Credit Card,0,Not Needed,19.99
+T01313,U0710,2024-02-27,Failed,Insufficient Funds,UPI,0,Not Attempted,29.99
+T01314,U0772,2024-03-30,Success,,PayPal,0,Not Needed,49.99
+T01315,U0487,2024-03-10,Success,,Credit Card,0,Not Needed,9.99
+T01316,U0986,2024-01-29,Success,,PayPal,0,Not Needed,14.99
+T01317,U0744,2024-03-23,Success,,UPI,0,Not Needed,29.99
+T01318,U0343,2024-02-01,Success,,Credit Card,0,Not Needed,14.99
+T01319,U0250,2024-03-08,Failed,Card Expired,PayPal,1,Failed,99.99
+T01320,U0548,2024-03-29,Success,,Credit Card,0,Not Needed,49.99
+T01321,U0648,2024-03-11,Success,,Credit Card,0,Not Needed,19.99
+T01322,U0129,2024-01-30,Success,,PayPal,0,Not Needed,49.99
+T01323,U0133,2024-05-05,Failed,Gateway Error,UPI,1,Failed,99.99
+T01324,U0300,2024-04-01,Success,,Credit Card,0,Not Needed,49.99
+T01325,U0644,2024-04-04,Success,,UPI,0,Not Needed,99.99
+T01326,U0036,2024-04-16,Failed,Gateway Error,UPI,0,Not Attempted,49.99
+T01327,U0074,2024-01-26,Success,,PayPal,0,Not Needed,49.99
+T01328,U0741,2024-01-22,Success,,Credit Card,0,Not Needed,14.99
+T01329,U0806,2024-03-06,Success,,PayPal,0,Not Needed,29.99
+T01330,U0312,2024-05-01,Success,,UPI,0,Not Needed,14.99
+T01331,U0074,2024-01-21,Success,,Credit Card,0,Not Needed,14.99
+T01332,U0478,2024-05-12,Success,,Credit Card,0,Not Needed,99.99
+T01333,U0816,2024-02-16,Success,,UPI,0,Not Needed,9.99
+T01334,U0273,2024-04-10,Success,,Credit Card,0,Not Needed,9.99
+T01335,U0320,2024-05-12,Success,,UPI,0,Not Needed,9.99
+T01336,U0575,2024-04-12,Success,,UPI,0,Not Needed,19.99
+T01337,U0769,2024-02-23,Success,,Credit Card,0,Not Needed,29.99
+T01338,U0389,2024-03-19,Success,,UPI,0,Not Needed,99.99
+T01339,U0132,2024-03-19,Success,,Credit Card,0,Not Needed,49.99
+T01340,U0148,2024-02-08,Success,,Credit Card,0,Not Needed,14.99
+T01341,U0430,2024-02-22,Success,,PayPal,0,Not Needed,29.99
+T01342,U0062,2024-04-25,Success,,UPI,0,Not Needed,19.99
+T01343,U0819,2024-02-28,Success,,PayPal,0,Not Needed,14.99
+T01344,U0871,2024-01-10,Success,,UPI,0,Not Needed,14.99
+T01345,U0035,2024-03-13,Success,,Credit Card,0,Not Needed,14.99
+T01346,U0490,2024-04-16,Success,,UPI,0,Not Needed,9.99
+T01347,U0503,2024-02-26,Success,,Credit Card,0,Not Needed,14.99
+T01348,U0777,2024-05-04,Success,,PayPal,0,Not Needed,29.99
+T01349,U0161,2024-04-24,Success,,Credit Card,0,Not Needed,19.99
+T01350,U0080,2024-04-12,Success,,Credit Card,0,Not Needed,49.99
+T01351,U0970,2024-01-26,Success,,Credit Card,0,Not Needed,19.99
+T01352,U0822,2024-03-25,Success,,Credit Card,0,Not Needed,99.99
+T01353,U0701,2024-04-20,Success,,PayPal,0,Not Needed,14.99
+T01354,U0242,2024-03-18,Success,,PayPal,0,Not Needed,9.99
+T01355,U0003,2024-02-19,Success,,Credit Card,0,Not Needed,14.99
+T01356,U0885,2024-04-17,Failed,Gateway Error,PayPal,1,Successful,49.99
+T01357,U0753,2024-05-13,Success,,UPI,0,Not Needed,9.99
+T01358,U0732,2024-03-29,Success,,PayPal,0,Not Needed,19.99
+T01359,U0713,2024-02-16,Success,,UPI,0,Not Needed,49.99
+T01360,U0570,2024-02-07,Success,,Credit Card,0,Not Needed,19.99
+T01361,U0475,2024-04-05,Success,,PayPal,0,Not Needed,19.99
+T01362,U0001,2024-04-04,Success,,Credit Card,0,Not Needed,14.99
+T01363,U0513,2024-01-12,Failed,Insufficient Funds,PayPal,1,Successful,49.99
+T01364,U0571,2024-02-29,Success,,Credit Card,0,Not Needed,19.99
+T01365,U0890,2024-03-15,Success,,PayPal,0,Not Needed,9.99
+T01366,U0087,2024-04-15,Failed,Card Expired,UPI,0,Not Attempted,99.99
+T01367,U0425,2024-05-08,Success,,UPI,0,Not Needed,19.99
+T01368,U0606,2024-01-23,Success,,PayPal,0,Not Needed,29.99
+T01369,U0913,2024-03-01,Success,,PayPal,0,Not Needed,19.99
+T01370,U0358,2024-02-18,Success,,PayPal,0,Not Needed,99.99
+T01371,U0961,2024-04-04,Success,,Credit Card,0,Not Needed,9.99
+T01372,U0642,2024-02-25,Success,,UPI,0,Not Needed,49.99
+T01373,U0947,2024-04-11,Success,,UPI,0,Not Needed,9.99
+T01374,U0226,2024-05-18,Success,,Credit Card,0,Not Needed,19.99
+T01375,U0762,2024-04-17,Success,,UPI,0,Not Needed,49.99
+T01376,U0340,2024-04-18,Success,,PayPal,0,Not Needed,14.99
+T01377,U0180,2024-03-09,Failed,Card Expired,Credit Card,0,Not Attempted,29.99
+T01378,U0171,2024-05-04,Failed,Insufficient Funds,Credit Card,1,Successful,49.99
+T01379,U0827,2024-03-04,Success,,UPI,0,Not Needed,29.99
+T01380,U0024,2024-03-26,Failed,Insufficient Funds,PayPal,1,Successful,14.99
+T01381,U0510,2024-04-27,Success,,UPI,0,Not Needed,14.99
+T01382,U0403,2024-03-09,Failed,Insufficient Funds,UPI,1,Failed,29.99
+T01383,U0158,2024-02-15,Success,,Credit Card,0,Not Needed,14.99
+T01384,U0637,2024-03-15,Failed,Card Expired,UPI,0,Not Attempted,14.99
+T01385,U0792,2024-02-15,Success,,PayPal,0,Not Needed,19.99
+T01386,U0992,2024-03-22,Success,,PayPal,0,Not Needed,99.99
+T01387,U0250,2024-03-29,Success,,UPI,0,Not Needed,99.99
+T01388,U0472,2024-01-28,Success,,UPI,0,Not Needed,19.99
+T01389,U0398,2024-01-27,Failed,Gateway Error,Credit Card,0,Not Attempted,19.99
+T01390,U0071,2024-01-25,Success,,UPI,0,Not Needed,49.99
+T01391,U0276,2024-04-04,Success,,PayPal,0,Not Needed,14.99
+T01392,U0225,2024-01-17,Success,,UPI,0,Not Needed,99.99
+T01393,U0532,2024-02-16,Success,,PayPal,0,Not Needed,9.99
+T01394,U0894,2024-04-11,Success,,UPI,0,Not Needed,49.99
+T01395,U0006,2024-03-21,Success,,Credit Card,0,Not Needed,9.99
+T01396,U0696,2024-02-13,Success,,PayPal,0,Not Needed,9.99
+T01397,U0733,2024-01-22,Success,,Credit Card,0,Not Needed,9.99
+T01398,U0490,2024-03-21,Success,,UPI,0,Not Needed,49.99
+T01399,U0489,2024-02-18,Failed,Insufficient Funds,Credit Card,1,Failed,29.99
+T01400,U0237,2024-03-12,Success,,Credit Card,0,Not Needed,99.99
+T01401,U0991,2024-05-07,Success,,Credit Card,0,Not Needed,14.99
+T01402,U0902,2024-04-03,Success,,UPI,0,Not Needed,9.99
+T01403,U0180,2024-02-26,Failed,Card Expired,Credit Card,0,Not Attempted,14.99
+T01404,U0394,2024-04-15,Success,,Credit Card,0,Not Needed,9.99
+T01405,U0401,2024-03-12,Success,,UPI,0,Not Needed,9.99
+T01406,U0779,2024-01-12,Success,,Credit Card,0,Not Needed,29.99
+T01407,U0065,2024-04-13,Success,,UPI,0,Not Needed,49.99
+T01408,U0468,2024-03-06,Failed,Insufficient Funds,UPI,1,Successful,9.99
+T01409,U0503,2024-04-10,Success,,UPI,0,Not Needed,19.99
+T01410,U0866,2024-04-01,Success,,PayPal,0,Not Needed,49.99
+T01411,U0832,2024-02-22,Success,,Credit Card,0,Not Needed,29.99
+T01412,U0085,2024-03-15,Success,,UPI,0,Not Needed,14.99
+T01413,U0222,2024-03-25,Success,,Credit Card,0,Not Needed,99.99
+T01414,U0535,2024-03-27,Failed,Insufficient Funds,UPI,1,Successful,29.99
+T01415,U0833,2024-01-28,Success,,PayPal,0,Not Needed,29.99
+T01416,U0049,2024-02-24,Success,,Credit Card,0,Not Needed,14.99
+T01417,U0711,2024-02-25,Success,,UPI,0,Not Needed,14.99
+T01418,U0438,2024-03-23,Failed,Insufficient Funds,UPI,0,Not Attempted,14.99
+T01419,U0971,2024-03-21,Success,,UPI,0,Not Needed,29.99
+T01420,U0560,2024-04-04,Success,,UPI,0,Not Needed,99.99
+T01421,U0772,2024-04-05,Success,,PayPal,0,Not Needed,19.99
+T01422,U0132,2024-03-03,Success,,UPI,0,Not Needed,99.99
+T01423,U0085,2024-02-29,Success,,Credit Card,0,Not Needed,9.99
+T01424,U0955,2024-01-09,Failed,Insufficient Funds,UPI,1,Failed,9.99
+T01425,U0917,2024-03-24,Success,,PayPal,0,Not Needed,19.99
+T01426,U0505,2024-03-30,Success,,Credit Card,0,Not Needed,49.99
+T01427,U0334,2024-01-19,Success,,UPI,0,Not Needed,29.99
+T01428,U0903,2024-03-16,Failed,Insufficient Funds,Credit Card,0,Not Attempted,29.99
+T01429,U0205,2024-02-23,Success,,UPI,0,Not Needed,49.99
+T01430,U0910,2024-02-01,Failed,Insufficient Funds,PayPal,1,Failed,99.99
+T01431,U0995,2024-01-26,Success,,UPI,0,Not Needed,49.99
+T01432,U0288,2024-02-29,Success,,UPI,0,Not Needed,14.99
+T01433,U0021,2024-04-16,Failed,Insufficient Funds,Credit Card,1,Failed,99.99
+T01434,U0706,2024-04-03,Success,,Credit Card,0,Not Needed,19.99
+T01435,U0947,2024-03-02,Success,,PayPal,0,Not Needed,99.99
+T01436,U0998,2024-04-11,Failed,Insufficient Funds,UPI,0,Not Attempted,29.99
+T01437,U0336,2024-03-18,Success,,Credit Card,0,Not Needed,99.99
+T01438,U0937,2024-03-18,Failed,Insufficient Funds,Credit Card,0,Not Attempted,19.99
+T01439,U0367,2024-01-14,Success,,UPI,0,Not Needed,99.99
+T01440,U0804,2024-04-13,Success,,UPI,0,Not Needed,14.99
+T01441,U0672,2024-02-07,Success,,Credit Card,0,Not Needed,14.99
+T01442,U0348,2024-04-27,Success,,Credit Card,0,Not Needed,29.99
+T01443,U0024,2024-04-20,Success,,PayPal,0,Not Needed,99.99
+T01444,U0540,2024-02-02,Success,,UPI,0,Not Needed,9.99
+T01445,U0751,2024-04-10,Failed,Card Expired,Credit Card,0,Not Attempted,9.99
+T01446,U0359,2024-05-09,Success,,UPI,0,Not Needed,29.99
+T01447,U0647,2024-03-11,Success,,Credit Card,0,Not Needed,49.99
+T01448,U0412,2024-03-08,Success,,UPI,0,Not Needed,29.99
+T01449,U0530,2024-04-14,Success,,Credit Card,0,Not Needed,29.99
+T01450,U0695,2024-03-05,Success,,Credit Card,0,Not Needed,29.99
+T01451,U0355,2024-03-28,Success,,UPI,0,Not Needed,29.99
+T01452,U0782,2024-04-25,Success,,UPI,0,Not Needed,49.99
+T01453,U0683,2024-03-03,Success,,UPI,0,Not Needed,14.99
+T01454,U0366,2024-02-13,Failed,Gateway Error,UPI,0,Not Attempted,19.99
+T01455,U0286,2024-03-18,Failed,Card Expired,Credit Card,1,Failed,19.99
+T01456,U0390,2024-01-26,Failed,Card Expired,UPI,1,Successful,29.99
+T01457,U0169,2024-05-16,Success,,PayPal,0,Not Needed,29.99
+T01458,U0096,2024-03-25,Failed,Insufficient Funds,PayPal,1,Successful,14.99
+T01459,U0629,2024-04-20,Success,,UPI,0,Not Needed,99.99
+T01460,U0688,2024-04-15,Success,,UPI,0,Not Needed,29.99
+T01461,U0447,2024-04-16,Success,,UPI,0,Not Needed,9.99
+T01462,U0155,2024-02-27,Success,,PayPal,0,Not Needed,29.99
+T01463,U0401,2024-03-16,Success,,Credit Card,0,Not Needed,9.99
+T01464,U0100,2024-02-29,Success,,UPI,0,Not Needed,29.99
+T01465,U0108,2024-02-22,Failed,Gateway Error,PayPal,1,Failed,49.99
+T01466,U0798,2024-03-12,Success,,PayPal,0,Not Needed,14.99
+T01467,U0208,2024-03-21,Success,,UPI,0,Not Needed,14.99
+T01468,U0939,2024-04-08,Success,,Credit Card,0,Not Needed,99.99
+T01469,U0052,2024-04-28,Success,,UPI,0,Not Needed,14.99
+T01470,U0033,2024-03-29,Success,,UPI,0,Not Needed,19.99
+T01471,U0243,2024-04-23,Success,,PayPal,0,Not Needed,14.99
+T01472,U0459,2024-03-27,Failed,Card Expired,Credit Card,1,Successful,9.99
+T01473,U0236,2024-03-04,Success,,PayPal,0,Not Needed,29.99
+T01474,U0100,2024-04-01,Success,,UPI,0,Not Needed,99.99
+T01475,U0582,2024-02-14,Failed,Card Expired,UPI,1,Failed,99.99
+T01476,U0993,2024-01-26,Success,,Credit Card,0,Not Needed,19.99
+T01477,U0826,2024-04-30,Success,,PayPal,0,Not Needed,19.99
+T01478,U0617,2024-03-22,Success,,UPI,0,Not Needed,14.99
+T01479,U0613,2024-01-18,Success,,Credit Card,0,Not Needed,14.99
+T01480,U0834,2024-04-16,Success,,PayPal,0,Not Needed,9.99
+T01481,U0761,2024-02-19,Success,,UPI,0,Not Needed,19.99
+T01482,U0475,2024-04-11,Success,,PayPal,0,Not Needed,9.99
+T01483,U0993,2024-02-14,Success,,Credit Card,0,Not Needed,29.99
+T01484,U0691,2024-03-02,Success,,UPI,0,Not Needed,49.99
+T01485,U0405,2024-02-08,Success,,Credit Card,0,Not Needed,29.99
+T01486,U0625,2024-04-17,Success,,UPI,0,Not Needed,14.99
+T01487,U0479,2024-04-10,Success,,UPI,0,Not Needed,14.99
+T01488,U0176,2024-02-29,Success,,PayPal,0,Not Needed,19.99
+T01489,U0911,2024-04-13,Success,,PayPal,0,Not Needed,19.99
+T01490,U0322,2024-03-04,Success,,PayPal,0,Not Needed,49.99
+T01491,U0645,2024-03-21,Success,,PayPal,0,Not Needed,14.99
+T01492,U0120,2024-03-17,Success,,PayPal,0,Not Needed,29.99
+T01493,U0399,2024-01-27,Success,,UPI,0,Not Needed,29.99
+T01494,U0344,2024-02-18,Success,,UPI,0,Not Needed,49.99
+T01495,U0194,2024-03-04,Success,,PayPal,0,Not Needed,29.99
+T01496,U0923,2024-02-13,Success,,Credit Card,0,Not Needed,99.99
+T01497,U0768,2024-04-02,Success,,Credit Card,0,Not Needed,19.99
+T01498,U0320,2024-03-28,Success,,UPI,0,Not Needed,19.99
+T01499,U0508,2024-03-09,Success,,UPI,0,Not Needed,99.99
+T01500,U0918,2024-03-29,Success,,PayPal,0,Not Needed,29.99
