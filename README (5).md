@@ -12,8 +12,8 @@ This project investigates the *internal, platform-side* causes of that early chu
 - **Natural vs. Preventable Churn:** Which churned users actually got their value and left satisfied — and which were failed by the platform?
 - **Revenue Impact:** What is the quantified cost of inaction, and what does fixing it recover?
 
-> SQL queries for data cleaning and exploration → `[link]`  
-> Targeted business queries → `[link]`
+> [SQL Analysis](sql/Churn-analysis-sql.sql)
+
 
 ---
 
@@ -23,9 +23,9 @@ The analysis uses three tables from Coursera's internal database, totalling **1,
 
 *See the ERD below for the full schema and table relationships.*
 
-![Entity Relationship Diagram](erd_diagram.png)
+![Entity Relationship Diagram](coursera_erd_fixed.svg)
 
-> *Rendered ERD — [view interactive version here](link)*
+
 
 | Table | Key Fields |
 |---|---|
@@ -74,7 +74,7 @@ Using a conservative 20–40% recovery rate on gateway error users (validated ag
 | Moderate | 30% | 17 | 33.3% | ~$1.47M per cohort |
 | Optimistic | 40% | 22 | 32.8% | ~$1.91M per cohort |
 
-> Full model methodology and assumptions → [`churn_reduction_model.md`](link)
+> Full model methodology and assumptions → [churn_reduction_model.md](churn_reduction_model.md)
 
 ---
 
@@ -97,3 +97,5 @@ Using a conservative 20–40% recovery rate on gateway error users (validated ag
 - **Secondary research (Play Store reviews) is directional only.** ~20–30 reviews were used to inform hypothesis generation, not as standalone evidence. Sample size is not statistically representative.
 - **Seasonality is out of scope.** Twelve months of cohort data would be needed to isolate seasonal patterns from structural churn drivers.
 - **External factors excluded.** Competitor pricing changes and free alternatives (e.g. YouTube) are acknowledged contributors but are outside the platform's control and therefore not addressed here.
+
+> [View full analysis approach](analysis_approach.md)
